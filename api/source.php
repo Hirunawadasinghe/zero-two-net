@@ -1,4 +1,5 @@
-<?Php
+<?php
+header('Content-Type: application/json');
 include '_inc/confic.php';
 
 $source_data = [];
