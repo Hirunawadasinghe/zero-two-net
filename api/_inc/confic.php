@@ -1,2 +1,2 @@
 <?php
-$database_path = './database/';
+$database_path = './database';
