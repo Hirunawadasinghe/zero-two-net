@@ -1,2 +1,2 @@
 <?php
-phpinfo();
+file_put_contents('test.txt', 'Hello World!');
