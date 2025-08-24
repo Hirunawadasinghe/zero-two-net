@@ -11,8 +11,11 @@ if (json_last_error() !== JSON_ERROR_NONE) {
 
 $files = scandir($_SERVER['DOCUMENT_ROOT'] . '/subtitle');
 
+$filesArray = [];
 foreach ($files as $file) {
     if ($file !== '.' && $file !== '..') { // skip current and parent directory
         $filesArray[] = $file;
     }
 }
+
+echo json_encode($filesArray);
