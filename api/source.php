@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-include '../_inc/config.php';
+include $_SERVER['DOCUMENT_ROOT'] . '/_inc/config.php';
 
 $source_data = [];
 $parts = [

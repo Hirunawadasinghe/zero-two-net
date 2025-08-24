@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-include '../_inc/config.php';
+include $_SERVER['DOCUMENT_ROOT'] . '/_inc/config.php';
 
 $subtitle_data = json_decode(file_get_contents($database_path . '/subtitle.json'), true);
 if (json_last_error() !== JSON_ERROR_NONE) {

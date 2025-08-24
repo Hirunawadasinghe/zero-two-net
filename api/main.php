@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-include '../_inc/config.php';
+include $_SERVER['DOCUMENT_ROOT'] . '/_inc/config.php';
 
 $parts = [
     '/main/ajax1.json',
