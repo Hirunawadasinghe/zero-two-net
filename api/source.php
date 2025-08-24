@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-include '_inc/confic.php';
+include $_SERVER['DOCUMENT_ROOT'] . '/_inc/confic.php';
 
 $source_data = [];
 $parts = [
