@@ -9,7 +9,6 @@ if (json_last_error() !== JSON_ERROR_NONE) {
     die(json_encode($subtitle_data));
 }
 
-include $_SERVER['DOCUMENT_ROOT'] . '/_inc/encrypt.php';
 $sub_db_path = '/subtitle/';
 $file_expire_time = 60 * 10;
 
@@ -30,7 +29,7 @@ foreach ($subtitle_data['subtitles'] as $e) {
         continue;
     }
     foreach ($e['sub'] as $sub) {
-        $folder_path = '..' . $sub_db_path . $sub['url'];
+        $folder_path = $_SERVER['DOCUMENT_ROOT'] . $sub_db_path . $sub['url'];
         if (!file_exists($folder_path)) {
             continue;
         }
