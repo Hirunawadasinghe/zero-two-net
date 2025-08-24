@@ -65,3 +65,5 @@ foreach ($subtitle_data['subtitles'] as $e) {
         }
     }
 }
+
+echo json_encode($sub_data);
