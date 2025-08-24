@@ -52,7 +52,8 @@ foreach ($subtitle_data['subtitles'] as $e) {
             $sub_data[] = [
                 'author' => get_author($sub['auth']),
                 'language' => isset($subtitle_data['iso_codes'][$sub['lan']]) ? $subtitle_data['iso_codes'][$sub['lan']] : $sub['lan'],
-                'base' => (isset($_SERVER['HTTPS']) ? 'https://' : 'http://') . $_SERVER['HTTP_HOST'] . $sub_db_path . $sub['url'] . '/',
+                'base' => 'https://' . $_SERVER['HTTP_HOST'] . $sub_db_path,
+                'folder' => $sub['url'],
                 'data' => $file_d
             ];
         }
