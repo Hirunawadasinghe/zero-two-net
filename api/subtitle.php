@@ -9,7 +9,7 @@ if (json_last_error() !== JSON_ERROR_NONE) {
     die(json_encode($subtitle_data));
 }
 
-include '../_inc/encrypt.php';
+include $_SERVER['DOCUMENT_ROOT'] . '/_inc/encrypt.php';
 $sub_db_path = '/subtitle/';
 $file_expire_time = 60 * 10;
 
