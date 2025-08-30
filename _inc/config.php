@@ -1,3 +1,5 @@
 <?php
 $database_path = $_SERVER['DOCUMENT_ROOT'] . '/database';
-$encryption_key = 'Wh@t_tha_4k_i$_FemB0y_Me6n';
+$main_site_url = 'https://animojo.infy.uk';
+
+$max_elements = 500;
