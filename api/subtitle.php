@@ -6,11 +6,10 @@ $subtitle_data = json_decode(file_get_contents($database_path . '/subtitle.json'
 if (json_last_error() !== JSON_ERROR_NONE) {
     die(json_encode([]));
 } else if (empty($_GET['id'])) {
-    die(json_encode($subtitle_data));
+    die(json_encode(['data' => $subtitle_data]));
 }
 
 $sub_db_path = '/subtitle/';
-$file_expire_time = 60 * 10;
 
 function get_author($id)
 {
@@ -29,7 +28,7 @@ foreach ($subtitle_data['subtitles'] as $e) {
         continue;
     }
     foreach ($e['sub'] as $sub) {
-        $folder_path = $_SERVER['DOCUMENT_ROOT'] . $sub_db_path . $sub['url'];
+        $folder_path = $_SERVER['DOCUMENT_ROOT'] . '/_db-net/' . $sub_db_path . $sub['url'];
         if (!file_exists($folder_path)) {
             continue;
         }
@@ -53,7 +52,7 @@ foreach ($subtitle_data['subtitles'] as $e) {
                 'author' => get_author($sub['auth']),
                 'lan_code' => $sub['lan'],
                 'language' => isset($subtitle_data['iso_codes'][$sub['lan']]) ? $subtitle_data['iso_codes'][$sub['lan']] : $sub['lan'],
-                'base' => 'https://' . $_SERVER['HTTP_HOST'] . $sub_db_path,
+                'base' => 'http://' . $_SERVER['HTTP_HOST'] . $sub_db_path,
                 'folder' => $sub['url'],
                 'data' => $file_d
             ];
@@ -61,4 +60,4 @@ foreach ($subtitle_data['subtitles'] as $e) {
     }
 }
 
-echo json_encode($sub_data);
+echo json_encode(['data' => $sub_data]);
