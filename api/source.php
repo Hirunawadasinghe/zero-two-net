@@ -2,7 +2,6 @@
 header('Content-Type: application/json');
 include $_SERVER['DOCUMENT_ROOT'] . '/_inc/config.php';
 
-$source_data = [];
 $parts = [
     '/vid-src/bjax0.json',
     '/vid-src/bjax1.json',
@@ -10,11 +9,19 @@ $parts = [
     '/vid-src/bjax3.json',
     '/vid-src/bjax4.json'
 ];
+$db = [];
 foreach ($parts as $p) {
     $d = json_decode(file_get_contents($database_path . $p), true);
     if (json_last_error() === JSON_ERROR_NONE) {
-        $source_data = array_merge($source_data, $d);
+        $db = array_merge($db, $d);
     }
 }
 
-echo json_encode($source_data);
+$page = empty($_GET['page']) ? 1 : max($_GET['page'], 1);
+$r = [];
+for ($i = $page * $max_elements - $max_elements; $i < $max_elements * $page && $i < count($db); $i++) {
+    $r['data'][] = $db[$i];
+}
+$r['next_page'] = $page < count($db) / $max_elements ? $page + 1 : false;
+
+echo json_encode($r);
