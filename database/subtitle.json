@@ -1784,7 +1784,7 @@
                     "url": "sinhala/bubble"
                 },
                 {
-                    "auth": 3,
+                    "auth": 1,
                     "lan": "en",
                     "url": "english/bubble"
                 }
@@ -1813,6 +1813,19 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "english/shikimoris-not-just-a-cutie"
+                }
+            ]
+        },
+        {
+            "id": [
+                "165",
+                "166"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "sinhala/heavenly-delusion"
                 }
             ]
         }
