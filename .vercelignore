@@ -1,9 +1,0 @@
-# Ignore all subtitle files to avoid hitting 250MB limit
-subtitle/**/*.srt
-subtitle/**/*.ass
-subtitle/**/*.ssa
-subtitle/**/*.sub
-subtitle/**/*.vtt
-subtitle/**/*.txt
-subtitle/**/*.dfxp
-subtitle/**/*.xml
