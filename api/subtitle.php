@@ -9,6 +9,21 @@ if (json_last_error() !== JSON_ERROR_NONE) {
     die(json_encode(['data' => $subtitle_data]));
 }
 
+include $_SERVER['DOCUMENT_ROOT'] . '/_inc/php-mega-nz-api-master/src/Mega.php';
+
+// --- Configuration ---
+$megaEmail = 'your_mega_email@example.com';
+$megaPassword = 'your_mega_password';
+$megaFolderId = 'YOUR_MEGA_FOLDER_ID'; // folder containing subtitle files
+
+// --- Connect to MEGA ---
+$mega = new Mega();
+try {
+    $mega->login($megaEmail, $megaPassword);
+} catch (Exception $e) {
+    die(json_encode(['error' => 'Failed to login to MEGA: ' . $e->getMessage()]));
+}
+
 $sub_db_path = '/subtitle/';
 
 function get_author($id)
@@ -22,37 +37,35 @@ function get_author($id)
     return 'Unknown';
 }
 
+// --- Build subtitle data from MEGA ---
 $sub_data = [];
 foreach ($subtitle_data['subtitles'] as $e) {
-    if (!in_array($_GET['id'], $e['id'])) {
-        continue;
-    }
+    if (!in_array($_GET['id'], $e['id'])) continue;
+
     foreach ($e['sub'] as $sub) {
-        $folder_path = $_SERVER['DOCUMENT_ROOT'] . $sub_db_path . $sub['url'];
-        if (!file_exists($folder_path)) {
-            continue;
-        }
+        $folder = $mega->getFolder($megaFolderId . '/' . $sub['url']);
+        $files = $folder->getFiles();
+        if (!$files) continue;
+
         $file_d = [];
-        $files = glob($folder_path . '/*');
         foreach ($files as $file) {
-            if (!in_array(pathinfo($file, PATHINFO_EXTENSION), ['srt', 'ass', 'ssa', 'sub', 'vtt', 'txt', 'dfxp', 'xml'])) {
-                continue;
-            }
-            $t = explode('/', $file);
+            $ext = pathinfo($file->getName(), PATHINFO_EXTENSION);
+            if (!in_array(strtolower($ext), ['srt', 'ass', 'ssa', 'sub', 'vtt', 'txt', 'dfxp', 'xml'])) continue;
+
             $file_d[] = [
-                'date' => filectime($file),
-                'file' => basename($file)
+                'date' => strtotime($file->getCreatedTime()), // MEGA file creation time
+                'file' => $file->getName(),
+                'url' => $file->getUrl() // public MEGA link
             ];
         }
+
         if (count($file_d) > 0) {
-            usort($file_d, function ($a, $b) {
-                return strnatcmp($b['file'], $a['file']);
-            });
+            usort($file_d, fn($a, $b) => strnatcmp($b['file'], $a['file']));
             $sub_data[] = [
                 'author' => get_author($sub['auth']),
                 'lan_code' => $sub['lan'],
-                'language' => isset($subtitle_data['iso_codes'][$sub['lan']]) ? $subtitle_data['iso_codes'][$sub['lan']] : $sub['lan'],
-                'base' => 'http://' . $_SERVER['HTTP_HOST'] . $sub_db_path,
+                'language' => $subtitle_data['iso_codes'][$sub['lan']] ?? $sub['lan'],
+                'base' => 'https://mega.nz/folder/', // MEGA base folder URL
                 'folder' => $sub['url'],
                 'data' => $file_d
             ];
