@@ -1,5 +1,5 @@
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/_db-net/_inc/config.php';
+include 'config.php';
 
 $B2_ACCOUNT_ID = 'c19d497449af';
 $B2_APP_KEY = '003569faa53cbb929971bf6948b83010350d5e4a28';
