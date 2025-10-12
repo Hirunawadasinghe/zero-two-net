@@ -1,0 +1,16 @@
+{
+  "name": "zero-two-net",
+  "version": "1.0.0",
+  "description": "Zero Two - NET",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/generate_file_List.js && vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
