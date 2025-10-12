@@ -452,44 +452,39 @@
     },
     {
         "movie_id": "13",
-        "mal_id": 35849,
-        "name": "Darling in the FranXX",
-        "alt_name": "Darling in the FranXX",
-        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1614\/90408.jpg",
+        "mal_id": 269,
+        "name": "Bleach",
+        "alt_name": "Bleach",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
         "images": {
             "jpg": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1614\/90408.jpg",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1614\/90408t.jpg",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1614\/90408l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/147774t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
             },
             "webp": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1614\/90408.webp",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1614\/90408t.webp",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1614\/90408l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1541/147774.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/147774t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/147774l.webp"
             }
         },
-        "trailer": "cJ6g_6Ud0s8",
-        "description": "In the distant future, humanity has been driven to near-extinction by giant beasts known as Klaxosaurs, forcing the surviving humans to take refuge in massive fortress cities called Plantations. Children raised here are trained to pilot giant mechas known as FranXX\u2014the only weapons known to be effective against the Klaxosaurs\u2014in boy-girl pairs. Bred for the sole purpose of piloting these machines, these children know nothing of the outside world and are only able to prove their existence by defending their race. \n\nHiro, an aspiring FranXX pilot, has lost his motivation and self-confidence after failing an aptitude test. Skipping out on his class' graduation ceremony, Hiro retreats to a forest lake, where he encounters a mysterious girl with two horns growing out of her head. She introduces herself by her codename Zero Two, which is known to belong to an infamous FranXX pilot known as the \"Partner Killer.\" Before Hiro can digest the encounter, the Plantation is rocked by a sudden Klaxosaur attack. Zero Two engages the creature in her FranXX, but it is heavily damaged in the skirmish and crashes near Hiro. Finding her partner dead, Zero Two invites Hiro to pilot the mecha with her, and the duo easily defeats the Klaxosaur in the ensuing fight. With a new partner by his side, Hiro has been given a chance at redemption for his past failures, but at what cost?\n\n[Written by MAL Rewrite]",
-        "language": "English",
+        "trailer": "0yk5H6vvfG4",
+        "description": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result.\n\nHowever, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world.\n\n[Written by MAL Rewrite]",
+        "language": "Dual Audio",
         "type": "TV",
-        "release_year": "Jan 13, 2018",
-        "season": "winter",
+        "release_year": "Oct 5, 2004",
+        "season": "fall",
         "tags": [
             "Action",
-            "Drama",
-            "Romance",
-            "Sci-Fi",
-            "Mecha"
+            "Adventure",
+            "Supernatural"
         ],
-        "episodes": 24,
+        "episodes": 366,
         "duration": "24 min per ep",
         "studios": [
-            "A-1 Pictures",
-            "Trigger",
-            "CloverWorks"
+            "Studio Pierrot"
         ],
-        "rating": "PG-13 - Teens 13 or older",
-        "dmca": true
+        "rating": "PG-13 - Teens 13 or older"
     },
     {
         "movie_id": "14",
@@ -511,7 +506,7 @@
         },
         "trailer": "3KR8_igDs1Y",
         "description": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo\u2014a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo\u2014but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\n\n[Written by MAL Rewrite]",
-        "language": "English",
+        "language": "Dual Audio",
         "type": "Movie",
         "release_year": "Aug 26, 2016",
         "season": null,
@@ -547,7 +542,7 @@
         },
         "trailer": "3KR8_igDs1Y",
         "description": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo\u2014a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo\u2014but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\n\n[Written by MAL Rewrite]",
-        "language": "Japanese",
+        "language": "Sinhala",
         "type": "Movie",
         "release_year": "Aug 26, 2016",
         "season": null,
@@ -701,7 +696,7 @@
         },
         "trailer": "Q6iK6DjV_iE",
         "description": "Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself\u2014ending up with a job at a small-time publisher. At the same time, the orphaned Hina Amano also strives to find work to sustain herself and her younger brother.\n\nBoth fates intertwine when Hodaka attempts to rescue Hina from shady men, deciding to run away together. Subsequently, Hodaka discovers that Hina has a strange yet astounding power: the ability to call out the sun whenever she prays for it. With Tokyo's unusual weather in mind, Hodaka sees the potential of this ability. He suggests that Hina should become a \"sunshine girl\"\u2014someone who will clear the sky for people when they need it the most.\n\nThings begin looking up for them at first. However, it is common knowledge that power always comes with a hefty price...\n\n[Written by MAL Rewrite]",
-        "language": "Japanese",
+        "language": "Dual Audio",
         "type": "Movie",
         "release_year": " Jul 19, 2019",
         "season": null,
@@ -12475,7 +12470,7 @@
         },
         "trailer": "W71mtorCZDw",
         "description": "Deep in the countryside, a man named Okina works as a bamboo cutter in a forest, chopping away at the hollow plants day after day. One day, he discovers a small baby inside a glowing shoot. He immediately takes her home, convinced that she is a princess sent to Earth as a divine blessing from heaven. Okina and his wife Ouna take it upon themselves to raise the infant as their own, watching over her as she quickly grows into an energetic young girl. Given the name Kaguya, she fits right in with the village she has come to call home, going on adventures with the other children and enjoying what youth has to offer.\n\nBut when Okina finds a large fortune of gold and treasure in the forest, Kaguya's life is completely changed. Believing this to be yet another gift from heaven, he takes it upon himself to turn his daughter into a real princess using the wealth he has just obtained, relocating the family to a mansion in the capital. As she leaves her friends behind to enter into an unwanted life of royalty, Kaguya's origins and purpose slowly come to light.\n\n[Written by MAL Rewrite]",
-        "language": "Japanese",
+        "language": "Dual Audio",
         "type": "Movie",
         "release_year": "Nov 23, 2013",
         "season": null,
@@ -12512,7 +12507,7 @@
         },
         "trailer": "W71mtorCZDw",
         "description": "Deep in the countryside, a man named Okina works as a bamboo cutter in a forest, chopping away at the hollow plants day after day. One day, he discovers a small baby inside a glowing shoot. He immediately takes her home, convinced that she is a princess sent to Earth as a divine blessing from heaven. Okina and his wife Ouna take it upon themselves to raise the infant as their own, watching over her as she quickly grows into an energetic young girl. Given the name Kaguya, she fits right in with the village she has come to call home, going on adventures with the other children and enjoying what youth has to offer.\n\nBut when Okina finds a large fortune of gold and treasure in the forest, Kaguya's life is completely changed. Believing this to be yet another gift from heaven, he takes it upon himself to turn his daughter into a real princess using the wealth he has just obtained, relocating the family to a mansion in the capital. As she leaves her friends behind to enter into an unwanted life of royalty, Kaguya's origins and purpose slowly come to light.\n\n[Written by MAL Rewrite]",
-        "language": "English",
+        "language": "Sinhala",
         "type": "Movie",
         "release_year": "Nov 23, 2013",
         "season": null,
