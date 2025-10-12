@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-include $_SERVER['DOCUMENT_ROOT'] . '/_db-net/_inc/b2-function.php';
+include $_SERVER['DOCUMENT_ROOT'] . '/_inc/b2-function.php';
 
 $selected_id = empty($_GET['id']) ? null : $_GET['id'];
 $subtitle_data = json_decode(file_get_contents($database_path . '/subtitle.json'), true);
