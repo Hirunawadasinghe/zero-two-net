@@ -13,7 +13,19 @@ function getFiles(dir, files = []) {
   return files;
 }
 
-const allFiles = getFiles("./subtitle");
-writeFileSync("./database/file_list.json", JSON.stringify(allFiles));
+const allFiles = getFiles("./dist/subtitle");
+writeFileSync("./dist/database/file_list.json", JSON.stringify(allFiles));
+
+const TELEGRAM_TOKEN = "8408589149:AAHtCvNCvJqCDMCOd7A_7opOz6Od6L8dpGM";
+const TELEGRAM_API = `https://api.telegram.org/bot${TELEGRAM_TOKEN}`;
+const admin_chat = '5922865116';
+await fetch(`${TELEGRAM_API}/sendMessage`, {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({
+    chat_id: admin_chat,
+    text: `done`
+  })
+});
 
 console.log("File list generated.");
