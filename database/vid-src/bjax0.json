@@ -1,29 +1,29 @@
 [
     {
-        "movie_id": "h2",
-        "link": [
-            {
+        "id": "h2",
+        "ep": {
+            "1": {
                 "RPMShare": "https://animearcadia.rpmvip.com/#6p3pm",
                 "Streamwish": "https://hgbazooka.com/e/628fnh8g10yd"
             }
-        ]
+        }
     },
     {
-        "movie_id": "h3",
-        "link": [
-            {
+        "id": "h3",
+        "ep": {
+            "1": {
                 "RPMShare": "https://animearcadia.rpmvip.com/#tcxmt",
                 "Streamwish": "https://hgbazooka.com/e/5acgs9ohze9f"
             }
-        ]
+        }
     },
     {
-        "movie_id": "h4",
-        "link": [
-            {
+        "id": "h4",
+        "ep": {
+            "1": {
                 "RPMShare": "https://animearcadia.rpmvip.com/#w5f9b",
                 "Streamwish": "https://hgbazooka.com/e/ml8r9qv505f9"
             }
-        ]
+        }
     }
 ]
