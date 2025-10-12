@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-include $_SERVER['DOCUMENT_ROOT'] . '/_db-net/_inc/b2-function.php';
+include $_SERVER['DOCUMENT_ROOT'] . '/_inc/b2-function.php';
 
 $file_path = empty($_GET['f']) ? null : $_GET['f'];
 if (!$file_path)
