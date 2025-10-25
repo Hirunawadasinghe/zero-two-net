@@ -14,6 +14,8 @@ function b2_authorize()
     $ch = curl_init('https://api.backblazeb2.com/b2api/v2/b2_authorize_account');
     curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: Basic ' . $auth_encoded]);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
     $res = json_decode(curl_exec($ch), true);
     curl_close($ch);
 
@@ -31,6 +33,8 @@ function b2_get_bucket_id($api_url, $auth_token)
     curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: ' . $auth_token]);
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode(['accountId' => $B2_ACCOUNT_ID]));
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
     $res = json_decode(curl_exec($ch), true);
     curl_close($ch);
 
@@ -45,16 +49,34 @@ function b2_get_bucket_id($api_url, $auth_token)
 // === LIST FILES IN A FOLDER ===
 function b2_list_files($api_url, $auth_token, $bucket_id, $prefix)
 {
-    $ch = curl_init($api_url . '/b2api/v2/b2_list_file_names');
-    $post_data = [
-        'bucketId' => $bucket_id,
-        'prefix' => rtrim($prefix, '/') . '/',
-        'maxFileCount' => 100
-    ];
-    curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: ' . $auth_token]);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($post_data));
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    $res = json_decode(curl_exec($ch), true);
-    curl_close($ch);
-    return $res['files'] ?? [];
+    $all_files = [];
+    $startFileName = null;
+
+    do {
+        $post_data = [
+            'bucketId' => $bucket_id,
+            'prefix' => rtrim($prefix, '/') . '/',
+            'maxFileCount' => 1000  // Max allowed by B2
+        ];
+        if ($startFileName)
+            $post_data['startFileName'] = $startFileName;
+
+        $ch = curl_init($api_url . '/b2api/v2/b2_list_file_names');
+        curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: ' . $auth_token]);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($post_data));
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+
+        $res = json_decode(curl_exec($ch), true);
+        curl_close($ch);
+
+        if (isset($res['files'])) {
+            $all_files = array_merge($all_files, $res['files']);
+        }
+
+        $startFileName = $res['nextFileName'] ?? null;
+    } while ($startFileName);
+
+    return $all_files;
 }
