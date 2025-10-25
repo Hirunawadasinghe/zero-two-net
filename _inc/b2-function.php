@@ -14,14 +14,13 @@ function b2_authorize()
     $ch = curl_init('https://api.backblazeb2.com/b2api/v2/b2_authorize_account');
     curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: Basic ' . $auth_encoded]);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
     $res = json_decode(curl_exec($ch), true);
     curl_close($ch);
 
     if (empty($res['apiUrl'])) {
         return null;
     }
+    echo "b2 auth: " . json_encode($res) . "\n";
     return $res;
 }
 
@@ -33,13 +32,12 @@ function b2_get_bucket_id($api_url, $auth_token)
     curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: ' . $auth_token]);
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode(['accountId' => $B2_ACCOUNT_ID]));
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
     $res = json_decode(curl_exec($ch), true);
     curl_close($ch);
 
     foreach ($res['buckets'] as $b) {
         if ($b['bucketName'] === $B2_BUCKET_NAME) {
+            echo "bucketId: " . $b['bucketId'] . "\n";
             return $b['bucketId'];
         }
     }
@@ -65,8 +63,6 @@ function b2_list_files($api_url, $auth_token, $bucket_id, $prefix)
         curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: ' . $auth_token]);
         curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($post_data));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
 
         $res = json_decode(curl_exec($ch), true);
         curl_close($ch);
@@ -78,5 +74,6 @@ function b2_list_files($api_url, $auth_token, $bucket_id, $prefix)
         $startFileName = $res['nextFileName'] ?? null;
     } while ($startFileName);
 
+    echo "all files: " . json_encode($all_files) . "\n";
     return $all_files;
 }
