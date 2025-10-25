@@ -36,12 +36,9 @@ foreach ($subtitle_data['subtitles'] as $e) {
     if (!in_array($selected_id, $e['id']))
         continue;
 
-    echo 'element found<br>';
-
     foreach ($e['sub'] as $sub) {
         $lang_folder = strtolower($subtitle_data['iso_codes'][$sub['lan']]) . '/' . $sub['url'];
         $files = b2_list_files($auth['apiUrl'], $auth_token, $bucket_id, $lang_folder);
-        echo 'b2 files: ' . json_encode($files) . '<br>';
 
         $file_d = [];
         foreach ($files as $file) {
