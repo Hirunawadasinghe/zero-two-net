@@ -18,7 +18,6 @@ if (!file_exists($inc_path)) {
 include $inc_path;
 
 // 🔹 Define database path safely
-$database_path = $_SERVER['DOCUMENT_ROOT'] . '/data'; // change if your subtitle.json lives elsewhere
 $file_path = $database_path . '/subtitle.json';
 
 debug_log('Database path: ' . $database_path);
@@ -73,8 +72,8 @@ function get_author($id, $subtitle_data)
 
 $sub_data = [];
 foreach ($subtitle_data['subtitles'] as $e) {
-    // fixed check
-    if ($e['id'] !== $selected_id) continue;
+    if (!in_array($selected_id, $e['id']))
+        continue;
 
     debug_log(['matching_subtitle' => $e]);
 
