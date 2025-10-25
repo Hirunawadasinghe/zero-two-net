@@ -20,7 +20,6 @@ function b2_authorize()
     if (empty($res['apiUrl'])) {
         return null;
     }
-    echo "b2 auth: " . json_encode($res) . "\n";
     return $res;
 }
 
@@ -37,7 +36,6 @@ function b2_get_bucket_id($api_url, $auth_token)
 
     foreach ($res['buckets'] as $b) {
         if ($b['bucketName'] === $B2_BUCKET_NAME) {
-            echo "bucketId: " . $b['bucketId'] . "\n";
             return $b['bucketId'];
         }
     }
@@ -53,9 +51,11 @@ function b2_list_files($api_url, $auth_token, $bucket_id, $prefix)
     do {
         $post_data = [
             'bucketId' => $bucket_id,
-            'prefix' => rtrim($prefix, '/') . '/',
             'maxFileCount' => 1000  // Max allowed by B2
         ];
+        if (!empty($prefix)) {
+            $post_data['prefix'] = rtrim($prefix, '/') . '/';
+        }
         if ($startFileName)
             $post_data['startFileName'] = $startFileName;
 
