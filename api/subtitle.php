@@ -11,14 +11,14 @@ function debug_log($msg) {
 }
 
 // 🔹 Safer include (DOCUMENT_ROOT may not work on Vercel)
-$inc_path = __DIR__ . '/_inc/b2-function.php';
+$inc_path = $_SERVER['DOCUMENT_ROOT'] . '/_inc/b2-function.php';
 if (!file_exists($inc_path)) {
     die(json_encode(['status' => false, 'msg' => 'Include file not found', 'path' => $inc_path]));
 }
 include $inc_path;
 
 // 🔹 Define database path safely
-$database_path = __DIR__ . '/data'; // change if your subtitle.json lives elsewhere
+$database_path = $_SERVER['DOCUMENT_ROOT'] . '/data'; // change if your subtitle.json lives elsewhere
 $file_path = $database_path . '/subtitle.json';
 
 debug_log('Database path: ' . $database_path);
