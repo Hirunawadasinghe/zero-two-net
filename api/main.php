@@ -5,7 +5,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/_inc/config.php';
 $parts = [
     '/main/ajax0.json',
     '/main/ajax1.json',
-    '/main/ajax2.json'
+    '/main/ajax2.json',
+    '/main/ajax3.json'
 ];
 $db = [];
 foreach ($parts as $p) {
