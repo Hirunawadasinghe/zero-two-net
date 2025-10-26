@@ -45,7 +45,6 @@ function b2_get_bucket_id($api_url, $auth_token)
 // === LIST FILES IN A FOLDER ===
 function b2_list_files($api_url, $auth_token, $bucket_id, $prefix)
 {
-    echo $api_url . "\n" . $auth_token . "\n" . $bucket_id . "\n" . $prefix . "\n\n";
     $all_files = [];
     $startFileName = null;
 
