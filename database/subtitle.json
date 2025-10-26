@@ -23,6 +23,10 @@
         {
             "id": 6,
             "name": "Kazuma Satou"
+        },
+        {
+            "id": 7,
+            "name": "Chamidu Kushantha"
         }
     ],
     "iso_codes": {
@@ -168,7 +172,7 @@
         "sr": "Serbian",
         "sn": "Shona",
         "sd": "Sindhi",
-        "si": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd\u200b",
+        "si": "Sinhala",
         "sk": "Slovak",
         "sl": "Slovenian",
         "so": "Somali",
@@ -221,12 +225,12 @@
                 {
                     "auth": 1,
                     "lan": "si",
-                    "url": "sinhala/solo-leveling-s2"
+                    "url": "solo-leveling-s2"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/solo-leveling-s2"
+                    "url": "solo-leveling-s2"
                 }
             ]
         },
@@ -239,12 +243,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/naruto"
+                    "url": "naruto"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/naruto"
+                    "url": "naruto"
                 }
             ]
         },
@@ -257,12 +261,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/hunter-x-hunter-2011"
+                    "url": "hunter-x-hunter-2011"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/hunter-x-hunter-2011"
+                    "url": "hunter-x-hunter-2011"
                 }
             ]
         },
@@ -275,7 +279,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/solo-leveling-s1"
+                    "url": "solo-leveling-s1"
                 }
             ]
         },
@@ -288,12 +292,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/wind-breaker-s1"
+                    "url": "wind-breaker-s1"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/wind-breaker-s1"
+                    "url": "wind-breaker-s1"
                 }
             ]
         },
@@ -305,7 +309,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/wind-breaker-s2"
+                    "url": "wind-breaker-s2"
                 }
             ]
         },
@@ -317,7 +321,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/aot-final-season-p1"
+                    "url": "aot-final-season-p1"
                 }
             ]
         },
@@ -329,7 +333,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/aot-final-season-p2"
+                    "url": "aot-final-season-p2"
                 }
             ]
         },
@@ -342,7 +346,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/attack-on-titan-final-season-the-final-chapters"
+                    "url": "attack-on-titan-final-season-the-final-chapters"
                 }
             ]
         },
@@ -355,7 +359,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/death-note"
+                    "url": "death-note"
                 }
             ]
         },
@@ -368,12 +372,12 @@
                 {
                     "auth": 1,
                     "lan": "si",
-                    "url": "sinhala/please-put-them-on-takamine-san"
+                    "url": "please-put-them-on-takamine-san"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/please-put-them-on-takamine-san"
+                    "url": "please-put-them-on-takamine-san"
                 }
             ]
         },
@@ -385,7 +389,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/sakamoto-days-s1"
+                    "url": "sakamoto-days-s1"
                 }
             ]
         },
@@ -398,7 +402,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/demon-slayer-s1"
+                    "url": "demon-slayer-s1"
                 }
             ]
         },
@@ -411,7 +415,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/demon-slayer-s2-eda"
+                    "url": "demon-slayer-s2-eda"
                 }
             ]
         },
@@ -424,7 +428,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/demon-slayer-s3"
+                    "url": "demon-slayer-s3"
                 }
             ]
         },
@@ -437,7 +441,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/demon-slayer-s4"
+                    "url": "demon-slayer-s4"
                 }
             ]
         },
@@ -449,12 +453,12 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/devil-may-cry-remake"
+                    "url": "devil-may-cry-remake"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/devil-may-cry-remake"
+                    "url": "devil-may-cry-remake"
                 }
             ]
         },
@@ -467,12 +471,12 @@
                 {
                     "auth": 1,
                     "lan": "si",
-                    "url": "sinhala/a-day-before-us-s1"
+                    "url": "a-day-before-us-s1"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/a-day-before-us-s1"
+                    "url": "a-day-before-us-s1"
                 }
             ]
         },
@@ -484,7 +488,7 @@
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/a-day-before-us-s2"
+                    "url": "a-day-before-us-s2"
                 }
             ]
         },
@@ -497,7 +501,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/tokyo-ghoul-s1"
+                    "url": "tokyo-ghoul-s1"
                 }
             ]
         },
@@ -510,7 +514,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/jujutsu-kaisen-s1"
+                    "url": "jujutsu-kaisen-s1"
                 }
             ]
         },
@@ -523,7 +527,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/jujutsu-kaisen-s2"
+                    "url": "jujutsu-kaisen-s2"
                 }
             ]
         },
@@ -536,7 +540,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/jujustu-kaisen-0"
+                    "url": "jujustu-kaisen-0"
                 }
             ]
         },
@@ -548,7 +552,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/one-piece"
+                    "url": "one-piece"
                 }
             ]
         },
@@ -560,7 +564,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/lazarus"
+                    "url": "lazarus"
                 }
             ]
         },
@@ -573,12 +577,12 @@
                 {
                     "auth": 1,
                     "lan": "si",
-                    "url": "sinhala/dandadan-s2"
+                    "url": "dandadan-s2"
                 },
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/dandadan-s2-lw"
+                    "url": "dandadan-s2-lw"
                 }
             ]
         },
@@ -590,7 +594,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/86-eighty-six"
+                    "url": "86-eighty-six"
                 }
             ]
         },
@@ -602,7 +606,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/blue-eye-samurai"
+                    "url": "blue-eye-samurai"
                 }
             ]
         },
@@ -614,7 +618,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/terminator-zero"
+                    "url": "terminator-zero"
                 }
             ]
         },
@@ -626,12 +630,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/daily-life-of-the-immortal-king-s1"
+                    "url": "daily-life-of-the-immortal-king-s1"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/daily-life-of-the-immortal-king-s1"
+                    "url": "daily-life-of-the-immortal-king-s1"
                 }
             ]
         },
@@ -644,7 +648,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/haikyu-s1"
+                    "url": "haikyu-s1"
                 }
             ]
         },
@@ -656,12 +660,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/daily-life-of-the-immortal-king-s2"
+                    "url": "daily-life-of-the-immortal-king-s2"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/daily-life-of-the-immortal-king-s2"
+                    "url": "daily-life-of-the-immortal-king-s2"
                 }
             ]
         },
@@ -673,7 +677,7 @@
                 {
                     "auth": 1,
                     "lan": "si",
-                    "url": "sinhala/boku-no-pico"
+                    "url": "boku-no-pico"
                 }
             ]
         },
@@ -685,7 +689,7 @@
                 {
                     "auth": 1,
                     "lan": "si",
-                    "url": "sinhala/pico-to-chico"
+                    "url": "pico-to-chico"
                 }
             ]
         },
@@ -697,7 +701,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/pico-x-coco-x-chico"
+                    "url": "pico-x-coco-x-chico"
                 }
             ]
         },
@@ -709,12 +713,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/daily-life-of-the-immortal-king-s3"
+                    "url": "daily-life-of-the-immortal-king-s3"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/daily-life-of-the-immortal-king-s3"
+                    "url": "daily-life-of-the-immortal-king-s3"
                 }
             ]
         },
@@ -726,12 +730,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/daily-life-of-the-immortal-king-s4"
+                    "url": "daily-life-of-the-immortal-king-s4"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/daily-life-of-the-immortal-king-s4"
+                    "url": "daily-life-of-the-immortal-king-s4"
                 }
             ]
         },
@@ -743,7 +747,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/demon-slayer-infinity-castle"
+                    "url": "demon-slayer-infinity-castle"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "demon-slayer-infinity-castle"
                 }
             ]
         },
@@ -755,7 +764,7 @@
                 {
                     "auth": 5,
                     "lan": "si",
-                    "url": "sinhala/tales-of-herding-gods"
+                    "url": "tales-of-herding-gods"
                 }
             ]
         },
@@ -767,7 +776,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/vinland-saga-s1"
+                    "url": "vinland-saga-s1"
                 }
             ]
         },
@@ -780,7 +789,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/a-silent-voice"
+                    "url": "a-silent-voice"
                 }
             ]
         },
@@ -792,7 +801,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/one-piece-film-red"
+                    "url": "one-piece-film-red"
                 }
             ]
         },
@@ -805,7 +814,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/blue-lock-s1"
+                    "url": "blue-lock-s1"
                 }
             ]
         },
@@ -817,12 +826,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/the-all-devouring-whale-homecoming"
+                    "url": "the-all-devouring-whale-homecoming"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/the-all-devouring-whale-homecoming"
+                    "url": "the-all-devouring-whale-homecoming"
                 }
             ]
         },
@@ -834,168 +843,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/vinland-saga-s2"
+                    "url": "vinland-saga-s2"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/vinland-saga-s2"
-                }
-            ]
-        },
-        {
-            "id": [
-                "964"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/9-rulers-crown"
-                }
-            ]
-        },
-        {
-            "id": [
-                "927"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/a-couple-of-cuckoos-s2"
-                }
-            ]
-        },
-        {
-            "id": [
-                "907"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin"
-                }
-            ]
-        },
-        {
-            "id": [
-                "971"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/april-showers-bring-may-flowers"
-                }
-            ]
-        },
-        {
-            "id": [
-                "970"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/arknights-rise-from-ember"
-                }
-            ]
-        },
-        {
-            "id": [
-                "966"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/bad-girl"
-                }
-            ]
-        },
-        {
-            "id": [
-                "969"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/betrothed-to-my-sisters-ex"
-                }
-            ]
-        },
-        {
-            "id": [
-                "958"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/binan-koukou-chikyuu-bouei-bu-haikara"
-                }
-            ]
-        },
-        {
-            "id": [
-                "889"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/call-of-the-night-s2"
-                }
-            ]
-        },
-        {
-            "id": [
-                "912"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/chuhai-lips"
-                }
-            ]
-        },
-        {
-            "id": [
-                "960"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/city-the-animation"
-                }
-            ]
-        },
-        {
-            "id": [
-                "940"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/clevatess"
-                }
-            ]
-        },
-        {
-            "id": [
-                "961"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/cultural-exchange-with-a-game-centre-girl"
+                    "url": "vinland-saga-s2"
                 }
             ]
         },
@@ -1007,31 +860,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/dealing-with-mikadono-sisters-is-a-breeze"
-                }
-            ]
-        },
-        {
-            "id": [
-                "909"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/dekin-no-mogura-the-earthbound-mole"
-                }
-            ]
-        },
-        {
-            "id": [
-                "948"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/detectives-these-days-are-crazy"
+                    "url": "dealing-with-mikadono-sisters-is-a-breeze"
                 }
             ]
         },
@@ -1043,19 +872,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/dr-stone-science-future-p2"
-                }
-            ]
-        },
-        {
-            "id": [
-                "968"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/fermat-no-ryouri"
+                    "url": "dr-stone-science-future-p2"
                 }
             ]
         },
@@ -1067,19 +884,7 @@
                 {
                     "auth": 1,
                     "lan": "si",
-                    "url": "sinhala/gachiakuta"
-                }
-            ]
-        },
-        {
-            "id": [
-                "974"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/ginga-tokkyuu-milkysubway"
+                    "url": "gachiakuta"
                 }
             ]
         },
@@ -1091,79 +896,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/grand-blue-dreaming-s2"
-                }
-            ]
-        },
-        {
-            "id": [
-                "942"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/harmony-of-mille-feuille"
-                }
-            ]
-        },
-        {
-            "id": [
-                "979"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/hell-teacher-jigoku-sensei-nube"
-                }
-            ]
-        },
-        {
-            "id": [
-                "910"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/hotel-inhumans"
-                }
-            ]
-        },
-        {
-            "id": [
-                "981"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/i-was-reincarnated-as-the-7th-prince-s2"
-                }
-            ]
-        },
-        {
-            "id": [
-                "972"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/kamitsubaki-city-under-construction"
-                }
-            ]
-        },
-        {
-            "id": [
-                "990"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/lets-go-karaoke"
+                    "url": "grand-blue-dreaming-s2"
                 }
             ]
         },
@@ -1175,19 +908,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/lord-of-mysteries"
-                }
-            ]
-        },
-        {
-            "id": [
-                "993"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/mr-osomatsu-s4"
+                    "url": "lord-of-mysteries"
                 }
             ]
         },
@@ -1199,43 +920,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/my-dress-up-darling-s2"
-                }
-            ]
-        },
-        {
-            "id": [
-                "956"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/necronomico-and-the-cosmic-horror-show"
-                }
-            ]
-        },
-        {
-            "id": [
-                "946"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/new-panty-stocking-with-garterbelt"
-                }
-            ]
-        },
-        {
-            "id": [
-                "943"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/new-saga"
+                    "url": "my-dress-up-darling-s2"
                 }
             ]
         },
@@ -1247,103 +932,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/nukitashi-the-animation"
-                }
-            ]
-        },
-        {
-            "id": [
-                "962"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/nyaight-of-the-living-cat"
-                }
-            ]
-        },
-        {
-            "id": [
-                "978"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/onmyo-kaiten-rebirth-verse"
-                }
-            ]
-        },
-        {
-            "id": [
-                "965"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/private-tutor-to-the-dukes-daughter"
-                }
-            ]
-        },
-        {
-            "id": [
-                "939"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/pyramid-game"
-                }
-            ]
-        },
-        {
-            "id": [
-                "917"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/rascal-does-not-dream-of-santa-claus"
-                }
-            ]
-        },
-        {
-            "id": [
-                "902"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/reborn-as-a-vending-machine-i-now-wander-the-dungeon-s2"
-                }
-            ]
-        },
-        {
-            "id": [
-                "925"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/rent-a-girlfriend-s4"
-                }
-            ]
-        },
-        {
-            "id": [
-                "963"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/ruri-rocks"
+                    "url": "nukitashi-the-animation"
                 }
             ]
         },
@@ -1355,55 +944,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/sakamoto-days-p2"
-                }
-            ]
-        },
-        {
-            "id": [
-                "911"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/scooped-up-by-an-s-ranked-adventurer"
-                }
-            ]
-        },
-        {
-            "id": [
-                "920"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/secrets-of-the-silent-witch"
-                }
-            ]
-        },
-        {
-            "id": [
-                "903"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/see-you-tomorrow-at-the-food-court"
-                }
-            ]
-        },
-        {
-            "id": [
-                "973"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/solo-camping-for-two"
+                    "url": "sakamoto-days-p2"
                 }
             ]
         },
@@ -1415,67 +956,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/the-fragrant-flower-blooms-with-dignity"
-                }
-            ]
-        },
-        {
-            "id": [
-                "982"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/the-rising-of-the-shield-hero-s4"
-                }
-            ]
-        },
-        {
-            "id": [
-                "967"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/the-shy-hero-and-the-assassin-princesses"
-                }
-            ]
-        },
-        {
-            "id": [
-                "899"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/the-summer-hikaru-died"
-                }
-            ]
-        },
-        {
-            "id": [
-                "935"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/the-water-magician"
-                }
-            ]
-        },
-        {
-            "id": [
-                "904"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/theres-no-freaking-way-ill-be-your-lover-unless"
+                    "url": "the-fragrant-flower-blooms-with-dignity"
                 }
             ]
         },
@@ -1488,19 +969,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/to-be-hero-x"
-                }
-            ]
-        },
-        {
-            "id": [
-                "957"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/toilet-bound-hanako-kun-s2-p2"
+                    "url": "to-be-hero-x"
                 }
             ]
         },
@@ -1512,84 +981,12 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/tougen-anki-lw"
+                    "url": "tougen-anki-lw"
                 },
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/tougen-anki"
-                }
-            ]
-        },
-        {
-            "id": [
-                "926"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/turkey-time-to-strike"
-                }
-            ]
-        },
-        {
-            "id": [
-                "908"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/uglymug-epicfighter"
-                }
-            ]
-        },
-        {
-            "id": [
-                "913"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/watari-kuns-is-about-to-collapse"
-                }
-            ]
-        },
-        {
-            "id": [
-                "975"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/welcome-to-the-outcasts-restaurant"
-                }
-            ]
-        },
-        {
-            "id": [
-                "977"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/with-vengeance-sincerely-your-broken-saintess"
-                }
-            ]
-        },
-        {
-            "id": [
-                "918"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/with-you-and-the-rain"
+                    "url": "tougen-anki"
                 }
             ]
         },
@@ -1601,7 +998,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/witch-watch"
+                    "url": "witch-watch"
                 }
             ]
         },
@@ -1613,12 +1010,12 @@
                 {
                     "auth": 1,
                     "lan": "si",
-                    "url": "sinhala/kaiju-no-8-s2"
+                    "url": "kaiju-no-8-s2"
                 },
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/kaiju-no-8-s2-lw"
+                    "url": "kaiju-no-8-s2-lw"
                 }
             ]
         },
@@ -1631,19 +1028,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/demon-slayer-s2-mta"
-                }
-            ]
-        },
-        {
-            "id": [
-                "992"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "sinhala/dragon-raja-ii-the-mourners-eyes"
+                    "url": "demon-slayer-s2-mta"
                 }
             ]
         },
@@ -1655,12 +1040,12 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/my-hero-academia-s1"
+                    "url": "my-hero-academia-season-1"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/my-hero-academia-s1"
+                    "url": "my-hero-academia-season-1"
                 }
             ]
         },
@@ -1672,7 +1057,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/sword-of-the-demon-hunter-kijin-gentosho"
+                    "url": "sword-of-the-demon-hunter-kijin-gentosho"
                 }
             ]
         },
@@ -1685,7 +1070,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/tokyo-ghoul-re-s1"
+                    "url": "tokyo-ghoul-re-s1"
                 }
             ]
         },
@@ -1698,7 +1083,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/tokyo-ghoul-re-s2"
+                    "url": "tokyo-ghoul-re-s2"
                 }
             ]
         },
@@ -1711,7 +1096,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/tokyo-ghoul-root-a"
+                    "url": "tokyo-ghoul-root-a"
                 }
             ]
         },
@@ -1723,7 +1108,7 @@
                 {
                     "auth": 2,
                     "lan": "si",
-                    "url": "sinhala/ubel-blatt"
+                    "url": "ubel-blatt"
                 }
             ]
         },
@@ -1736,7 +1121,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/weathering-with-you"
+                    "url": "weathering-with-you"
                 }
             ]
         },
@@ -1748,7 +1133,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/the-garden-of-words"
+                    "url": "the-garden-of-words"
                 }
             ]
         },
@@ -1760,7 +1145,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/the-tunnel-to-summer-the-exit-of-goodbyes"
+                    "url": "the-tunnel-to-summer-the-exit-of-goodbyes"
                 }
             ]
         },
@@ -1772,7 +1157,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/suzume"
+                    "url": "suzume"
                 }
             ]
         },
@@ -1785,12 +1170,12 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/bubble"
+                    "url": "bubble"
                 },
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/bubble"
+                    "url": "bubble"
                 }
             ]
         },
@@ -1803,7 +1188,7 @@
                 {
                     "auth": 3,
                     "lan": "si",
-                    "url": "sinhala/i-want-to-eat-your-pancreas"
+                    "url": "i-want-to-eat-your-pancreas"
                 }
             ]
         },
@@ -1816,7 +1201,7 @@
                 {
                     "auth": 1,
                     "lan": "en",
-                    "url": "english/shikimoris-not-just-a-cutie"
+                    "url": "shikimoris-not-just-a-cutie"
                 }
             ]
         },
@@ -1829,7 +1214,7 @@
                 {
                     "auth": 4,
                     "lan": "si",
-                    "url": "sinhala/heavenly-delusion"
+                    "url": "heavenly-delusion"
                 }
             ]
         },
@@ -1842,7 +1227,238 @@
                 {
                     "auth": 6,
                     "lan": "si",
-                    "url": "sinhala/naruto-shippuden"
+                    "url": "naruto-shippuden"
+                }
+            ]
+        },
+        {
+            "id": [
+                "560",
+                "561"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "fairy-tail"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "fairy-tail"
+                }
+            ]
+        },
+        {
+            "id": [
+                "37",
+                "626"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "627",
+                "628"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-3"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "629",
+                "630"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-4"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-4"
+                }
+            ]
+        },
+        {
+            "id": [
+                "631",
+                "632"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-5"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-5"
+                }
+            ]
+        },
+        {
+            "id": [
+                "633",
+                "634"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-6"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-6"
+                }
+            ]
+        },
+        {
+            "id": [
+                "635",
+                "636"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-7"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-7"
+                }
+            ]
+        },
+        {
+            "id": [
+                "639",
+                "640"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-memories"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-memories"
+                }
+            ]
+        },
+        {
+            "id": [
+                "641"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-training-of-the-dead"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-training-of-the-dead"
+                }
+            ]
+        },
+        {
+            "id": [
+                "13"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "bleach"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "bleach"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1007"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "one-punch-man-season-3"
+                },
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "one-punch-man-season-3-lw"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1008"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "spy-x-family-season-3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1009"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-final-season"
+                }
+            ]
+        },
+        {
+            "id": [
+                "853"
+            ],
+            "sub": [
+                {
+                    "auth": 7,
+                    "lan": "si",
+                    "url": "the-super-cube"
                 }
             ]
         }
