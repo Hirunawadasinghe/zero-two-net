@@ -45,17 +45,16 @@ function b2_get_bucket_id($api_url, $auth_token)
 // === LIST FILES IN A FOLDER ===
 function b2_list_files($api_url, $auth_token, $bucket_id, $prefix)
 {
+    echo $api_url . "\n" . $auth_token . "\n" . $bucket_id . "\n" . $prefix . "\n\n";
     $all_files = [];
     $startFileName = null;
 
     do {
         $post_data = [
             'bucketId' => $bucket_id,
+            'prefix' => $prefix,
             'maxFileCount' => 1000  // Max allowed by B2
         ];
-        if (!empty($prefix)) {
-            $post_data['prefix'] = rtrim($prefix, '/') . '/';
-        }
         if ($startFileName)
             $post_data['startFileName'] = $startFileName;
 
@@ -74,6 +73,5 @@ function b2_list_files($api_url, $auth_token, $bucket_id, $prefix)
         $startFileName = $res['nextFileName'] ?? null;
     } while ($startFileName);
 
-    echo "all files: " . json_encode($all_files) . "\n";
     return $all_files;
 }
