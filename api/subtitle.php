@@ -37,8 +37,8 @@ foreach ($subtitle_data['subtitles'] as $e) {
         continue;
 
     foreach ($e['sub'] as $sub) {
-        $lang_folder = strtolower($subtitle_data['iso_codes'][$sub['lan']]) . '/' . $sub['url'];
-        $files = b2_list_files($auth['apiUrl'], $auth_token, $bucket_id, $lang_folder);
+        $folder_path = strtolower($subtitle_data['iso_codes'][$sub['lan']]) . '/' . $sub['url'];
+        $files = b2_list_files($auth['apiUrl'], $auth_token, $bucket_id, $folder_path);
 
         $file_d = [];
         foreach ($files as $file) {
@@ -59,7 +59,7 @@ foreach ($subtitle_data['subtitles'] as $e) {
                 'lan_code' => $sub['lan'],
                 'language' => $subtitle_data['iso_codes'][$sub['lan']] ?? $sub['lan'],
                 'folder' => $sub['url'],
-                'base' => 'https://' . $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']) . '/sub-dl?f=' . $lang_folder,
+                'base' => 'https://' . $_SERVER['HTTP_HOST'] . '/api/sub-dl?f=' . $folder_path,
                 'data' => $file_d
             ];
         }
