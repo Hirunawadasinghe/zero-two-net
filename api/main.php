@@ -22,5 +22,6 @@ for ($i = $page * $max_elements - $max_elements; $i < $max_elements * $page && $
     $r['data'][] = $db[$i];
 }
 $r['next_page'] = $page < count($db) / $max_elements ? $page + 1 : false;
+$r['status'] = true;
 
 echo json_encode($r);
