@@ -440,7 +440,7 @@
         "mal_id": null,
         "name": "Jujutsu Kaisen: Execution",
         "alt_name": "Jujutsu Kaisen: Execution",
-        "thumbnail_image": "https://8upload.com/image/68f25d484a833/img.jpg?raw=1",
+        "thumbnail_image": "https://i.ibb.co/35Bk4HQv/img.jpg",
         "images": null,
         "trailer": "Vo7G5Y212Gg",
         "description": "A veil abruptly descends over the busy Shibuya area amid the bustling Halloween crowds, trapping countless civilians inside. In the aftermath, ten colonies across Japan are transformed into dens of curses.",
@@ -887,7 +887,7 @@
         },
         "trailer": null,
         "description": "Ryusuke is a junior high school student living in Tokyo. During his summer vacation, he visits Tokushima and reunites with his teenage cousin, Tomomi. Ryusuke and Tomomi go outing to the Anabuki River where they get swept away by the rushing current.\n\nAs they sink to the bottom of the river, a dragon appears, rescues them, and takes them to a mysterious old man. The old man tells Ryusuke and Tomomi that they are already dead, but that he can send them back to life if they explore the spirit world and find their mission in life. Although perplexed with the situation, Ryusuke and Tomomi decide to begin their journey to the spirit world. First, they arrive in a gloomy town that looks like it’s from the 1960’s. Soon after, they are assailed by terrible things one after another. They see fear-ridden rogues killing one another and doctors mutilating patients. People die and rise. They get killed and rise again. Ryusuke and Tomomi realize that they are in hell. But their journey doesn’t end there. The adventure beyond this world continues into the unknown. Will they be able to find their mission in life?\n\n(Source: dragonheart-movie.com)",
-        "language": "Japanese",
+        "language": "Sinhala",
         "type": "Movie",
         "release_year": "May 23, 2025",
         "season": null,
@@ -904,37 +904,41 @@
     },
     {
         "movie_id": "1026",
-        "mal_id": 61077,
-        "name": "Dragon Heart: Adventures Beyond This World",
-        "alt_name": "Dragon Heart: Reikai Tanbouki",
-        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1103/148127.jpg",
+        "mal_id": 35120,
+        "name": "Devilman: Crybaby",
+        "alt_name": "Devilman: Crybaby",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/2/89973.jpg",
         "images": {
             "jpg": {
-                "image_url": "https://cdn.myanimelist.net/images/anime/1103/148127.jpg",
-                "small_image_url": "https://cdn.myanimelist.net/images/anime/1103/148127t.jpg",
-                "large_image_url": "https://cdn.myanimelist.net/images/anime/1103/148127l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/89973.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/89973t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/89973l.jpg"
             },
             "webp": {
-                "image_url": "https://cdn.myanimelist.net/images/anime/1103/148127.webp",
-                "small_image_url": "https://cdn.myanimelist.net/images/anime/1103/148127t.webp",
-                "large_image_url": "https://cdn.myanimelist.net/images/anime/1103/148127l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/2/89973t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
             }
         },
         "trailer": null,
-        "description": "Ryusuke is a junior high school student living in Tokyo. During his summer vacation, he visits Tokushima and reunites with his teenage cousin, Tomomi. Ryusuke and Tomomi go outing to the Anabuki River where they get swept away by the rushing current.\n\nAs they sink to the bottom of the river, a dragon appears, rescues them, and takes them to a mysterious old man. The old man tells Ryusuke and Tomomi that they are already dead, but that he can send them back to life if they explore the spirit world and find their mission in life. Although perplexed with the situation, Ryusuke and Tomomi decide to begin their journey to the spirit world. First, they arrive in a gloomy town that looks like it’s from the 1960’s. Soon after, they are assailed by terrible things one after another. They see fear-ridden rogues killing one another and doctors mutilating patients. People die and rise. They get killed and rise again. Ryusuke and Tomomi realize that they are in hell. But their journey doesn’t end there. The adventure beyond this world continues into the unknown. Will they be able to find their mission in life?\n\n(Source: dragonheart-movie.com)",
-        "language": "Sinhala",
-        "type": "Movie",
-        "release_year": "May 23, 2025",
+        "description": "Devils cannot take form without a living host. However, if the will of an individual is strong enough, they can overcome the demon and make its power their own, becoming a Devilman.\n\nWeak and unassuming, Akira Fudou has always had a bleeding heart. So when his childhood friend Ryou Asuka asks for his help in uncovering devils, Akira accepts without hesitation. However, to Akira's surprise, the place they go to is Sabbath: an immoral party of debauchery and degeneracy. Amidst bloodshed and death, demons possess the partiers, turning their bodies into grotesque monsters, and begin wreaking havoc. In a reckless attempt to save his best friend, Akira unwittingly merges with the devil Amon and becomes a Devilman, gaining the power to defeat the remaining demons.\n\nThough it grants him great power, this new partnership awakens an insatiable and primeval part of Akira. Having the body of a devil but the same crybaby heart, Akira works alongside Ryou, destroying those that harm humanity and his loved ones.\n\n[Written by MAL Rewrite]",
+        "language": "Dual Audio",
+        "type": "ONA",
+        "release_year": "Jan 5, 2018",
         "season": null,
         "tags": [
-            "Fantasy",
-            "Supernatural"
+            "Action",
+            "Avant Garde",
+            "Horror",
+            "Supernatural",
+            "Gore",
+            "Mythology"
         ],
-        "episodes": 1,
-        "duration": "1 hr 59 min",
+        "episodes": 10,
+        "duration": "24 min per ep",
         "studios": [
-            "HS Pictures Studio"
+            "Science SARU"
         ],
-        "rating": "PG-13 - Teens 13 or older"
+        "rating": "R+ - Mild Nudity"
     }
 ]
