@@ -741,7 +741,8 @@
         },
         {
             "id": [
-                "897"
+                "897",
+                "1024"
             ],
             "sub": [
                 {
@@ -1459,6 +1460,40 @@
                     "auth": 7,
                     "lan": "si",
                     "url": "the-super-cube"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1026"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "devilman-crybaby"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "devilman-crybaby"
+                }
+            ]
+        },
+        {
+            "id": [
+                "97"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "spirited-away"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "spirited-away"
                 }
             ]
         }
