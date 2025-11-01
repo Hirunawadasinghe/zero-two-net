@@ -34,7 +34,7 @@ function b2_list_files($apiUrl, $authToken, $prefix, $maxRetries = 3)
     ];
 
     if (!empty($prefix)) {
-        $data['prefix'] = $prefix;
+        $data['prefix'] = $prefix . '/';
     }
 
     $headers = [
