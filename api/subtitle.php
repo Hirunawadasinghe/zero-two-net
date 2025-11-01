@@ -21,7 +21,7 @@ $download_url = $auth['downloadUrl'];
 $auth_token = $auth['authorizationToken'];
 $supported_ext = ['srt', 'ass', 'ssa', 'sub', 'vtt', 'txt', 'dfxp', 'xml'];
 
-$sub_data = [];
+$result = [];
 
 foreach ($subtitle_data['subtitles'] as $e) {
     if (!in_array($selected_id, $e['id'])) {
@@ -32,8 +32,9 @@ foreach ($subtitle_data['subtitles'] as $e) {
         $folder_path = strtolower($subtitle_data['iso_codes'][$sub['lan']]) . '/' . $sub['url'];
 
         $files = b2_list_files($auth['apiUrl'], $auth_token, $folder_path);
+        $result['entry'][$sub['lan']] = $files ? true : false;
         if (!$files) {
-            die(json_encode(['status' => false, 'msg' => 'db file listing failed']));
+            continue;
         }
 
         $file_d = [];
@@ -50,7 +51,7 @@ foreach ($subtitle_data['subtitles'] as $e) {
 
         if (count($file_d) > 0) {
             usort($file_d, fn($a, $b) => strnatcmp($b['file'], $a['file']));
-            $sub_data[] = [
+            $result['data'][] = [
                 'author' => $subtitle_data['author'][$sub['auth']] ?? 'Unknown',
                 'lan_code' => $sub['lan'],
                 'language' => $subtitle_data['iso_codes'][$sub['lan']] ?? $sub['lan'],
@@ -63,7 +64,9 @@ foreach ($subtitle_data['subtitles'] as $e) {
     break;
 }
 
-if ($sub_data) {
-    die(json_encode(['status' => true, 'data' => $sub_data]));
+$result['status'] = isset($result['data']);
+if (!isset($result['data'])) {
+    $result['msg'] = 'no subtitle files found in the directory';
 }
-die(json_encode(['status' => false, 'msg' => 'no subtitle files found in the directory']));
+
+echo json_encode($result);
