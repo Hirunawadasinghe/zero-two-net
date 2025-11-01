@@ -38,13 +38,7 @@ foreach ($subtitle_data['subtitles'] as $e) {
 
     foreach ($e['sub'] as $sub) {
         $folder_path = strtolower($subtitle_data['iso_codes'][$sub['lan']]) . '/' . $sub['url'];
-
-        $files;
-        $try = 0;
-        while ($try < 2 && !$files) {
-            $files = b2_list_files($auth['apiUrl'], $auth_token, $bucket_id, $folder_path);
-            $try++;
-        }
+        $files = b2_list_files($auth['apiUrl'], $auth_token, $bucket_id, $folder_path);
 
         $file_d = [];
         foreach ($files as $file) {
