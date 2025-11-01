@@ -55,7 +55,7 @@ foreach ($subtitle_data['subtitles'] as $e) {
                 'lan_code' => $sub['lan'],
                 'language' => $subtitle_data['iso_codes'][$sub['lan']] ?? $sub['lan'],
                 'folder' => $sub['url'],
-                'base' => dirname((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http') . "://{$_SERVER['HTTP_HOST']}{$_SERVER['REQUEST_URI']}") . '/sub-dl?f=' . $folder_path,
+                'base' => dirname(((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https://' : 'http://') . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']) . '/sub-dl.php?f=' . $folder_path,
                 'data' => $file_d
             ];
         }
@@ -66,5 +66,4 @@ foreach ($subtitle_data['subtitles'] as $e) {
 if ($sub_data) {
     die(json_encode(['status' => true, 'data' => $sub_data]));
 }
-
 die(json_encode(['status' => false, 'msg' => 'no subtitle files found in the directory']));
