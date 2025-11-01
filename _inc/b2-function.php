@@ -4,72 +4,117 @@ include 'config.php';
 $B2_ACCOUNT_ID = 'c19d497449af';
 $B2_APP_KEY = '003569faa53cbb929971bf6948b83010350d5e4a28';
 $B2_BUCKET_NAME = 'zero-two-net-subtitle';
+$B2_BUCKET_ID = 'cc31491d3419d78494990a1f';
 
-// === BACKBLAZE AUTH ===
-function b2_authorize()
+// ----------------------
+//  AUTHENTICATION
+// ----------------------
+function b2_authorize($maxRetries = 3)
 {
     global $B2_ACCOUNT_ID, $B2_APP_KEY;
+    $url = 'https://api.backblazeb2.com/b2api/v2/b2_authorize_account';
+    $headers = [
+        'Authorization: Basic ' . base64_encode($B2_ACCOUNT_ID . ':' . $B2_APP_KEY)
+    ];
 
-    $auth_encoded = base64_encode($B2_ACCOUNT_ID . ':' . $B2_APP_KEY);
-    $ch = curl_init('https://api.backblazeb2.com/b2api/v2/b2_authorize_account');
-    curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: Basic ' . $auth_encoded]);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    $res = json_decode(curl_exec($ch), true);
-    curl_close($ch);
-
-    if (empty($res['apiUrl'])) {
-        return null;
-    }
-    return $res;
+    return b2_api_request($url, 'GET', $headers, null, $maxRetries);
 }
 
-// === GET BUCKET ID ===
-function b2_get_bucket_id($api_url, $auth_token)
+// ----------------------
+//  LIST FILES
+// ----------------------
+function b2_list_files($apiUrl, $authToken, $prefix, $maxRetries = 3)
 {
-    global $B2_ACCOUNT_ID, $B2_BUCKET_NAME;
-    $ch = curl_init($api_url . '/b2api/v2/b2_list_buckets');
-    curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: ' . $auth_token]);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode(['accountId' => $B2_ACCOUNT_ID]));
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    $res = json_decode(curl_exec($ch), true);
-    curl_close($ch);
+    global $B2_BUCKET_ID;
+    $url = rtrim($apiUrl, '/') . '/b2api/v2/b2_list_file_names';
 
-    foreach ($res['buckets'] as $b) {
-        if ($b['bucketName'] === $B2_BUCKET_NAME) {
-            return $b['bucketId'];
-        }
+    $data = [
+        'bucketId' => $B2_BUCKET_ID,
+        'maxFileCount' => 1000
+    ];
+
+    if (!empty($prefix)) {
+        $data['prefix'] = $prefix;
     }
-    return null;
+
+    $headers = [
+        'Authorization: ' . $authToken,
+        'Content-Type: application/json'
+    ];
+
+    $response = b2_api_request($url, 'POST', $headers, json_encode($data), $maxRetries);
+
+    if (!$response || !isset($response['files'])) {
+        return false;
+    }
+
+    return $response['files'];
 }
 
-// === LIST FILES IN A FOLDER ===
-function b2_list_files($api_url, $auth_token, $bucket_id, $prefix)
+// ----------------------
+//  DOWNLOAD FILE
+// ----------------------
+function b2_download_file($downloadUrl, $authToken, $fileName, $maxRetries = 3)
 {
-    $files = [];
-    $startFileName = '';
+    $url = rtrim($downloadUrl, '/') . '/file/' . $fileName;
+    $headers = [
+        'Authorization: ' . $authToken
+    ];
 
-    do {
-        $post_data = [
-            'bucketId' => $bucket_id,
-            'startFileName' => $startFileName,
-            'maxFileCount' => 1000,
-            'prefix' => $prefix . '/'
-        ];
+    return b2_api_request($url, 'GET', $headers, null, $maxRetries, false);
+}
 
-        $ch = curl_init($api_url . '/b2api/v2/b2_list_file_names');
-        curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: ' . $auth_token]);
-        curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($post_data));
+// ----------------------
+//  GENERIC REQUEST WRAPPER
+// ----------------------
+function b2_api_request($url, $method, $headers = [], $body = null, $maxRetries = 3, $decodeJson = true)
+{
+    $try = 0;
+    $delay = 0.3; // seconds (initial delay for backoff)
+
+    while ($try < $maxRetries) {
+        $ch = curl_init($url);
+        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, $method);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+        curl_setopt($ch, CURLOPT_TIMEOUT, 15);
 
-        $res = json_decode(curl_exec($ch), true);
+        if ($body !== null) {
+            curl_setopt($ch, CURLOPT_POSTFIELDS, $body);
+        }
+
+        $response = curl_exec($ch);
+        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        $curlError = curl_error($ch);
         curl_close($ch);
 
-        if (isset($res['files'])) {
-            $files = array_merge($files, $res['files']);
+        // If success
+        if ($httpCode >= 200 && $httpCode < 300 && $response) {
+            return $decodeJson ? json_decode($response, true) : $response;
         }
 
-        $startFileName = $res['nextFileName'] ?? null;
-    } while ($startFileName);
+        // Retry if failed or transient error
+        $shouldRetry = (
+            $httpCode == 0 ||               // network failure
+            ($httpCode >= 500 && $httpCode < 600) || // server error
+            in_array($httpCode, [408, 429]) // timeout or rate limit
+        );
 
-    return $files;
+        if ($shouldRetry) {
+            $try++;
+            usleep($delay * 1_000_000); // sleep before retry
+            $delay *= 2; // exponential backoff
+        } else {
+            break; // non-retryable error
+        }
+    }
+
+    // Final fail
+    if (isset($curlError) && $curlError !== '') {
+        error_log("B2 API Error ({$url}): {$curlError}");
+    } elseif (isset($httpCode)) {
+        error_log("B2 API HTTP Error ({$url}): {$httpCode}");
+    }
+
+    return false;
 }

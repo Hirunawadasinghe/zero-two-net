@@ -1,6 +1,6 @@
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . '/_inc/config.php';
-include $_SERVER['DOCUMENT_ROOT'] . '/api/zero-two/inc.php';
+include dirname(__DIR__, 1) . '/_inc/config.php';
+include dirname(__DIR__, 1) . '/api/zero-two/inc.php';
 
 $botToken = '8160461478:AAHrtbjLETeUxShZ0IT6NasifjsjLvLBysI';
 $tg_url = "https://api.telegram.org/bot$botToken";
@@ -187,5 +187,4 @@ function handle_random($main_data)
         'reply_markup' => json_encode($keyboard),
     ];
     file_get_contents($tg_url . "/sendPhoto?" . http_build_query($p));
-
 }
