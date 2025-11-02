@@ -1,34 +1,13 @@
 {
-    "authors": [
-        {
-            "id": 1,
-            "name": "AniMojo"
-        },
-        {
-            "id": 2,
-            "name": "AniMojo (Translate)"
-        },
-        {
-            "id": 3,
-            "name": "Baiscope"
-        },
-        {
-            "id": 4,
-            "name": "ලංකන් Weebs"
-        },
-        {
-            "id": 5,
-            "name": "Lone_Wolf (SL_Donghua_Sub)"
-        },
-        {
-            "id": 6,
-            "name": "Kazuma Satou"
-        },
-        {
-            "id": 7,
-            "name": "Chamidu Kushantha"
-        }
-    ],
+    "author": {
+        "1": "AniMojo",
+        "2": "AniMojo (Translate)",
+        "3": "Baiscope",
+        "4": "ලංකන් Weebs",
+        "5": "Lone_Wolf (SL_Donghua_Sub)",
+        "6": "Kazuma Satou",
+        "7": "Chamidu Kushantha"
+    },
     "iso_codes": {
         "ab": "Abkhazian",
         "aa": "Afar",
@@ -1402,11 +1381,6 @@
                     "auth": 2,
                     "lan": "si",
                     "url": "bleach"
-                },
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "bleach"
                 }
             ]
         },
@@ -1494,6 +1468,23 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "spirited-away"
+                }
+            ]
+        },
+        {
+            "id": [
+                "991"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "dragon-raja-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "dragon-raja-s1"
                 }
             ]
         }
