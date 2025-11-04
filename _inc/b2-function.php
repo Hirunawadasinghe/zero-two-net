@@ -9,7 +9,7 @@ $B2_BUCKET_ID = 'cc31491d3419d78494990a1f';
 // ----------------------
 //  AUTHENTICATION
 // ----------------------
-function b2_authorize($maxRetries = 3)
+function b2_authorize($maxRetries = 10)
 {
     global $B2_ACCOUNT_ID, $B2_APP_KEY;
     $url = 'https://api.backblazeb2.com/b2api/v2/b2_authorize_account';
@@ -23,7 +23,7 @@ function b2_authorize($maxRetries = 3)
 // ----------------------
 //  LIST FILES
 // ----------------------
-function b2_list_files($apiUrl, $authToken, $prefix, $maxRetries = 3)
+function b2_list_files($apiUrl, $authToken, $prefix, $maxRetries = 10)
 {
     global $B2_BUCKET_ID;
     $url = rtrim($apiUrl, '/') . '/b2api/v2/b2_list_file_names';
@@ -54,7 +54,7 @@ function b2_list_files($apiUrl, $authToken, $prefix, $maxRetries = 3)
 // ----------------------
 //  DOWNLOAD FILE
 // ----------------------
-function b2_download_file($downloadUrl, $authToken, $fileName, $maxRetries = 3)
+function b2_download_file($downloadUrl, $authToken, $fileName, $maxRetries = 10)
 {
     $url = rtrim($downloadUrl, '/') . '/file/' . $fileName;
     $headers = [
@@ -67,7 +67,7 @@ function b2_download_file($downloadUrl, $authToken, $fileName, $maxRetries = 3)
 // ----------------------
 //  GENERIC REQUEST WRAPPER
 // ----------------------
-function b2_api_request($url, $method, $headers = [], $body = null, $maxRetries = 3, $decodeJson = true)
+function b2_api_request($url, $method, $headers = [], $body = null, $maxRetries = 10, $decodeJson = true)
 {
     $try = 0;
     $delay = 0.3; // seconds (initial delay for backoff)
@@ -118,3 +118,4 @@ function b2_api_request($url, $method, $headers = [], $body = null, $maxRetries 
 
     return false;
 }
+
