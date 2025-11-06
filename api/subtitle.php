@@ -17,9 +17,37 @@ if (!$auth) {
     die(json_encode(['status' => false, 'msg' => 'b2 auth failed']));
 }
 
+function sendTelegramMessage($botToken, $chatId, $message)
+{
+    $url = "https://api.telegram.org/bot$botToken/sendMessage";
+
+    $data = [
+        'chat_id' => $chatId,
+        'text' => $message,
+        'parse_mode' => 'HTML'
+    ];
+
+    $options = [
+        'http' => [
+            'header' => "Content-Type: application/x-www-form-urlencoded\r\n",
+            'method' => 'POST',
+            'content' => http_build_query($data),
+        ]
+    ];
+
+    $context = stream_context_create($options);
+    $result = file_get_contents($url, false, $context);
+
+    if ($result === FALSE) {
+        return "Error sending message.";
+    }
+
+    return json_decode($result, true);
+}
+
 $download_url = $auth['downloadUrl'];
 $auth_token = $auth['authorizationToken'];
-$supported_ext = ['srt', 'ass', 'ssa', 'sub', 'vtt', 'txt', 'dfxp', 'xml'];
+$supported_ext = ['srt', 'ass', 'ssa', 'sub', 'vtt', 'txt'];
 
 $result = [];
 
@@ -34,6 +62,7 @@ foreach ($subtitle_data['subtitles'] as $e) {
         $files = b2_list_files($auth['apiUrl'], $auth_token, $folder_path);
         $result['entry'][$sub['lan']] = $files ? true : false;
         if (!$files) {
+            sendTelegramMessage('7828957014:AAGC07fKmYcpiHNT_9UV1qTVy6YIQ1N5O7Q', '5922865116', "sub_dl_error: " . json_encode($files));
             continue;
         }
 
