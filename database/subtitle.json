@@ -6,7 +6,8 @@
         "4": "ලංකන් Weebs",
         "5": "Lone_Wolf (SL_Donghua_Sub)",
         "6": "Kazuma Satou",
-        "7": "Chamidu Kushantha"
+        "7": "චමිදු කුශාන්ත​",
+        "8": "ශෙනාල් සිල්වා"
     },
     "iso_codes": {
         "ab": "Abkhazian",
@@ -787,13 +788,17 @@
         },
         {
             "id": [
-                "120",
-                "121"
+                "120"
             ],
             "sub": [
                 {
                     "auth": 2,
                     "lan": "si",
+                    "url": "blue-lock-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
                     "url": "blue-lock-s1"
                 }
             ]
@@ -1485,6 +1490,19 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "dragon-raja-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "90",
+                "91"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "call-of-the-night-s1"
                 }
             ]
         }
