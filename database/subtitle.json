@@ -1505,6 +1505,23 @@
                     "url": "call-of-the-night-s1"
                 }
             ]
+        },
+        {
+            "id": [
+                "1031"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "i-parry-everything"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "i-parry-everything"
+                }
+            ]
         }
     ]
 }
