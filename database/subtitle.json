@@ -1522,6 +1522,23 @@
                     "url": "i-parry-everything"
                 }
             ]
+        },
+        {
+            "id": [
+                "1032"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "studio-apartment-good-lighting-angel-included"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "studio-apartment-good-lighting-angel-included"
+                }
+            ]
         }
     ]
 }
