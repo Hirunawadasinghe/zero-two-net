@@ -1119,5 +1119,44 @@
             "OLM"
         ],
         "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1032",
+        "mal_id": 56838,
+        "name": "Studio Apartment, Good Lighting, Angel Included",
+        "alt_name": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1833/141321.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1833/141321.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1833/141321t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1833/141321l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1833/141321.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1833/141321t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1833/141321l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Shintarou Tokumitsu leads an ordinary high school life while living in a studio apartment just for himself. This changes drastically one morning after he finds something strange on his balcony—an angel from Heaven. The innocent and kind girl named Towa was sent to Earth by God to learn more about humans and their way of interacting. It does not take long for her to get attached to Shintarou, who eventually allows her to live with him.\n\nHowever, the small apartment provides little personal space and privacy, and hiding Towa's real identity from the public proves difficult. As he learns to navigate his new life with Towa, Shintarou's encounters with other girls may only complicate the circumstances.\n\n[Written by MAL Rewrite]",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Apr 6, 2024",
+        "season": "spring",
+        "tags": [
+            "Comedy",
+            "Romance",
+            "Supernatural",
+            "Harem",
+            "Mythology",
+            "School"
+        ],
+        "episodes": 12,
+        "duration": "23 min per ep",
+        "studios": [
+            "Okuruto Noboru"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
     }
 ]
