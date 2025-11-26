@@ -1158,5 +1158,42 @@
             "Okuruto Noboru"
         ],
         "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1033",
+        "mal_id": 57555,
+        "name": "Chainsaw Man the Movie: Reze Arc",
+        "alt_name": "Chainsaw Man Movie: Reze-hen",
+        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1763\/150638.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1763\/150638.jpg",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1763\/150638t.jpg",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1763\/150638l.jpg"
+            },
+            "webp": {
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1763\/150638.webp",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1763\/150638t.webp",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1763\/150638l.webp"
+            }
+        },
+        "trailer": "aD6MRQsOauQ",
+        "description": "Theatrical follow-up to Chainsaw Man.\n\nDenji became “Chainsaw Man”, a boy with a devil’s heart, and is now part of Special Division 4’s devil hunters. After a date with Makima, the woman of his dreams, Denji takes shelter from the rain. There he meets Reze, a girl who works in a café.\n\n(Source: MAPPA CHANNEL)",
+        "language": "English",
+        "type": "Movie",
+        "release_year": "Sep 19, 2025",
+        "season": null,
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Gore",
+            "Urban Fantasy"
+        ],
+        "episodes": 1,
+        "duration": "Unknown",
+        "studios": [
+            "MAPPA"
+        ],
+        "rating": "R - 17+ (violence & profanity)"
     }
 ]
