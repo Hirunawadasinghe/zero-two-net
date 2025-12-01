@@ -502,7 +502,8 @@
         "season": null,
         "tags": [
             "Award Winning",
-            "Drama"
+            "Drama",
+            "Romance"
         ],
         "episodes": 1,
         "duration": "1 hr 46 min",
@@ -537,7 +538,8 @@
         "season": null,
         "tags": [
             "Award Winning",
-            "Drama"
+            "Drama",
+            "Romance"
         ],
         "episodes": 1,
         "duration": "1 hr 46 min",
@@ -2592,8 +2594,8 @@
     {
         "movie_id": "71",
         "mal_id": 40748,
-        "name": "Jujutsu Kaisen",
-        "alt_name": "Jujutsu Kaisen",
+        "name": "Jujutsu Kaisen - Sinhala Subbed",
+        "alt_name": "Jujutsu Kaisen - Sinhala Subbed",
         "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1171\/109222.jpg",
         "images": {
             "jpg": {
