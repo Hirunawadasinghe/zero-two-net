@@ -487,24 +487,6 @@
         },
         {
             "id": [
-                "71",
-                "45"
-            ],
-            "sub": [
-                {
-                    "auth": 4,
-                    "lan": "si",
-                    "url": "jujutsu-kaisen-s1"
-                },
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "jujutsu-kaisen-s1"
-                }
-            ]
-        },
-        {
-            "id": [
                 "179",
                 "180"
             ],
@@ -1541,6 +1523,24 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "studio-apartment-good-lighting-angel-included"
+                }
+            ]
+        },
+        {
+            "id": [
+                "71",
+                "45"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "jujutsu-kaisen-s1"
                 }
             ]
         }
