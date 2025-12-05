@@ -436,17 +436,28 @@
         "rating": "PG-13 - Teens 13 or older"
     },
     {
-        "movie_id": "1013",
-        "mal_id": null,
+        "movie_id": "1034",
+        "mal_id": 62828,
         "name": "Jujutsu Kaisen: Execution",
-        "alt_name": "Jujutsu Kaisen: Execution",
-        "thumbnail_image": "https://i.ibb.co/35Bk4HQv/img.jpg",
-        "images": null,
-        "trailer": "Vo7G5Y212Gg",
-        "description": "A veil abruptly descends over the busy Shibuya area amid the bustling Halloween crowds, trapping countless civilians inside. In the aftermath, ten colonies across Japan are transformed into dens of curses.",
+        "alt_name": "Gekijô-ban Jujutsu Kaisen Shibuya Jihen Tokubetsu Henshû-ban × Shimetsu Kaiyû Senkô Jôei",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1779/152752.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1779/152752.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1779/152752t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1779/152752l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1779/152752.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1779/152752t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1779/152752l.webp"
+            }
+        },
+        "trailer": "fgvoLo52aac",
+        "description": "A veil abruptly descends over the busy Shibuya area amid the bustling Halloween crowds, trapping countless civilians inside. Satoru Gojo, the strongest jujutsu sorcerer, steps into the chaos. But lying in wait are curse users and spirits scheming to seal him away. Yuji Itadori, accompanied by his classmates and other top-tier jujutsu sorcerers, enters the fray in an unprecedented clash of curses — the Shibuya Incident. In the aftermath, ten colonies across Japan are transformed into dens of curses in a plan orchestrated by Noritoshi Kamo, the most wicked sorcerer in history. As the deadly Culling Game starts, Special Grade sorcerer Yuta Okkotsu is assigned to carry out Yuji’s execution for his perceived crimes.",
         "language": "Japanese",
         "type": "Movie",
-        "release_year": "Dec 5, 2025",
+        "release_year": "Nov 7, 2025",
         "season": null,
         "tags": [
             "Action",
@@ -457,11 +468,8 @@
         "episodes": 1,
         "duration": "1 hr 30 min",
         "studios": [
-            "Mainichi Broadcasting System",
-            "Mappa",
-            "Shueisha",
-            "Sumzap",
-            "Toho"
+            "MAPPA",
+            "CoMix Wave Films"
         ],
         "rating": "R - 17+ (violence & profanity)"
     },
@@ -1193,6 +1201,120 @@
         "duration": "Unknown",
         "studios": [
             "MAPPA"
+        ],
+        "rating": "R - 17+ (violence & profanity)"
+    },
+    {
+        "movie_id": "1034",
+        "mal_id": 6213,
+        "name": "A Certain Scientific Railgun",
+        "alt_name": "Toaru Kagaku no Railgun",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/8/53581.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/53581.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/53581t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/53581l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/53581.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/53581t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/53581l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "The student-filled Academy City is at the forefront of scientific advancement and home to the esper development program. The seven \"Level 5\" espers are the most powerful in Academy City, and ranked third among them is middle schooler Mikoto Misaka, an electricity manipulator known as \"The Railgun.\"\n \nWhen strange incidents begin occurring throughout the city, she finds each crime to be connected to the elusive \"Level Upper,\" a legendary device that allegedly increases the esper level of its user. As the situation escalates, it becomes apparent that there is more to the Level Upper than meets the eye, and that Academy City may be a far more twisted place than the glamorous utopia it appears to be.\n\nToaru Kagaku no Railgun focuses on Mikoto and her friends—and the dangerous situations they find themselves in—as they get caught up in the matter of the Level Upper. As Mikoto says, \"There's never a dull moment in this city.\"\n\n[Written by MAL Rewrite]",
+        "language": "Dual Audio",
+        "type": "TV",
+        "release_year": "Oct 3, 2009",
+        "season": "fall",
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi",
+            "Super Power",
+            "Urban Fantasy"
+        ],
+        "episodes": 24,
+        "duration": "24 min per ep",
+        "studios": [
+            "J.C.Staff"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1035",
+        "mal_id": 16049,
+        "name": "A Certain Scientific Railgun S",
+        "alt_name": "Toaru Kagaku no Railgun S",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/7/75610.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75610.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75610t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75610l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75610.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75610t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75610l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Mikoto Misaka and her friends are back, investigating rumors across Academy City. Soon, Mikoto discovers something terrifying: horrific experiments are taking place throughout the city, involving the murder of thousands of espers. Moreover, these espers are far from just ordinary people: they are clones of Mikoto herself. Feeling responsible for their treatment, she sets off to put an end to the experiments; however, the forces opposing her are much more dangerous than she anticipated, and Mikoto finds herself up against some of the most powerful espers imaginable.\n\nToaru Kagaku no Railgun S continues the story of the Railgun as she desperately fights to put an end to the inhuman experiments that she believes she helped cause, her life dragged deep into despair in the process. There's never a dull moment in Academy City, but no one ever said all of them would be pleasant.\n\n[Written by MAL Rewrite]",
+        "language": "Dual Audio",
+        "type": "TV",
+        "release_year": "Apr 12, 2013",
+        "season": "spring",
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi",
+            "Super Power",
+            "Urban Fantasy"
+        ],
+        "episodes": 24,
+        "duration": "24 min per ep",
+        "studios": [
+            "J.C.Staff"
+        ],
+        "rating": "R - 17+ (violence & profanity)"
+    },
+    {
+        "movie_id": "1036",
+        "mal_id": 38481,
+        "name": "A Certain Scientific Railgun T",
+        "alt_name": "Toaru Kagaku no Railgun T",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1819/103287.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1819/103287.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1819/103287t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1819/103287l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1819/103287.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1819/103287t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1819/103287l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "The Daihasei Festival has begun, and that of course means that Tokiwadai Middle School—a prestigious all-girls' middle school—is competing too. Despite the participation of the \"Ace of Tokiwadai,\" Mikoto Misaka, the other students who are participating are still putting their utmost effort into winning, no matter how impossible the feat may seem against her overwhelming might.\n\nHowever, not all is fun and games. Due to the festival, Academy City opens to the outside world, and various factions have begun plotting ways to infiltrate the city. Misaka appears to be on their radar, and as the festival proceeds, people lurking from the shadows begin to emerge...\n\nToaru Kagaku no Railgun T brings back the Tokiwadai Ace and her friends as they dive deeper into the dark side of Academy City. From terrorist attacks to ruthless underground projects, anything is possible in this city.\n\n[Written by MAL Rewrite]",
+        "language": "Dual Audio",
+        "type": "TV",
+        "release_year": "Jan 10, 2020",
+        "season": "winter",
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi",
+            "Super Power",
+            "Urban Fantasy"
+        ],
+        "episodes": 25,
+        "duration": "24 min per ep",
+        "studios": [
+            "J.C.Staff"
         ],
         "rating": "R - 17+ (violence & profanity)"
     }
