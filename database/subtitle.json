@@ -1373,6 +1373,24 @@
                     "url": "record-of-ragnarok-s1"
                 }
             ]
+        },
+        {
+            "id": [
+                "669",
+                "670"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "welcome-to-the-space-show"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "welcome-to-the-space-show"
+                }
+            ]
         }
     ]
 }
