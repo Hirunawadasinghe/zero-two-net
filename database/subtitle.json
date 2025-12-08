@@ -1408,6 +1408,40 @@
                     "url": "mob-psycho-100-s1"
                 }
             ]
+        },
+        {
+            "id": [
+                "489"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "mob-psycho-mini"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "mob-psycho-mini"
+                }
+            ]
+        },
+        {
+            "id": [
+                "898"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "chainsaw-man-the-movie-reze-arc"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "chainsaw-man-the-movie-reze-arc"
+                }
+            ]
         }
     ]
 }
