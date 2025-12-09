@@ -1442,6 +1442,30 @@
                     "url": "chainsaw-man-the-movie-reze-arc"
                 }
             ]
+        },
+        {
+            "id": [
+                "182"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "record-of-ragnarok-s2-p1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "827"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "record-of-ragnarok-s2-p2"
+                }
+            ]
         }
     ]
 }
