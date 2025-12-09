@@ -1466,6 +1466,23 @@
                     "url": "record-of-ragnarok-s2-p2"
                 }
             ]
+        },
+        {
+            "id": [
+                "758"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "high-school-of-the-dead"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "high-school-of-the-dead"
+                }
+            ]
         }
     ]
 }
