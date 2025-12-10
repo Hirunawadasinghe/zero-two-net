@@ -1483,6 +1483,23 @@
                     "url": "high-school-of-the-dead"
                 }
             ]
+        },
+        {
+            "id": [
+                "829"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "record-of-ragnarok-s3"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "record-of-ragnarok-s3"
+                }
+            ]
         }
     ]
 }
