@@ -1199,14 +1199,14 @@
             ],
             "sub": [
                 {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "one-punch-man-season-3"
-                },
-                {
                     "auth": 4,
                     "lan": "si",
                     "url": "one-punch-man-season-3-lw"
+                },
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "one-punch-man-season-3"
                 }
             ]
         },
@@ -1216,9 +1216,14 @@
             ],
             "sub": [
                 {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "spy-x-family-s3-lw"
+                },
+                {
                     "auth": 2,
                     "lan": "si",
-                    "url": "spy-x-family-season-3"
+                    "url": "spy-x-family-s3"
                 }
             ]
         },
@@ -1428,7 +1433,8 @@
         },
         {
             "id": [
-                "898"
+                "898",
+                "1033"
             ],
             "sub": [
                 {
@@ -1498,6 +1504,40 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "record-of-ragnarok-s3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1042"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "aura-koga-maryuins-last-war"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "aura-koga-maryuins-last-war"
+                }
+            ]
+        },
+        {
+            "id": [
+                "105"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "spy-x-family-code-white"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "spy-x-family-code-white"
                 }
             ]
         }
