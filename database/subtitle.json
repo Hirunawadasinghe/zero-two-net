@@ -1537,6 +1537,11 @@
             ],
             "sub": [
                 {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "gakuen-alice"
+                },
+                {
                     "auth": 1,
                     "lan": "en",
                     "url": "gakuen-alice"
