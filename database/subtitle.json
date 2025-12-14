@@ -1532,13 +1532,14 @@
         },
         {
             "id": [
+                "480",
                 "106"
             ],
             "sub": [
                 {
-                    "auth": null,
-                    "lan": "si",
-                    "url": null
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "gakuen-alice"
                 }
             ]
         },
@@ -1561,19 +1562,6 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "tougen-anki"
-                }
-            ]
-        },
-        {
-            "id": [
-                "480",
-                "106"
-            ],
-            "sub": [
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "gakuen-alice"
                 }
             ]
         }
