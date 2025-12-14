@@ -3900,41 +3900,39 @@
     },
     {
         "movie_id": "106",
-        "mal_id": 53888,
-        "name": "Spy x Family Code: White",
-        "alt_name": "Spy x Family Movie: Code: White",
-        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1426\/139388.jpg",
+        "mal_id": 74,
+        "name": "Gakuen Alice - Sinhala Subbed",
+        "alt_name": "Gakuen Alice - Sinhala Subbed",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/4/18118.jpg",
         "images": {
             "jpg": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1426\/139388.jpg",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1426\/139388t.jpg",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1426\/139388l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/18118.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/18118t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/18118l.jpg"
             },
             "webp": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1426\/139388.webp",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1426\/139388t.webp",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1426\/139388l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/18118.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/4/18118t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/4/18118l.webp"
             }
         },
-        "trailer": "EpUAso8ITVw",
-        "description": "Loid Forger, an elite spy, is warned by his handler that he may potentially be reassigned from his ongoing mission, Operation Strix. To maintain his position, he must make significant progress toward the operation's objectives, which involves having his adoptive daughter Anya earn sufficient Stella Stars to become an Imperial Scholar at Eden Academy.\n\nAfter learning of a cooking contest that awards the winning student with a Stella Star, Loid researches the judge's preferred dessert to help increase Anya's odds. However, perfectly recreating the judge's favorite meremere requires more than just following a recipe. Thus, the Forgers embark on a vacation to the Frigis region to try an authentic meremere. Not all goes smoothly on the trip, as the Forger family ends up entwined in a sinister plot to reignite war between the countries of Ostania and Westalis.\n\n[Written by MAL Rewrite]",
-        "language": "English",
-        "type": "Movie",
-        "release_year": "Dec 22, 2023",
-        "season": null,
+        "trailer": null,
+        "description": "Mikan Sakura is a normal 10-year-old girl. Optimistic, energetic, and overall a very sweet child, Mikan is the complete opposite of the aloof, intelligent, and somewhat cold-hearted, Hotaru Imai. Despite their glaring differences, the two girls have been best friends for a very long time. So when Hotaru suddenly transfers to Alice Academy, a prestigious school in the city, her best friend is devastated—especially when she hears of the horrible rumors regarding the academy's harsh treatment of students. Beset with worry, Mikan runs away to see her best friend!\n\nUpon her arrival, Mikan learns of \"Alices,\" individuals gifted with various supernatural abilities, and that the school is an institution built by the government to train and protect them. Discovering that she has her own unique powers, Mikan enrolls in the academy, and, after a lot of trouble, finally reunites with Hotaru.\n\nGakuen Alice is a heartwarming comedy that follows Mikan and her friends' adventures in the academy, as well as their attempt to uncover the mysteries surrounding the problematic, fire-wielding student Natsume Hyuuga.\n\n[Written by MAL Rewrite]",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Oct 30, 2004",
+        "season": "fall",
         "tags": [
-            "Action",
             "Comedy",
-            "Childcare",
+            "School",
             "Super Power"
         ],
-        "episodes": 1,
-        "duration": "1 hr 50 min",
+        "episodes": 26,
+        "duration": "25 min per ep",
         "studios": [
-            "Wit Studio",
-            "CloverWorks"
+            "Group TAC"
         ],
-        "rating": "PG-13 - Teens 13 or older"
+        "rating": "G - All Ages"
     },
     {
         "movie_id": "107",
