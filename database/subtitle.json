@@ -764,23 +764,6 @@
         },
         {
             "id": [
-                "914"
-            ],
-            "sub": [
-                {
-                    "auth": 4,
-                    "lan": "si",
-                    "url": "tougen-anki-lw"
-                },
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "tougen-anki"
-                }
-            ]
-        },
-        {
-            "id": [
                 "928"
             ],
             "sub": [
@@ -1433,6 +1416,7 @@
         },
         {
             "id": [
+                "929",
                 "898",
                 "1033"
             ],
@@ -1555,6 +1539,41 @@
                     "auth": null,
                     "lan": "si",
                     "url": null
+                }
+            ]
+        },
+        {
+            "id": [
+                "914"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "tougen-anki-lw"
+                },
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "tougen-anki"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "tougen-anki"
+                }
+            ]
+        },
+        {
+            "id": [
+                "480",
+                "106"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "gakuen-alice"
                 }
             ]
         }
