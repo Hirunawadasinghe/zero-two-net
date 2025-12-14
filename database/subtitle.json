@@ -1496,6 +1496,11 @@
             ],
             "sub": [
                 {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "record-of-ragnarok-s3-lw"
+                },
+                {
                     "auth": 2,
                     "lan": "si",
                     "url": "record-of-ragnarok-s3"
