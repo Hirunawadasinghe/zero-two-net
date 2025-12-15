@@ -17673,37 +17673,38 @@
     },
     {
         "movie_id": "482",
-        "mal_id": 37510,
-        "name": "Mob Psycho 100 II",
-        "alt_name": "Mob Psycho 100 II",
-        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1918\/96303.jpg",
+        "mal_id": 61595,
+        "name": "Lost in Starlight",
+        "alt_name": "I Byeol-e Pil-yohan",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1371/149504.jpg",
         "images": {
             "jpg": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1918\/96303.jpg",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1918\/96303t.jpg",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1918\/96303l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1371/149504.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1371/149504t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1371/149504l.jpg"
             },
             "webp": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1918\/96303.webp",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1918\/96303t.webp",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1918\/96303l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1371/149504.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1371/149504t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1371/149504l.webp"
             }
         },
-        "trailer": "Pr43Sayk37s",
-        "description": "Shigeo \"Mob\" Kageyama is now maturing and understanding his role as a supernatural psychic that has the power to drastically affect the livelihood of others. He and his mentor Reigen Arataka continue to deal with supernatural requests from clients, whether it be exorcizing evil spirits or tackling urban legends that haunt the citizens.\n\nWhile the workflow remains the same, Mob isn't just blindly following Reigen around anymore. With all his experiences as a ridiculously strong psychic, Mob's supernatural adventures now have more weight to them. Things take on a serious and darker tone as the dangers Mob and Reigen face are much more tangible and unsettling than ever before.\n\n[Written by MAL Rewrite]",
-        "language": "English",
-        "type": "TV",
-        "release_year": "Jan 7, 2019",
-        "season": "winter",
+        "trailer": "pV_-COLJOiY",
+        "description": "Nan-young is a scientist whose astronaut mom failed to return to Earth when things went awry during her Mars probe. Nan-young has always dreamed of exploring space too and longs to go to Mars in hopes of finding a trace of her mom.\n\nHer dream comes true when she is selected as one of the astronauts for a Mars probe project. Before she blasts off though, she meets Jay, a musician who also fixes retro sound instruments. It's all thanks to an old turntable that Nan-young inherited from her mom.\n\n(Source: Netflix, edited)",
+        "language": "Dual Audio",
+        "type": "ONA",
+        "release_year": "May 30, 2025",
+        "season": null,
         "tags": [
-            "Action",
-            "Comedy",
-            "Supernatural"
+            "Romance",
+            "Sci-Fi",
+            "Adult Cast",
+            "Space"
         ],
-        "episodes": 13,
-        "duration": "24 min per ep",
+        "episodes": 1,
+        "duration": "1 hr 36 min",
         "studios": [
-            "Bones"
+            "Climax Studio"
         ],
         "rating": "PG-13 - Teens 13 or older"
     },

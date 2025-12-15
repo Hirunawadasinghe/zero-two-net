@@ -1543,5 +1543,43 @@
             "AIC ASTA"
         ],
         "rating": "R+ - Mild Nudity"
+    },
+    {
+        "movie_id": "1043",
+        "mal_id": 759,
+        "name": "Tokyo Godfathers",
+        "alt_name": "Tokyo Godfathers",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1480/132791.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1480/132791.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/132791t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/132791l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1480/132791.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/132791t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/132791l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "One Christmas Eve, Hana, Gin, and Miyuki are rummaging for presents through heaps of garbage when they chance upon an abandoned baby in the cold winter night. Appalled at the pitiful sight, Hana's maternal instincts kick in and she insists on finding the baby's biological mother to demand an explanation. Naming the baby Kiyoko—meaning pure child—they begin their search using the possible clues left alongside her: a mysterious key and a single note. However, their plans are soon thrown into disarray as they get caught up in a series of unprecedented events.\n\nTokyo Godfathers follows the journey of the trio as they stick together through thick and thin, hoping to deliver Kiyoko to her true home, and find their very own Christmas miracle.\n\n[Written by MAL Rewrite]",
+        "language": "Dual Audio",
+        "type": "Movie",
+        "release_year": "Nov 8, 2003",
+        "season": null,
+        "tags": [
+            "Award Winning",
+            "Comedy",
+            "Drama",
+            "Adult Cast",
+            "Childcare"
+        ],
+        "episodes": 1,
+        "duration": "1 hr 32 min",
+        "studios": [
+            "Madhouse"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
     }
 ]
