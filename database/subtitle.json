@@ -7,7 +7,8 @@
         "5": "SL Donghua Sub",
         "6": "Kazuma Satou",
         "7": "චමිදු කුශාන්ත​",
-        "8": "ෂනාල් සිල්වා"
+        "8": "ෂනාල් සිල්වා",
+        "9": "ඉසුරු නවෝද්‍ය"
     },
     "iso_codes": {
         "en": "English",
@@ -1567,6 +1568,40 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "tougen-anki"
+                }
+            ]
+        },
+        {
+            "id": [
+                "482"
+            ],
+            "sub": [
+                {
+                    "auth": 9,
+                    "lan": "si",
+                    "url": "lost-in-starlight"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "lost-in-starlight"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1043"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "tokyo-godfathers"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "tokyo-godfathers"
                 }
             ]
         }
