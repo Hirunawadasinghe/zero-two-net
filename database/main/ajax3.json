@@ -1581,5 +1581,42 @@
             "Madhouse"
         ],
         "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1044",
+        "mal_id": 59654,
+        "name": "Jujutsu Kaisen: Hidden Inventory/Premature Death",
+        "alt_name": "Jujutsu Kaisen: Kaigyoku/Gyokusetsu",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1999/147023.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1999/147023.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1999/147023t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1999/147023l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1999/147023.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1999/147023t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1999/147023l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "A compilation movie of Jujutsu Kaisen's Hidden Inventory and Premature Death arc.",
+        "language": "Japanese",
+        "type": "Movie",
+        "release_year": "May 30, 2025",
+        "season": null,
+        "tags": [
+            "Action",
+            "Supernatural",
+            "Gore",
+            "School"
+        ],
+        "episodes": 1,
+        "duration": "1 hr 51 min",
+        "studios": [
+            "MAPPA"
+        ],
+        "rating": "R - 17+ (violence & profanity)"
     }
 ]
