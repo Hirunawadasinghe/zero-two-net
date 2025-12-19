@@ -1610,6 +1610,23 @@
                     "url": "tokyo-godfathers"
                 }
             ]
+        },
+        {
+            "id": [
+                "1044"
+            ],
+            "sub": [
+                {
+                    "auth": 6,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-hidden-inventory-premature-death"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "jujutsu-kaisen-hidden-inventory-premature-death"
+                }
+            ]
         }
     ]
 }
