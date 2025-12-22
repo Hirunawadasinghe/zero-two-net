@@ -1620,5 +1620,42 @@
             "MAPPA"
         ],
         "rating": "R - 17+ (violence & profanity)"
+    },
+    {
+        "movie_id": "1045",
+        "mal_id": 28725,
+        "name": "The Anthem of the Heart",
+        "alt_name": "Kokoro ga Sakebitagatterunda.",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1245/112628.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1245/112628.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/112628t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/112628l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1245/112628.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/112628t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/112628l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Jun Naruse is a chatterbox whose life is colored by fairy tales and happy endings. However, influenced by her deep belief in those tales, she is too naive and trusting, and her words soon shatter her family's bond when she inadvertently reveals her father's affair. Naruse is scarred for life after being blamed for her parent's divorce, and her regrets soon manifest into a fairy egg—a being who seals her mouth from speaking in order to protect everyone's happy ending.\n\nNow, even in high school, Naruse's speech remains locked by the fairy egg. Even trying to speak causes her stomach to twist. Though unable to convey her thoughts through words, she is unexpectedly chosen to perform in a musical alongside three other students: Takumi Sakagami, Natsuki Nitou, and Daiki Tasaki. Naruse makes her way to the club room to reject the daunting task, but changes her mind when she overhears Sakagami's beautiful singing.\n\nPerhaps the fairy egg \"curse\" does not apply to singing, and perhaps Sakagami is the fairy tale prince she has been seeking all along. Will Naruse be able to convey the anthem of her heart?\n\n[Written by MAL Rewrite]",
+        "language": "Dual Audio",
+        "type": "Movie",
+        "release_year": "Sep 19, 2015",
+        "season": null,
+        "tags": [
+            "Drama",
+            "Romance",
+            "Performing Arts",
+            "School"
+        ],
+        "episodes": 1,
+        "duration": "1 hr 59 min",
+        "studios": [
+            "A-1 Pictures"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
     }
 ]
