@@ -54,9 +54,9 @@ function b2_list_files($apiUrl, $authToken, $prefix, $maxRetries = 10)
 // ----------------------
 //  DOWNLOAD FILE
 // ----------------------
-function b2_download_file($downloadUrl, $authToken, $fileName, $maxRetries = 10)
+function b2_download_file($downloadUrl, $authToken, $fileName, $maxRetries = 3)
 {
-    $url = rtrim($downloadUrl, '/') . '/file/' . $fileName;
+    $url = rtrim($downloadUrl, '/') . '/file/' . rawurlencode($fileName);
     $headers = [
         'Authorization: ' . $authToken
     ];
@@ -118,4 +118,5 @@ function b2_api_request($url, $method, $headers = [], $body = null, $maxRetries 
 
     return false;
 }
+
 
