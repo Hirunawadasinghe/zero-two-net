@@ -1630,23 +1630,6 @@
         },
         {
             "id": [
-                "25"
-            ],
-            "sub": [
-                {
-                    "auth": 11,
-                    "lan": "si",
-                    "url": "attack-on-titan-s1"
-                },
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "attack-on-titan-s1"
-                }
-            ]
-        },
-        {
-            "id": [
                 "759",
                 "758"
             ],
@@ -1678,6 +1661,23 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "highschool-of-the-dead-drifters-of-the-dead"
+                }
+            ]
+        },
+        {
+            "id": [
+                "25"
+            ],
+            "sub": [
+                {
+                    "auth": 11,
+                    "lan": "si",
+                    "url": "attack-on-titan-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "attack-on-titan-s1"
                 }
             ]
         }
