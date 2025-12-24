@@ -9,7 +9,8 @@
         "7": "චමිදු කුශාන්ත​",
         "8": "ෂනාල් සිල්වා",
         "9": "ඉසුරු නවෝද්‍ය",
-        "10": "AVEEZ ID"
+        "10": "AVEEZ ID",
+        "11": "රවිඳුු බණ්ඩාර"
     },
     "iso_codes": {
         "en": "English",
@@ -139,8 +140,7 @@
         },
         {
             "id": [
-                "95",
-                "96"
+                "95"
             ],
             "sub": [
                 {
@@ -1466,6 +1466,7 @@
         },
         {
             "id": [
+                "759",
                 "758"
             ],
             "sub": [
@@ -1625,6 +1626,40 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "jujutsu-kaisen-hidden-inventory-premature-death"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1045"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "anthem-of-the-heart"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "anthem-of-the-heart"
+                }
+            ]
+        },
+        {
+            "id": [
+                "25"
+            ],
+            "sub": [
+                {
+                    "auth": 11,
+                    "lan": "si",
+                    "url": "attack-on-titan-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "attack-on-titan-s1"
                 }
             ]
         }
