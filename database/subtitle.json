@@ -1662,6 +1662,24 @@
                     "url": "high-school-of-the-dead"
                 }
             ]
+        },
+        {
+            "id": [
+                "761",
+                "760"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "highschool-of-the-dead-drifters-of-the-dead"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "highschool-of-the-dead-drifters-of-the-dead"
+                }
+            ]
         }
     ]
 }
