@@ -9697,7 +9697,7 @@
         },
         "trailer": null,
         "description": "After escaping the zombie-infested mainland, Takashi Komuro and the gang find themselves on a remote island off the coast of Tokonosu City. While scavenging around the island for supplies, they encounter a small seaside shack that provides them with clothing and a place to rest for the night. After a day's work of collecting food, they begin to cook what they have gathered. \n\nAs they wait beside the campfire, a light haze begins to form around them and makes them nauseous. Confirming it to be caused by hydrangeas—a type of poisonous plant that can cause hallucinations—the group attempts to escape from the powerful odor. \n\n[Written by MAL Rewrite]",
-        "language": "Japanese",
+        "language": "Dual Audio",
         "type": "OVA",
         "release_year": "Apr 26, 2011",
         "season": null,
@@ -9711,14 +9711,13 @@
         "studios": [
             "Madhouse"
         ],
-        "rating": "R+ - Mild Nudity",
-        "hide": true
+        "rating": "R+ - Mild Nudity"
     },
     {
         "movie_id": "761",
         "mal_id": 9515,
-        "name": "Highschool of the Dead: Drifters of the Dead",
-        "alt_name": "Highschool of the Dead: Drifters of the Dead",
+        "name": "Highschool of the Dead: Drifters of the Dead - Sinhala Subbed",
+        "alt_name": "Highschool of the Dead: Drifters of the Dead - Sinhala Subbed",
         "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1746\/97780.jpg",
         "images": {
             "jpg": {
@@ -9734,7 +9733,7 @@
         },
         "trailer": null,
         "description": "After escaping the zombie-infested mainland, Takashi Komuro and the gang find themselves on a remote island off the coast of Tokonosu City. While scavenging around the island for supplies, they encounter a small seaside shack that provides them with clothing and a place to rest for the night. After a day's work of collecting food, they begin to cook what they have gathered. \n\nAs they wait beside the campfire, a light haze begins to form around them and makes them nauseous. Confirming it to be caused by hydrangeas—a type of poisonous plant that can cause hallucinations—the group attempts to escape from the powerful odor. \n\n[Written by MAL Rewrite]",
-        "language": "English",
+        "language": "Japanese",
         "type": "OVA",
         "release_year": "Apr 26, 2011",
         "season": null,
@@ -9748,8 +9747,7 @@
         "studios": [
             "Madhouse"
         ],
-        "rating": "R+ - Mild Nudity",
-        "hide": true
+        "rating": "R+ - Mild Nudity"
     },
     {
         "movie_id": "762",
