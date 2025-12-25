@@ -3588,40 +3588,41 @@
     },
     {
         "movie_id": "96",
-        "mal_id": 51535,
-        "name": "Attack on Titan: Final Season - The Final Chapters",
-        "alt_name": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
-        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1279\/131078.jpg",
+        "mal_id": 16498,
+        "name": "Attack on Titan - Sinhala Subbed",
+        "alt_name": "Shingeki no Kyojin - Sinhala Subbed",
+        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/47347.jpg",
         "images": {
             "jpg": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1279\/131078.jpg",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1279\/131078t.jpg",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1279\/131078l.jpg"
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/47347.jpg",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/47347t.jpg",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/47347l.jpg"
             },
             "webp": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1279\/131078.webp",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1279\/131078t.webp",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1279\/131078l.webp"
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/47347.webp",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/47347t.webp",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/47347l.webp"
             }
         },
-        "trailer": "E7WytLM2KvY",
-        "description": "In the wake of Eren Yeager's cataclysmic actions, his friends and former enemies form an alliance against his genocidal rampage. Though once bitter foes, Armin Arlert, Mikasa Ackerman, and the remaining members of the Scout Regiment join forces with Reiner Braun and the survivors of the Marleyan military. Their meager united front sets out on a mission to stop Eren's wrath and—if possible—save their old comrade in the process.\n\nAs Eren pushes forward at any cost, he battles his own internal turmoil. Although he feels immense remorse over his horrific invasion, Eren believes he harbors noble intentions: he believes the path ahead is the only way to save his friends and, to a greater extent, his people.\n\nThe opposing battalions spiral toward an inevitable final clash that may claim the lives of millions. Though they face an army of monsters beyond anything they could have previously imagined, Mikasa, Armin, and their allies stand brave in the face of certain doom.\n\n[Written by MAL Rewrite]",
-        "language": "English",
-        "type": "TV Special",
-        "release_year": "Mar 4, 2023",
-        "season": null,
+        "trailer": "LHtdKWJdif4",
+        "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached.\n\n[Written by MAL Rewrite]",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Apr 7, 2013",
+        "season": "spring",
         "tags": [
             "Action",
+            "Award Winning",
             "Drama",
             "Suspense",
             "Gore",
             "Military",
             "Survival"
         ],
-        "episodes": 2,
-        "duration": "1 hr 12 min per ep",
+        "episodes": 25,
+        "duration": "24 min per ep",
         "studios": [
-            "MAPPA"
+            "Wit Studio"
         ],
         "rating": "R - 17+ (violence & profanity)"
     },
