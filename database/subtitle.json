@@ -1682,6 +1682,23 @@
                     "url": "attack-on-titan-s1"
                 }
             ]
+        },
+        {
+            "id": [
+                "1046"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "the-boy-and-the-beast"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "the-boy-and-the-beast"
+                }
+            ]
         }
     ]
 }
