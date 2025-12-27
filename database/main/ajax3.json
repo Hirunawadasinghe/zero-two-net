@@ -1657,5 +1657,80 @@
             "A-1 Pictures"
         ],
         "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1046",
+        "mal_id": 28805,
+        "name": "The Boy and the Beast",
+        "alt_name": "Bakemono no Ko",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/11/73540.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/73540.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/73540t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/73540l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/73540.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/11/73540t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/11/73540l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Two souls, living very different lives, wander alone and isolated in their respective worlds. For nine-year-old Ren, the last person who treated him with any form of kindness has been killed, and he is shunned by what is left of his family. With no parents, no real family, and no place to go, Ren escapes into the confusing streets and alleyways of Shibuya. Through the twists and turns of the alleys, Ren stumbles into the intimidating Kumatetsu, who leads him to the beast realm of Shibuten.\n\nFor Kumatetsu, the boy represents a chance for him to become a candidate to replace the lord of the realm once he retires. While nearly unmatched in combat, Kumatetsu's chilly persona leaves him with no disciples to teach and no way to prove he is worthy of becoming the lord's successor. \n\nWhile the two share different goals, they agree to help each other in order to reach them. Kumatetsu searches for recognition; Ren, now known as Kyuuta, searches for the home he never had. As the years pass by, it starts to become apparent that the two are helping each other in more ways than they had originally thought. Perhaps there has always been less of a difference between them, a boy and a beast, than either of the two ever realized.\n\n[Written by MAL Rewrite]",
+        "language": "Japanese",
+        "type": "Movie",
+        "release_year": "Jul 11, 2015",
+        "season": null,
+        "tags": [
+            "Fantasy",
+            "Anthropomorphic",
+            "Isekai"
+        ],
+        "episodes": 1,
+        "duration": "1 hr 59 min",
+        "studios": [
+            "Studio Chizu"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1047",
+        "mal_id": 62708,
+        "name": "Threads of Fate: A War Untold",
+        "alt_name": "Shanhai Jing Mima",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1623/154639.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1623/154639.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1623/154639t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1623/154639l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1623/154639.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1623/154639t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1623/154639l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Shang prince Youshen Bupo rescued Jiang Li, disciple of Taiyi Sect, and the two of them traveled together, adventuring across the vast wilderness. They joined a merchant caravan, encountered heavenly tribulations, faced fierce beasts, defeated bandits, and rescued the heroine… Bound together by fate, the two became embroiled in a great war between the Xia and Shang dynasties.\n\n(Source: Youku)",
+        "language": "Chinese",
+        "type": "ONA",
+        "release_year": "Dec 27, 2025",
+        "season": null,
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Historical",
+            "Martial Arts"
+        ],
+        "episodes": null,
+        "duration": "Unknown",
+        "studios": [
+            "Qingxiang Culture"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "hide": true
     }
 ]
