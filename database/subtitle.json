@@ -11,7 +11,9 @@
         "9": "ඉසුරු නවෝද්‍ය",
         "10": "AVEEZ ID",
         "11": "රවිඳුු බණ්ඩාර",
-        "12": "හිරු ප්‍රභා පෙරේරා"
+        "12": "නවෝදනී තිළිණි",
+        "13": "කවීෂ කල්‍යාණ",
+        "14": "හිරු ප්‍රභා පෙරේරා"
     },
     "iso_codes": {
         "en": "English",
@@ -961,19 +963,6 @@
         },
         {
             "id": [
-                "30",
-                "70"
-            ],
-            "sub": [
-                {
-                    "auth": 3,
-                    "lan": "si",
-                    "url": "i-want-to-eat-your-pancreas"
-                }
-            ]
-        },
-        {
-            "id": [
                 "173",
                 "174"
             ],
@@ -1697,6 +1686,69 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "the-boy-and-the-beast"
+                }
+            ]
+        },
+        {
+            "id": [
+                "176"
+            ],
+            "sub": [
+                {
+                    "auth": 12,
+                    "lan": "si",
+                    "url": "akira"
+                }
+            ]
+        },
+        {
+            "id": [
+                "30"
+            ],
+            "sub": [
+                {
+                    "auth": 13,
+                    "lan": "si",
+                    "url": "i-want-to-eat-your-pancreas"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "i-want-to-eat-your-pancreas"
+                }
+            ]
+        },
+        {
+            "id": [
+                "175"
+            ],
+            "sub": [
+                {
+                    "auth": 12,
+                    "lan": "si",
+                    "url": "paprika"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "paprika"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1047"
+            ],
+            "sub": [
+                {
+                    "auth": 14,
+                    "lan": "si",
+                    "url": "threads-of-fate-a-war-untold"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "threads-of-fate-a-war-untold"
                 }
             ]
         }
