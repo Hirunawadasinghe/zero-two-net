@@ -13,7 +13,8 @@
         "11": "රවිඳුු බණ්ඩාර",
         "12": "නවෝදනී තිළිණි",
         "13": "කවීෂ කල්‍යාණ",
-        "14": "හිරු ප්‍රභා පෙරේරා"
+        "14": "හිරු ප්‍රභා පෙරේරා",
+        "15": "DML ගංගානාත්"
     },
     "iso_codes": {
         "en": "English",
@@ -71,19 +72,6 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "hunter-x-hunter-2011"
-                }
-            ]
-        },
-        {
-            "id": [
-                "103",
-                "104"
-            ],
-            "sub": [
-                {
-                    "auth": 4,
-                    "lan": "si",
-                    "url": "solo-leveling-s1"
                 }
             ]
         },
@@ -1643,7 +1631,7 @@
             ],
             "sub": [
                 {
-                    "auth": 11,
+                    "auth": 12,
                     "lan": "si",
                     "url": "attack-on-titan-s1"
                 },
@@ -1749,6 +1737,40 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "demon-slayer-infinity-castle"
+                }
+            ]
+        },
+        {
+            "id": [
+                "103"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "solo-leveling-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "solo-leveling-s1-2"
+                },
+                {
+                    "auth": 15,
+                    "lan": "si",
+                    "url": "solo-leveling-s1-3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "26"
+            ],
+            "sub": [
+                {
+                    "auth": 12,
+                    "lan": "si",
+                    "url": "attack-on-titan-s2"
                 }
             ]
         }
