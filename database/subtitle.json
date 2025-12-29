@@ -535,24 +535,6 @@
         },
         {
             "id": [
-                "897",
-                "1024"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "demon-slayer-infinity-castle"
-                },
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "demon-slayer-infinity-castle"
-                }
-            ]
-        },
-        {
-            "id": [
                 "984"
             ],
             "sub": [
@@ -1749,6 +1731,24 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "threads-of-fate-a-war-untold"
+                }
+            ]
+        },
+        {
+            "id": [
+                "897",
+                "1024"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "demon-slayer-infinity-castle"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "demon-slayer-infinity-castle"
                 }
             ]
         }
