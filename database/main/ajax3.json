@@ -1699,17 +1699,17 @@
         "mal_id": 62708,
         "name": "Threads of Fate: A War Untold",
         "alt_name": "Shanhai Jing Mima",
-        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1623/154639.jpg",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1392/153789.jpg",
         "images": {
             "jpg": {
-                "image_url": "https://cdn.myanimelist.net/images/anime/1623/154639.jpg",
-                "small_image_url": "https://cdn.myanimelist.net/images/anime/1623/154639t.jpg",
-                "large_image_url": "https://cdn.myanimelist.net/images/anime/1623/154639l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1392/153789.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1392/153789t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1392/153789l.jpg"
             },
             "webp": {
-                "image_url": "https://cdn.myanimelist.net/images/anime/1623/154639.webp",
-                "small_image_url": "https://cdn.myanimelist.net/images/anime/1623/154639t.webp",
-                "large_image_url": "https://cdn.myanimelist.net/images/anime/1623/154639l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1392/153789.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1392/153789t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1392/153789l.webp"
             }
         },
         "trailer": null,
@@ -1727,6 +1727,152 @@
         ],
         "episodes": null,
         "duration": "Unknown",
+        "studios": [
+            "Qingxiang Culture"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1048",
+        "mal_id": 61621,
+        "name": "Eclipse of Illusion",
+        "alt_name": "Yun Shen Buzhi Meng",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1897/150259.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1897/150259.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/150259t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/150259l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1897/150259.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/150259t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/150259l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Yun Wangshu's wedding was meant to be the happiest day of her life, but a brutal conspiracy turned it into a nightmare, slaughtering her entire clan. After a narrow escape, she made a desperate deal with the Silent Court. Now, sixty years later, reborn as the merciless Xihe, she's ready to make her enemies bleed for everything they took from her.\n\n(Source: Youku)",
+        "language": "Chinese",
+        "type": "ONA",
+        "release_year": "Jul 5, 2025",
+        "season": null,
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Historical"
+        ],
+        "episodes": 26,
+        "duration": "23 min per ep",
+        "studios": [
+            "Yien Animation Studio"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1049",
+        "mal_id": 59389,
+        "name": "The Swords",
+        "alt_name": "Jian Lai",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1740/144466.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1740/144466.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/144466t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/144466l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1740/144466.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/144466t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/144466l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "The world is vast and full of wonders. In the mystical realm of Lizhu Cave, a destitute youth destined for greatness finds his fate upended when his life-bound porcelain shatters. Though fortune beckons, it remains tantalizingly out of reach. As a result, powerful figures begin weaving intricate schemes around him, turning the boy into the linchpin of their designs. While those around him reap extraordinary opportunities, the youth himself is left standing alone at the eye of the storm...\n\n(Source: WeTV)",
+        "language": "Chinese",
+        "type": "ONA",
+        "release_year": "Aug 15, 2024",
+        "season": null,
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Historical",
+            "Martial Arts"
+        ],
+        "episodes": 26,
+        "duration": "25 min per ep",
+        "studios": [
+            "Cloud Art"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1050",
+        "mal_id": 61622,
+        "name": "Embers",
+        "alt_name": "Yujin Xingzhe",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1302/150125.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1302/150125.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1302/150125t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1302/150125l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1302/150125.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1302/150125t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1302/150125l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "In a quiet village, a young boy named Duanmu Yeyu was once saved by the elite “Hell Hunters” of Ember City. Deeply inspired by these heroes, he vowed to one day become a Hell Hunter himself. As he boards a bus to Ember City to chase his dream, Yeyu is unknowingly swept into a storm of chaos. The main antagonist, Lucifer, sends a bioengineered operative named MIKO-Taiyi to infiltrate Ember City and steal classified data. \n\nDuring a fierce battle with the Hell Hunters, Taiyi is severely injured and falls unconscious. Yeyu stumbles upon Taiyi and, unaware of Taiyi's identity, brings Taiyi back to the Hell Hunters’ base for treatment. In the process, Yeyu unintentionally takes a critical mission device from Taiyi. As Yeyu begins his long-awaited trial to join the Hell Hunters, his innocent act sets off a chain reaction. Taiyi, desperate to avoid detection by Ember City forces, must covertly approach Yeyu and retrieve the device. \n\nMeanwhile, Lucifer dispatches tens of thousands of minions to locate the missing Taiyi. Thus begins a citywide conflict, sparked by a small act of kindness, that threatens to become a battle for Ember City’s very survival.\n\n(Source: iQIYI)",
+        "language": "Chinese",
+        "type": "ONA",
+        "release_year": "Jun 12, 2025",
+        "season": null,
+        "tags": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "episodes": 15,
+        "duration": "21 min per ep",
+        "studios": [
+            "D.ROCK-ART"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1051",
+        "mal_id": 60089,
+        "name": "World of Immortals",
+        "alt_name": "Chang Sheng Jie",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1061/152298.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1061/152298.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1061/152298t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1061/152298l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1061/152298.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1061/152298t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1061/152298l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "The World of Immortals, it is the world every mortals long for. For many, it is an eternal glory to distort the dimension and enter the World of Immortals. But the vicissitude of time is simply merciless, the legends regarding immortality had long been forgotten. However, a miracle shall rise once more! An immortal was about to distort the dimension with martial arts and cut all ties with the mortal world. The protagonist, Xiao Chen, was caught up in it and accidentally brought to the World of Immortals. What will they find in the vast world beyond the rift?\n\n(Source: MU)",
+        "language": "Chinese",
+        "type": "ONA",
+        "release_year": "Oct 29, 2024",
+        "season": null,
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Historical"
+        ],
+        "episodes": 26,
+        "duration": "22 min per ep",
         "studios": [
             "Qingxiang Culture"
         ],
