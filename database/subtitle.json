@@ -1729,6 +1729,11 @@
             ],
             "sub": [
                 {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "demon-slayer-infinity-castle-2"
+                },
+                {
                     "auth": 2,
                     "lan": "si",
                     "url": "demon-slayer-infinity-castle"
