@@ -1877,5 +1877,43 @@
             "Qingxiang Culture"
         ],
         "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1052",
+        "mal_id": 51039,
+        "name": "Battle Through The Heavens Season 5",
+        "alt_name": "Doupo Cangqiong: Nian Fan",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1419/126374.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1419/126374.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1419/126374t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1419/126374l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1419/126374.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1419/126374t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1419/126374l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Fifth season of Doupo Cangqiong.",
+        "language": "Japanese",
+        "type": "ONA",
+        "release_year": "Jul 31, 2022",
+        "season": null,
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Historical",
+            "Martial Arts"
+        ],
+        "episodes": 209,
+        "duration": "24 min per ep",
+        "studios": [
+            "Motion Magic"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
     }
 ]
