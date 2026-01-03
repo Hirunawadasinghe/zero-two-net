@@ -1673,7 +1673,8 @@
         },
         {
             "id": [
-                "30"
+                "30",
+                "980"
             ],
             "sub": [
                 {
@@ -1729,7 +1730,7 @@
             ],
             "sub": [
                 {
-                    "auth": 1,
+                    "auth": 8,
                     "lan": "si",
                     "url": "demon-slayer-infinity-castle-2"
                 },
