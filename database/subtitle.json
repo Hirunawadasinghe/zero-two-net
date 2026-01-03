@@ -946,19 +946,6 @@
         },
         {
             "id": [
-                "165",
-                "166"
-            ],
-            "sub": [
-                {
-                    "auth": 4,
-                    "lan": "si",
-                    "url": "heavenly-delusion"
-                }
-            ]
-        },
-        {
-            "id": [
                 "420",
                 "421"
             ],
@@ -1777,6 +1764,18 @@
                     "auth": 12,
                     "lan": "si",
                     "url": "attack-on-titan-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "165"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "heavenly-delusion"
                 }
             ]
         }
