@@ -16680,40 +16680,39 @@
     },
     {
         "movie_id": "980",
-        "mal_id": 53516,
-        "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
-        "alt_name": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
-        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1580\/141243.jpg",
+        "mal_id": 36098,
+        "name": "I Want To Eat Your Pancreas - Sinhala Subbed",
+        "alt_name": "Kimi no Suizou wo Tabetai - Sinhala Subbed",
+        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1768\/93291.jpg",
         "images": {
             "jpg": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1580\/141243.jpg",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1580\/141243t.jpg",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1580\/141243l.jpg"
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1768\/93291.jpg",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1768\/93291t.jpg",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1768\/93291l.jpg"
             },
             "webp": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1580\/141243.webp",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1580\/141243t.webp",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1580\/141243l.webp"
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1768\/93291.webp",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1768\/93291t.webp",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1768\/93291l.webp"
             }
         },
-        "trailer": "aK8Gtxw-9bE",
-        "description": "In his past life, Prince Lloyd de Saloum was a commoner who could not become adept at magic, no matter how knowledgeable or obsessed he was about it. Now reincarnated into his current royal lineage, he receives a body with seemingly endless mana, making his desire to master all things arcane attainable. Moreover, as the seventh prince of the kingdom, Lloyd has no claim to the throne, allowing him to nurture his abilities as freely as he wants.\n\nUnfortunately for Lloyd, ancient seals that imprison powerful demons begin to break down and release the horrors within, endangering the peace. With these monstrosities roaming around, Lloyd's overwhelming magical prowess is the ultimate weapon that can neutralize these threats before all things descend to chaos.\n\n[Written by MAL Rewrite]",
+        "trailer": "MONVPR1dnRQ",
+        "description": "The aloof protagonist: a bookworm who is deeply detached from the world he resides in. He has no interest in others and is firmly convinced that nobody has any interest in him either. His story begins when he stumbles across a handwritten book, titled Living with Dying. He soon identifies it as a secret diary belonging to his popular, bubbly classmate Sakura Yamauchi. She then confides in him about the pancreatic disease she is suffering from and that her time left is finite. Only her family knows about her terminal illness; not even her best friends are aware. Despite this revelation, he shows zero sympathy for her plight, but caught in the waves of Sakura's persistent buoyancy, he eventually concedes to accompanying her for her remaining days.\n\nAs the pair of polar opposites interact, their connection strengthens, interweaving through their choices made with each passing day. Her apparent nonchalance and unpredictability disrupts the protagonist's impassive flow of life, gradually opening his heart as he discovers and embraces the true meaning of living.\n\n[Written by MAL Rewrite]",
         "language": "Japanese",
-        "type": "TV",
-        "release_year": "Apr 2, 2024",
-        "season": "spring",
+        "type": "Movie",
+        "release_year": "Sep 1, 2018",
+        "season": null,
         "tags": [
-            "Adventure",
-            "Fantasy",
-            "Reincarnation"
+            "Drama",
+            "Romance",
+            "School"
         ],
-        "episodes": 12,
-        "duration": "23 min per ep",
+        "episodes": 1,
+        "duration": "1 hr 48 min",
         "studios": [
-            "Tsumugi Akita Animation Lab"
+            "Studio VOLN"
         ],
-        "rating": "PG-13 - Teens 13 or older",
-        "hide": true
+        "rating": "PG-13 - Teens 13 or older"
     },
     {
         "movie_id": "981",
