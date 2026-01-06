@@ -1547,6 +1547,11 @@
             ],
             "sub": [
                 {
+                    "auth": 9,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-hidden-inventory-premature-death-2"
+                },
+                {
                     "auth": 6,
                     "lan": "si",
                     "url": "jujutsu-kaisen-hidden-inventory-premature-death"
