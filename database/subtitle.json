@@ -1783,6 +1783,47 @@
                     "url": "heavenly-delusion"
                 }
             ]
+        },
+        {
+            "id": [
+                "1058"
+            ],
+            "sub": [
+                {
+                    "auth": 5,
+                    "lan": "si",
+                    "url": "tiger-crane"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1059"
+            ],
+            "sub": [
+                {
+                    "auth": 5,
+                    "lan": "si",
+                    "url": "throne-of-seal-movie-the-legend-of-electrolux"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "throne-of-seal-movie-the-legend-of-electrolux"
+                }
+            ]
+        },
+        {
+            "id": [
+                "204"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "cyberpunk-edgerunners"
+                }
+            ]
         }
     ]
 }
