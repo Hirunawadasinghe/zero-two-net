@@ -47,7 +47,7 @@ function sendTelegramMessage($botToken, $chatId, $message)
 
 $download_url = $auth['downloadUrl'];
 $auth_token = $auth['authorizationToken'];
-$supported_ext = ['srt', 'ass', 'ssa', 'sub', 'vtt', 'txt'];
+$supported_ext = ['srt', 'ass', 'ssa', 'sub', 'idx', 'vtt', 'txt'];
 
 $result = [];
 
@@ -99,3 +99,4 @@ if (!isset($result['data'])) {
 }
 
 echo json_encode($result);
+
