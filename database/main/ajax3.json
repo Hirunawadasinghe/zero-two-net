@@ -1915,5 +1915,254 @@
             "Motion Magic"
         ],
         "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1053",
+        "mal_id": 8676,
+        "name": "Amagami SS",
+        "alt_name": "Amagami SS",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/10/78699.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/78699.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78699t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78699l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/78699.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78699t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78699l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Two years ago, Junichi Tachibana had a date on Christmas Eve but was stood up instead. Since then, he has had a hard time showing others his true feelings in fear of being rejected again. However, as luck would have it, Junichi may have a second chance at love when he meets several girls whom he becomes romantically interested in: Haruka Morishima, the energetic and popular upperclassman with a love for cute things; Kaoru Tanamachi, his childhood friend who harbors secret feelings for him; Sae Nakata, the timid transfer student who is shy around men; Ai Nanasaki, a girl on the swim team who has a bad first impression of Junichi; Rihoko Sakurai, a childhood friend with a love for sweets; and Tsukasa Ayatsuji, a seemingly perfect class representative who has a hidden dark side. As Christmas Eve approaches, Junichi can only hope that this will be the year he will finally spend the holidays with the one he truly loves.\n \n[Written by MAL Rewrite]",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Jul 2, 2010",
+        "season": "summer",
+        "tags": [
+            "Romance",
+            "School"
+        ],
+        "episodes": 25,
+        "duration": "24 min per ep",
+        "studios": [
+            "AIC"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1054",
+        "mal_id": 11235,
+        "name": "Amagami SS+ plus",
+        "alt_name": "Amagami SS+ Plus",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1951/114976.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1951/114976.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1951/114976t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1951/114976l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1951/114976.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1951/114976t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1951/114976l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "In the aftermath of Amagami SS, high school student Junichi Tachibana continues his relationships with the girls at his school. Amagami SS+ Plus offers a glimpse into what happened after the resolution of each girl's individual story. \n\nNew events begin to take place between each of the girls and Junichi. Tsukasa Ayatsuji, the class representative, runs for student council president; Rihoko Sakurai, who has taken over the Tea Club with Junichi, still wants to confess her feelings to him; Ai Nanasaki questions the future of her relationship with Junichi when he leaves for college; Kaoru Tanamachi wonders if her relationship with Junichi will ever go any further; Sae Nakata and Junichi deal with classmates who still can't believe that someone so cute is his girlfriend; and Haruka Morishima wants to take their relationship to the next level and get married.\n\n[Written by MAL Rewrite]",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Jan 6, 2012",
+        "season": "winter",
+        "tags": [
+            "Romance",
+            "School"
+        ],
+        "episodes": 13,
+        "duration": "24 min per ep",
+        "studios": [
+            "AIC"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1055",
+        "mal_id": 12669,
+        "name": "Amagami SS+ Plus: Extra Episode+ Plus",
+        "alt_name": "Amagami SS+ Plus: Extra Episode+ Plus",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/12/56023.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/56023.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/56023t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/56023l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/56023.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/12/56023t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/12/56023l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Short extras of the anime included in each of the six Blu-ray volumes of Amagami SS+.",
+        "language": "Japanese",
+        "type": "Special",
+        "release_year": "Apr 4, 2012",
+        "season": null,
+        "tags": [
+            "Romance"
+        ],
+        "episodes": 6,
+        "duration": "3 min per ep",
+        "studios": [
+            "AIC"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1056",
+        "mal_id": 15951,
+        "name": "Amagami SS+ Plus Picture Drama",
+        "alt_name": "Amagami SS+ Plus Picture Drama",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/8/55899.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/55899.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/55899t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/55899l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/55899.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/8/55899t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/8/55899l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Picture Dramas from the DVD/BD Vol.7.",
+        "language": "Japanese",
+        "type": "Special",
+        "release_year": "Oct 3, 2012",
+        "season": null,
+        "tags": [
+            "Romance"
+        ],
+        "episodes": 2,
+        "duration": "7 min per ep",
+        "studios": [
+            "AIC"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1057",
+        "mal_id": 33836,
+        "name": "Seiren",
+        "alt_name": "Seiren",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1465/121561.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1465/121561.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1465/121561t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1465/121561l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1465/121561.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1465/121561t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1465/121561l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "For high school students like Shouichi Kamita, university entrance exams and the future are common concerns. It is also during this time in life that a mysterious emotion that vexes people of all ages may begin to weigh upon one's mind—love.\n\nAt this point in his teenage years, Shouichi finds three girls he could see himself having a future with: the ever-cheerful Hikari Tsuneki, who teases Shouichi without mercy, but actually has a softer side; the competitive gamer, Tooru Miyamae, who has difficulty communicating with others; and Shouichi's childhood friend, Kyouko Touno, the sometimes immature shoujo manga enthusiast. Seiren follows Shouichi's relationships with these three girls across three separate arcs, as their feelings grow from mutual interest and blossom into something more beautiful.\n\n[Written by MAL Rewrite]",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Jan 6, 2017",
+        "season": "winter",
+        "tags": [
+            "Romance",
+            "Harem",
+            "School"
+        ],
+        "episodes": 12,
+        "duration": "24 min per ep",
+        "studios": [
+            "Studio Gokumi",
+            "AXsiZ"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1058",
+        "mal_id": 59977,
+        "name": "Tiger Crane",
+        "alt_name": "Hu He Yao Shi Lu",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1717/145797.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1717/145797.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1717/145797t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1717/145797l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1717/145797.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1717/145797t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1717/145797l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "In a world where humans and demons coexist and compete, people who practice magic and kill demons as their own mission are called demon masters. Qi Xiaoxuan, the captain of the national demon master, met the prodigal Huzi by accident, and the two embarked on a journey to slay demons and protect the Tao together. Now, the world has experienced five hundred years of peace, and the demons are already ready to move, casting a haze on their future...\n\n(Source: Bilibili, translated)",
+        "language": "Chinese",
+        "type": "ONA",
+        "release_year": "Oct 5, 2024",
+        "season": null,
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Historical",
+            "Martial Arts"
+        ],
+        "episodes": 24,
+        "duration": "20 min per ep",
+        "studios": [
+            "Motion Magic"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1059",
+        "mal_id": 61508,
+        "name": "Throne of Seal Movie: The Legend of Electrolux",
+        "alt_name": "Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1183/149275.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1183/149275.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1183/149275t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1183/149275l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1183/149275.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1183/149275t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1183/149275l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "The legendary epic of Electrolux recreates the glorious journey of the great Holy Necromancer God Electrolux, the Scourge of the Undead.\n\n(Source: Tencent, translated)",
+        "language": "Chinese",
+        "type": "ONA",
+        "release_year": "Apr 30, 2025",
+        "season": null,
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "episodes": 1,
+        "duration": "1 hr 30 min",
+        "studios": [
+            "Shenman Entertainment"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
     }
 ]
