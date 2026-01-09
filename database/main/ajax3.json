@@ -2127,7 +2127,8 @@
         "studios": [
             "Motion Magic"
         ],
-        "rating": "PG-13 - Teens 13 or older"
+        "rating": "PG-13 - Teens 13 or older",
+        "hide": true
     },
     {
         "movie_id": "1059",
