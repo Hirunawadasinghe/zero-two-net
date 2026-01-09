@@ -2164,5 +2164,41 @@
             "Shenman Entertainment"
         ],
         "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1060",
+        "mal_id": 57658,
+        "name": "Jujutsu Kaisen: The Culling Game Part 1",
+        "alt_name": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1127/154488.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1127/154488.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1127/154488t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1127/154488l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1127/154488.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1127/154488t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1127/154488l.webp"
+            }
+        },
+        "trailer": "MPfZhgLiK6w",
+        "description": "Sequel to Jujutsu Kaisen 2nd Season.",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Jan 9, 2026",
+        "season": "winter",
+        "tags": [
+            "Action",
+            "Supernatural",
+            "School"
+        ],
+        "episodes": null,
+        "duration": "Unknown",
+        "studios": [
+            "MAPPA"
+        ],
+        "rating": "R - 17+ (violence & profanity)"
     }
 ]
