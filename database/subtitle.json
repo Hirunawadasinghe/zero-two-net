@@ -1740,6 +1740,18 @@
         },
         {
             "id": [
+                "204"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "cyberpunk-edgerunners"
+                }
+            ]
+        },
+        {
+            "id": [
                 "103"
             ],
             "sub": [
@@ -1815,13 +1827,13 @@
         },
         {
             "id": [
-                "204"
+                "1060"
             ],
             "sub": [
                 {
-                    "auth": 4,
+                    "auth": 8,
                     "lan": "si",
-                    "url": "cyberpunk-edgerunners"
+                    "url": "jujutsu-kaisen-s3-p1"
                 }
             ]
         }
