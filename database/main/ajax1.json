@@ -6234,8 +6234,8 @@
     {
         "movie_id": "166",
         "mal_id": 53393,
-        "name": "Heavenly Delusion",
-        "alt_name": "Tengoku Daimakyou",
+        "name": "Heavenly Delusion - Sinhala Subbed",
+        "alt_name": "Tengoku Daimakyou - Sinhala Subbed",
         "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1121\/133132.jpg",
         "images": {
             "jpg": {
@@ -6251,7 +6251,7 @@
         },
         "trailer": "62_aXZGkG3E",
         "description": "Fifteen years ago, disaster struck human civilization, and now dangerous man-eating monsters roam the ravaged lands, posing an existential threat to the remaining survivors. Amid this turmoil, an isolated facility shelters children and nurtures them in peace. However, as a few among them find out about the world beyond the narrow periphery of their nursery's walls, their curiosity about it slowly grows.\n\nMeanwhile, in the outside world, young survivors Maru and Kiruko band together to search for a special place called Heaven, each for their own reasons. Carrying past burdens and tragic secrets, the two hope to find answers to the cruelty they have experienced in their lives and in the world, which still remains in tatters.\n\n[Written by MAL Rewrite]",
-        "language": "English",
+        "language": "Japanese",
         "type": "TV",
         "release_year": "Apr 1, 2023",
         "season": "spring",
@@ -6265,8 +6265,7 @@
         "studios": [
             "Production I.G"
         ],
-        "rating": "R - 17+ (violence & profanity)",
-        "hide": true
+        "rating": "R - 17+ (violence & profanity)"
     },
     {
         "movie_id": "167",
@@ -7716,41 +7715,39 @@
     },
     {
         "movie_id": "205",
-        "mal_id": 42310,
-        "name": "Cyberpunk: Edgerunners",
-        "alt_name": "Cyberpunk: Edgerunners",
-        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1818\/126435.jpg",
+        "mal_id": 59192,
+        "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "alt_name": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/148216.jpg",
         "images": {
             "jpg": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1818\/126435.jpg",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1818\/126435t.jpg",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1818\/126435l.jpg"
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/148216.jpg",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/148216t.jpg",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/148216l.jpg"
             },
             "webp": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1818\/126435.webp",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1818\/126435t.webp",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1818\/126435l.webp"
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/148216.webp",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/148216t.webp",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/148216l.webp"
             }
         },
-        "trailer": "JtqIas3bYhg",
-        "description": "Dreams are doomed to die in Night City, a futuristic Californian metropolis. As a teenager living in the city's slums, David Martinez is trying to fulfill his mother's lifelong wish for him to reach the top of Arasaka, the world's leading security corporation. To this end, he attends the prestigious Arasaka Academy while his mother works tirelessly to keep their family afloat.\n\nWhen an incident with a street gang leaves David's life in tatters, he stumbles upon Sandevistan cyberware—a prosthetic that grants its wearer superhuman speed. Fueled by rage, David implants the device in his back, using it to exact revenge on one of his tormentors. This gets him expelled from the academy, shattering his hopes of ever making his mother proud.\n\nAfter witnessing David's newfound abilities, the beautiful data thief Lucyna \"Lucy\" Kushinada offers to team up with him, handing him a ticket to salvation. However, associating with Lucy introduces David to the world of Edgerunners—cyborg criminals who will break any law for money. Edgerunners often lose their lives, if the cyberware does not break their minds first; but in his fight for survival inside a corrupt system, David is ready to risk it all.\n\n[Written by MAL Rewrite]",
-        "language": "English",
-        "type": "ONA",
-        "release_year": "Sep 13, 2022",
+        "trailer": "wPFeBxt7VXI",
+        "description": "Tanjiro Kamado – a boy who joined an organization dedicated to hunting down demons called the Demon Slayer Corps after his younger sister Nezuko was turned into a demon.\n\nWhile growing stronger and deepening his friendships and bonds with fellow corps members, Tanjiro has battled many demons with his comrades – Zenitsu Agatsuma and Inosuke Hashibira. Along the way, his journey has led him to fight alongside the Demon Slayer Corps’ highest-ranking swordsmen, the Hashira, including Flame Hashira Kyojuro Rengoku aboard the Mugen Train, Sound Hashira Tengen Uzui within the Entertainment District, as well as Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji at the Swordsmith Village.\n\nAs the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.\n\nThe destination of where Tanjiro and Demon Slayer Corps have fallen is the demons’ stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.\n\n(Source: Crunchyroll)",
+        "language": "Dual Audio",
+        "type": "Movie",
+        "release_year": "Jul 18, 2025",
         "season": null,
         "tags": [
             "Action",
-            "Sci-Fi",
-            "Gore",
-            "Organized Crime"
+            "Supernatural",
+            "Historical"
         ],
-        "episodes": 10,
-        "duration": "25 min per ep",
+        "episodes": 1,
+        "duration": "2 hr. 35 min",
         "studios": [
-            "Trigger"
+            "ufotable"
         ],
-        "rating": "R+ - Mild Nudity",
-        "hide": true
+        "rating": "R - 17+ (violence & profanity)"
     },
     {
         "movie_id": "206",

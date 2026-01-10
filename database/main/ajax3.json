@@ -842,8 +842,8 @@
     {
         "movie_id": "1024",
         "mal_id": 59192,
-        "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "alt_name": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+        "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle - Sinhala Subbed",
+        "alt_name": "Kimetsu no Yaiba Movie: Mugen Jou-hen - Sinhala Subbed",
         "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/148216.jpg",
         "images": {
             "jpg": {
@@ -859,7 +859,7 @@
         },
         "trailer": "wPFeBxt7VXI",
         "description": "Anime movie trilogy adaptation of the Infinity Castle Arc.",
-        "language": "Dual Audio",
+        "language": "Japanese",
         "type": "Movie",
         "release_year": "Jul 18, 2025",
         "season": null,
@@ -2127,8 +2127,7 @@
         "studios": [
             "Motion Magic"
         ],
-        "rating": "PG-13 - Teens 13 or older",
-        "hide": true
+        "rating": "PG-13 - Teens 13 or older"
     },
     {
         "movie_id": "1059",
@@ -2171,17 +2170,53 @@
         "mal_id": 57658,
         "name": "Jujutsu Kaisen: The Culling Game Part 1",
         "alt_name": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
-        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1127/154488.jpg",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1659/154920.jpg",
         "images": {
             "jpg": {
-                "image_url": "https://cdn.myanimelist.net/images/anime/1127/154488.jpg",
-                "small_image_url": "https://cdn.myanimelist.net/images/anime/1127/154488t.jpg",
-                "large_image_url": "https://cdn.myanimelist.net/images/anime/1127/154488l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1659/154920.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1659/154920t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1659/154920l.jpg"
             },
             "webp": {
-                "image_url": "https://cdn.myanimelist.net/images/anime/1127/154488.webp",
-                "small_image_url": "https://cdn.myanimelist.net/images/anime/1127/154488t.webp",
-                "large_image_url": "https://cdn.myanimelist.net/images/anime/1127/154488l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1659/154920.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1659/154920t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1659/154920l.webp"
+            }
+        },
+        "trailer": "MPfZhgLiK6w",
+        "description": "Sequel to Jujutsu Kaisen 2nd Season.",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Jan 9, 2026",
+        "season": "winter",
+        "tags": [
+            "Action",
+            "Supernatural",
+            "School"
+        ],
+        "episodes": null,
+        "duration": "Unknown",
+        "studios": [
+            "MAPPA"
+        ],
+        "rating": "R - 17+ (violence & profanity)"
+    },
+    {
+        "movie_id": "1061",
+        "mal_id": 57658,
+        "name": "Jujutsu Kaisen: The Culling Game Part 1 - Sinhala Subbed",
+        "alt_name": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen - Sinhala Subbed",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1659/154920.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1659/154920.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1659/154920t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1659/154920l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1659/154920.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1659/154920t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1659/154920l.webp"
             }
         },
         "trailer": "MPfZhgLiK6w",
