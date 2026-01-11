@@ -1836,6 +1836,11 @@
                     "auth": 8,
                     "lan": "si",
                     "url": "jujutsu-kaisen-s3-p1"
+                },
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-s3-p1-lw"
                 }
             ]
         }
