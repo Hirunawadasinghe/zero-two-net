@@ -1862,6 +1862,19 @@
                     "url": "chainsaw-man-s1"
                 }
             ]
+        },
+        {
+            "id": [
+                "1062",
+                "1063"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "chained-soldier-s2"
+                }
+            ]
         }
     ]
 }
