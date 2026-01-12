@@ -223,20 +223,20 @@
         "mal_id": 52807,
         "name": "One-Punch Man Season 3",
         "alt_name": "One Punch Man 3",
-        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1168\/148347.jpg",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1168/148347.jpg",
         "images": {
             "jpg": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1168\/148347.jpg",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1168\/148347t.jpg",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1168\/148347l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1168/148347.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1168/148347t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1168/148347l.jpg"
             },
             "webp": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1168\/148347.webp",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1168\/148347t.webp",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1168\/148347l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1168/148347.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1168/148347t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1168/148347l.webp"
             }
         },
-        "trailer": "uutwYXxAB2c",
+        "trailer": null,
         "description": "The third season of One Punch Man.\n\nSaitama is a hero who only became a hero for fun. After three years of \"special training,\" he’s become so strong that he's practically invincible. In fact, he's too strong—even his mightiest opponents are taken out with a single punch. Alongside Genos, his faithful disciple, Saitama performs his official hero duties as a member of the Hero Association.\n\nOne day, monsters claiming to be from the Monster Association suddenly appeared, taking a child of Hero Association executive hostage. The S-class heroes gather and plan a raid on the Monster Association hideout to rescue the hostage. Meanwhile, Garou, a \"human monster\" who was taken by the Monster Association during a battle with the heroes, awakens in the Monster Association hideout.\n\n(Source: EMOTION Label YouTube Channel Description)\n\nNote: Excludes recap episode that aired a week before regular broadcast.",
         "language": "Japanese",
         "type": "TV",
@@ -249,8 +249,8 @@
             "Parody",
             "Super Power"
         ],
-        "episodes": null,
-        "duration": "Unknown",
+        "episodes": 12,
+        "duration": "24 min per ep",
         "studios": [
             "J.C.Staff"
         ],
@@ -299,20 +299,20 @@
         "mal_id": 60098,
         "name": "My Hero Academia Final Season",
         "alt_name": "Boku no Hero Academia: Final Season",
-        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1959\/151055.jpg",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
         "images": {
             "jpg": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1959\/151055.jpg",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1959\/151055t.jpg",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1959\/151055l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg"
             },
             "webp": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1959\/151055.webp",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1959\/151055t.webp",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1959\/151055l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.webp"
             }
         },
-        "trailer": "wQgQij8Ry4g",
+        "trailer": null,
         "description": "The eighth and final season of Boku no Hero Academia.\n\nDeku and the heroes are plunged into a final battle against villains across Japan. Deku, by fully unleashing One For All Quirks, faces off against Shigaraki. A young and refreshed All For One faces Armored All Might, Quirkless in his powered armor suit. Will Deku be able to bring the story of how they all became the greatest heroes to its finale? Or will everything be destroyed?!\n\n(Source: Crunchyroll)",
         "language": "Japanese",
         "type": "TV",
@@ -323,8 +323,8 @@
             "School",
             "Super Power"
         ],
-        "episodes": null,
-        "duration": "23 min",
+        "episodes": 11,
+        "duration": "23 min per ep",
         "studios": [
             "Bones Film"
         ],
@@ -2236,5 +2236,161 @@
             "MAPPA"
         ],
         "rating": "R - 17+ (violence & profanity)"
+    },
+    {
+        "movie_id": "1062",
+        "mal_id": 58505,
+        "name": "Chained Soldier Season 2",
+        "alt_name": "Mato Seihei no Slave 2",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1668/148737.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1668/148737.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1668/148737t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1668/148737l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1668/148737.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1668/148737t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1668/148737l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Second season of Mato Seihei no Slave.",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Jan 8, 2026",
+        "season": "winter",
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Ecchi",
+            "Harem"
+        ],
+        "episodes": 12,
+        "duration": "23 min per ep",
+        "studios": [
+            "Passione",
+            "Hayabusa Film"
+        ],
+        "rating": "R+ - Mild Nudity"
+    },
+    {
+        "movie_id": "1063",
+        "mal_id": 58505,
+        "name": "Chained Soldier Season 2 - Sinhala Subbed",
+        "alt_name": "Mato Seihei no Slave 2 - Sinhala Subbed",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1668/148737.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1668/148737.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1668/148737t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1668/148737l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1668/148737.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1668/148737t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1668/148737l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Second season of Mato Seihei no Slave.",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Jan 8, 2026",
+        "season": "winter",
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Ecchi",
+            "Harem"
+        ],
+        "episodes": 12,
+        "duration": "23 min per ep",
+        "studios": [
+            "Passione",
+            "Hayabusa Film"
+        ],
+        "rating": "R+ - Mild Nudity"
+    },
+    {
+        "movie_id": "1064",
+        "mal_id": 55825,
+        "name": "Hell's Paradise Season 2",
+        "alt_name": "Jigokuraku 2nd Season",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1772/154456.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1772/154456.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1772/154456t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1772/154456l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1772/154456.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1772/154456t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1772/154456l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Second season of Jigokuraku.",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Jan 11, 2026",
+        "season": "winter",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Supernatural",
+            "Gore",
+            "Historical",
+            "Samurai"
+        ],
+        "episodes": null,
+        "duration": "24 min",
+        "studios": [
+            "MAPPA"
+        ],
+        "rating": "R - 17+ (violence & profanity)",
+        "hide": true
+    },
+    {
+        "movie_id": "1065",
+        "mal_id": 55825,
+        "name": "Hell's Paradise Season 2 - Sinhala Subbed",
+        "alt_name": "Jigokuraku 2nd Season - Sinhala Subbed",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1772/154456.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1772/154456.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1772/154456t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1772/154456l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1772/154456.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1772/154456t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1772/154456l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "Second season of Jigokuraku.",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Jan 11, 2026",
+        "season": "winter",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Supernatural",
+            "Gore",
+            "Historical",
+            "Samurai"
+        ],
+        "episodes": null,
+        "duration": "24 min",
+        "studios": [
+            "MAPPA"
+        ],
+        "rating": "R - 17+ (violence & profanity)",
+        "hide": true
     }
 ]
