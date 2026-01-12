@@ -14,7 +14,9 @@
         "12": "නවෝදනී තිළිණි",
         "13": "කවීෂ කල්‍යාණ",
         "14": "හිරු ප්‍රභා පෙරේරා",
-        "15": "DML ගංගානාත්"
+        "15": "DML ගංගානාත්",
+        "16": "අශේන් ගගනක",
+        "17": "පවිත් විජේසූරිය"
     },
     "iso_codes": {
         "en": "English",
@@ -1381,6 +1383,11 @@
                     "url": "chainsaw-man-the-movie-reze-arc"
                 },
                 {
+                    "auth": 16,
+                    "lan": "si",
+                    "url": "chainsaw-man-the-movie-reze-arc-2"
+                },
+                {
                     "auth": 1,
                     "lan": "en",
                     "url": "chainsaw-man-the-movie-reze-arc"
@@ -1841,6 +1848,18 @@
                     "auth": 4,
                     "lan": "si",
                     "url": "jujutsu-kaisen-s3-p1-lw"
+                }
+            ]
+        },
+        {
+            "id": [
+                "231"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "chainsaw-man-s1"
                 }
             ]
         }
