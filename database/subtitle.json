@@ -1875,6 +1875,18 @@
                     "url": "chained-soldier-s2"
                 }
             ]
+        },
+        {
+            "id": [
+                "1064"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "hells-paradise-s2"
+                }
+            ]
         }
     ]
 }
