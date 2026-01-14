@@ -1887,6 +1887,30 @@
                     "url": "hells-paradise-s2"
                 }
             ]
+        },
+        {
+            "id": [
+                "232"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "the-future-diary"
+                }
+            ]
+        },
+        {
+            "id": [
+                "843"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "the-future-diary-redial"
+                }
+            ]
         }
     ]
 }
