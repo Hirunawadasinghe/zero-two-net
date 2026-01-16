@@ -11732,7 +11732,7 @@
         },
         "trailer": "aMJpI_fEsA4",
         "description": "Kousei Arima is a child prodigy known as the \"Human Metronome\" for playing the piano with precision and perfection. Guided by a strict mother and rigorous training, Kousei dominates every competition he enters, earning the admiration of his musical peers and praise from audiences. When his mother suddenly passes away, the subsequent trauma makes him unable to hear the sound of a piano, and he never takes the stage thereafter.\n\nNowadays, Kousei lives a quiet and unassuming life as a junior high school student alongside his friends Tsubaki Sawabe and Ryouta Watari. While struggling to get over his mother's death, he continues to cling to music. His monochrome life turns upside down the day he encounters the eccentric violinist Kaori Miyazono, who thrusts him back into the spotlight as her accompanist. Through a little lie, these two young musicians grow closer together as Kaori tries to fill Kousei's world with color.\n\n[Written by MAL Rewrite]",
-        "language": "Japanese",
+        "language": "Dual Audio",
         "type": "TV",
         "release_year": "Oct 10, 2014",
         "season": "fall",
@@ -11748,47 +11748,46 @@
         "studios": [
             "A-1 Pictures"
         ],
-        "rating": "PG-13 - Teens 13 or older",
-        "hide": true
+        "rating": "PG-13 - Teens 13 or older"
     },
     {
         "movie_id": "312",
-        "mal_id": 23273,
-        "name": "Your Lie in April",
-        "alt_name": "Shigatsu wa Kimi no Uso",
-        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1405\/143284.jpg",
+        "mal_id": 28069,
+        "name": "Your Lie in April: Moments",
+        "alt_name": "Shigatsu wa Kimi no Uso: Moments",
+        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/6/74156.jpg",
         "images": {
             "jpg": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1405\/143284.jpg",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1405\/143284t.jpg",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1405\/143284l.jpg"
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/6/74156.jpg",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/6/74156t.jpg",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/6/74156l.jpg"
             },
             "webp": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1405\/143284.webp",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1405\/143284t.webp",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1405\/143284l.webp"
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/6/74156.webp",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/6/74156t.webp",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/6/74156l.webp"
             }
         },
-        "trailer": "aMJpI_fEsA4",
-        "description": "Kousei Arima is a child prodigy known as the \"Human Metronome\" for playing the piano with precision and perfection. Guided by a strict mother and rigorous training, Kousei dominates every competition he enters, earning the admiration of his musical peers and praise from audiences. When his mother suddenly passes away, the subsequent trauma makes him unable to hear the sound of a piano, and he never takes the stage thereafter.\n\nNowadays, Kousei lives a quiet and unassuming life as a junior high school student alongside his friends Tsubaki Sawabe and Ryouta Watari. While struggling to get over his mother's death, he continues to cling to music. His monochrome life turns upside down the day he encounters the eccentric violinist Kaori Miyazono, who thrusts him back into the spotlight as her accompanist. Through a little lie, these two young musicians grow closer together as Kaori tries to fill Kousei's world with color.\n\n[Written by MAL Rewrite]",
-        "language": "English",
-        "type": "TV",
-        "release_year": "Oct 10, 2014",
-        "season": "fall",
+        "trailer": null,
+        "description": "The rivalry between three piano geniuses in Towa Hall starts with the prodigy Kousei Arima. While his emotive first performance enamors the free-spirited Emi Igawa, Kousei eventually evolves his technique to become exact and precise, finding himself a new follower in the eccentric Takeshi Aiza. Unbeknownst to outsiders, the two other players begin to target Kousei with their respective performances. Emi attempts to convert Kousei back to his old self with her vibrant playing, while Aiza turns his admiration for Kousei into motivation to beat him at his own game.\n\n[Written by MAL Rewrite]",
+        "language": "Dual Audio",
+        "type": "OVA",
+        "release_year": "May 15, 2015",
+        "season": null,
         "tags": [
             "Drama",
             "Romance",
             "Love Polygon",
             "Music",
-            "School"
+            "School",
+            "Performing Arts"
         ],
         "episodes": 22,
-        "duration": "22 min per ep",
+        "duration": "23 min",
         "studios": [
             "A-1 Pictures"
         ],
-        "rating": "PG-13 - Teens 13 or older",
-        "hide": true
+        "rating": "PG-13 - Teens 13 or older"
     },
     {
         "movie_id": "313",
