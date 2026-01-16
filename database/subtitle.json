@@ -16,7 +16,8 @@
         "14": "හිරු ප්‍රභා පෙරේරා",
         "15": "DML ගංගානාත්",
         "16": "අශේන් ගගනක",
-        "17": "පවිත් විජේසූරිය"
+        "17": "පවිත් විජේසූරිය",
+        "18": "කවිදු කල්හාර"
     },
     "iso_codes": {
         "en": "English",
@@ -1878,13 +1879,19 @@
         },
         {
             "id": [
-                "1064"
+                "1064",
+                "1065"
             ],
             "sub": [
                 {
                     "auth": 8,
                     "lan": "si",
                     "url": "hells-paradise-s2"
+                },
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "hells-paradise-s2-lw"
                 }
             ]
         },
@@ -1909,6 +1916,47 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "the-future-diary-redial"
+                }
+            ]
+        },
+        {
+            "id": [
+                "311"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "your-lie-in-april"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "your-lie-in-april"
+                }
+            ]
+        },
+        {
+            "id": [
+                "312"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "your-lie-in-april-moments"
+                }
+            ]
+        },
+        {
+            "id": [
+                "767"
+            ],
+            "sub": [
+                {
+                    "auth": 18,
+                    "lan": "si",
+                    "url": "mashle-magic-and-muscles-s2"
                 }
             ]
         }
