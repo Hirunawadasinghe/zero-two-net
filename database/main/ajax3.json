@@ -2429,48 +2429,45 @@
     },
     {
         "movie_id": "1067",
-        "mal_id": 61316,
-        "name": "Re:ZERO -Starting Life in Another World- Season 4",
-        "alt_name": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
-        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1040/153636.jpg",
+        "mal_id": 59978,
+        "name": "Frieren: Beyond Journey's End Season 2",
+        "alt_name": "Sousou no Frieren 2nd Season",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg",
         "images": {
             "jpg": {
-                "image_url": "https://cdn.myanimelist.net/images/anime/1040/153636.jpg",
-                "small_image_url": "https://cdn.myanimelist.net/images/anime/1040/153636t.jpg",
-                "large_image_url": "https://cdn.myanimelist.net/images/anime/1040/153636l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1921/154528t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1921/154528l.jpg"
             },
             "webp": {
-                "image_url": "https://cdn.myanimelist.net/images/anime/1040/153636.webp",
-                "small_image_url": "https://cdn.myanimelist.net/images/anime/1040/153636t.webp",
-                "large_image_url": "https://cdn.myanimelist.net/images/anime/1040/153636l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1921/154528.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1921/154528t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1921/154528l.webp"
             }
         },
-        "trailer": null,
-        "description": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa)",
+        "trailer": "EOMVXqH9DSg",
+        "description": "Second season of Sousou no Frieren.",
         "language": "Japanese",
         "type": "TV",
-        "release_year": "Apr 2026",
-        "season": "spring",
+        "release_year": "Jan 16, 2026",
+        "season": "winter",
         "tags": [
+            "Adventure",
             "Drama",
-            "Fantasy",
-            "Suspense",
-            "Isekai",
-            "Psychological",
-            "Time Travel"
+            "Fantasy"
         ],
         "episodes": null,
         "duration": "Unknown",
         "studios": [
-            "White Fox"
+            "Madhouse"
         ],
-        "rating": "R - 17+ (violence & profanity)"
+        "rating": "PG-13 - Teens 13 or older"
     },
     {
         "movie_id": "1068",
         "mal_id": 59978,
-        "name": "Frieren: Beyond Journey's End Season 2",
-        "alt_name": "Sousou no Frieren 2nd Season",
+        "name": "Frieren: Beyond Journey's End Season 2 - Sinhala Subbed",
+        "alt_name": "Sousou no Frieren 2nd Season - Sinhala Subbed",
         "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg",
         "images": {
             "jpg": {
@@ -2768,5 +2765,44 @@
             "Motion Magic"
         ],
         "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1076",
+        "mal_id": 61316,
+        "name": "Re:ZERO -Starting Life in Another World- Season 4",
+        "alt_name": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1040/153636.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1040/153636.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1040/153636t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1040/153636l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1040/153636.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1040/153636t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1040/153636l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa)",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Apr 2026",
+        "season": "spring",
+        "tags": [
+            "Drama",
+            "Fantasy",
+            "Suspense",
+            "Isekai",
+            "Psychological",
+            "Time Travel"
+        ],
+        "episodes": null,
+        "duration": "Unknown",
+        "studios": [
+            "White Fox"
+        ],
+        "rating": "R - 17+ (violence & profanity)"
     }
 ]
