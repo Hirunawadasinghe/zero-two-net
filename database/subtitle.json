@@ -1972,6 +1972,19 @@
                     "url": "kaiju-no-8-s1"
                 }
             ]
+        },
+        {
+            "id": [
+                "1067",
+                "1068"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "frieren-beyond-journeys-end-s2"
+                }
+            ]
         }
     ]
 }
