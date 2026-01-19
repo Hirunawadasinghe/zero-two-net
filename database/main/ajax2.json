@@ -11764,7 +11764,7 @@
         "alt_name": "Blue Eye Samurai",
         "thumbnail_image": "https:\/\/i.postimg.cc\/65zxtQhx\/MV5-BZTNl-NDlk-Nj-Ut-Yjg5-ZS00-Y2-M2-LWI4-ODIt-ZThj-OWJl-Mm-Mw-MThi-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
         "images": null,
-        "trailer": null,
+        "trailer": "2rrRToCVm4I",
         "description": "Driven by a dream of revenge against those who made her an outcast in Edo-period Japan, a young warrior cuts a bloody path toward her destiny.",
         "language": "English",
         "type": "TV",
@@ -11777,7 +11777,7 @@
             "Samurai"
         ],
         "episodes": "8",
-        "duration": null,
+        "duration": "45 min per ep",
         "studios": null,
         "rating": null
     },
@@ -15016,7 +15016,7 @@
         },
         "trailer": "DLMF3GxXVYM",
         "description": "It is said that fireworks can calm the souls of the dead. For Tomoya Sugisaki, Aoi Harukawa, and Ryou Kobayashi, fireworks are what allowed them to meet the Summer Ghost. Believed to be the spirit of a young woman who committed suicide, the Summer Ghost only appears in a specific area and can only be seen by those who are within arm's reach of death. \n\nTomoya is a creative soul being crushed by his academic obligation to get into a good university. Aoi is a meek girl who is relentlessly bullied by her classmates. Ryou is a former basketball star who had to forfeit his passion following a grim diagnosis. The only thing these three have in common is their ability to see the Summer Ghost. The Summer Ghost is said to be able to answer any and all questions pertaining to death—something the three teenagers desperately want to know more about.\n\nDissatisfied with their initial meeting, Tomoya sets out to find the Summer Ghost once again. But the more time he spends with the ghost, the more the mystery surrounding her existence unravels.\n\n[Written by MAL Rewrite]",
-        "language": "Japanese",
+        "language": "Dual Audio",
         "type": "Movie",
         "release_year": "Nov 12, 2021",
         "season": null,
@@ -15064,7 +15064,8 @@
         "studios": [
             "Flat Studio"
         ],
-        "rating": "PG-13 - Teens 13 or older"
+        "rating": "PG-13 - Teens 13 or older",
+        "hide": true
     },
     {
         "movie_id": "935",
