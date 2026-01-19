@@ -315,18 +315,6 @@
         },
         {
             "id": [
-                "181"
-            ],
-            "sub": [
-                {
-                    "auth": 4,
-                    "lan": "si",
-                    "url": "jujustu-kaisen-0"
-                }
-            ]
-        },
-        {
-            "id": [
                 "63"
             ],
             "sub": [
@@ -1958,6 +1946,11 @@
                     "auth": 18,
                     "lan": "si",
                     "url": "mashle-magic-and-muscles-s2"
+                },
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "mashle-magic-and-muscles-s2-2"
                 }
             ]
         },
@@ -1983,6 +1976,64 @@
                     "auth": 8,
                     "lan": "si",
                     "url": "frieren-beyond-journeys-end-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1077"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "jin-roh-the-wolf-brigade"
+                }
+            ]
+        },
+        {
+            "id": [
+                "181"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-0"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "jujutsu-kaisen-0"
+                }
+            ]
+        },
+        {
+            "id": [
+                "933"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "summer-ghost"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "summer-ghost"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1078"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "colorful-the-motion-picture"
                 }
             ]
         }
