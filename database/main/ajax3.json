@@ -437,20 +437,20 @@
     },
     {
         "movie_id": "1013",
-        "mal_id": 62828,
+        "mal_id": 62392,
         "name": "Jujutsu Kaisen: Execution",
-        "alt_name": "Gekijô-ban Jujutsu Kaisen Shibuya Jihen Tokubetsu Henshû-ban × Shimetsu Kaiyû Senkô Jôei",
-        "thumbnail_image": "https:\/\/cdn.myanimelist.net\/images\/anime\/1779\/152752.jpg",
+        "alt_name": "Jujutsu Kaisen Movie: Shibuya Jihen Tokubetsu Henshuu-ban x Shimetsu Kaiyuu Senkou Jouei",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1438/154138.jpg",
         "images": {
             "jpg": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1779\/152752.jpg",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1779\/152752t.jpg",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1779\/152752l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1438/154138.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1438/154138t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1438/154138l.jpg"
             },
             "webp": {
-                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1779\/152752.webp",
-                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1779\/152752t.webp",
-                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1779\/152752l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1438/154138.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1438/154138t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1438/154138l.webp"
             }
         },
         "trailer": "fgvoLo52aac",
@@ -466,10 +466,9 @@
             "School"
         ],
         "episodes": 1,
-        "duration": "1 hr 30 min",
+        "duration": "1 hr 28 min",
         "studios": [
-            "MAPPA",
-            "CoMix Wave Films"
+            "MAPPA"
         ],
         "rating": "R - 17+ (violence & profanity)"
     },
@@ -869,7 +868,7 @@
             "Historical"
         ],
         "episodes": 1,
-        "duration": "2 hr. 35 min",
+        "duration": "2 hr 35 min",
         "studios": [
             "ufotable"
         ],
@@ -2880,6 +2879,33 @@
         "studios": [
             "Sunrise",
             "Ascension"
+        ],
+        "rating": "PG-13 - Teens 13 or older"
+    },
+    {
+        "movie_id": "1079",
+        "mal_id": null,
+        "name": "ReLIFE",
+        "alt_name": "Riraifu (Movie)",
+        "thumbnail_image": "https://i.ibb.co/Xf8HpMc9/1079.jpg",
+        "images": null,
+        "trailer": "wqeNpvWIdDw",
+        "description": "Arata Kaizaki (Taishi Nakagawa) is 27-years-old and unemployed. He quit his prior job after working for the company for 3 months. Arata Kaizaki decides to take part in a research program \"ReLIFE.\" He takes medication that makes him look 10 years younger and he is to attend high school for a year. There, he falls in love with female high school student Chizuru Hishiro\n\n(Yuna Taira)",
+        "language": "Japanese",
+        "type": "Movie",
+        "release_year": "Apr 15, 2017",
+        "season": null,
+        "tags": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "episodes": 1,
+        "duration": "2 hr",
+        "studios": [
+            "C&I Entertainment",
+            "Culture Entertainment",
+            "Dentsu"
         ],
         "rating": "PG-13 - Teens 13 or older"
     }
