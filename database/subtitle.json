@@ -45,8 +45,7 @@
         },
         {
             "id": [
-                "418",
-                "419"
+                "418"
             ],
             "sub": [
                 {
@@ -1886,30 +1885,6 @@
         },
         {
             "id": [
-                "232"
-            ],
-            "sub": [
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "the-future-diary"
-                }
-            ]
-        },
-        {
-            "id": [
-                "843"
-            ],
-            "sub": [
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "the-future-diary-redial"
-                }
-            ]
-        },
-        {
-            "id": [
                 "311"
             ],
             "sub": [
@@ -2046,6 +2021,35 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "relife-movie"
+                }
+            ]
+        },
+        {
+            "id": [
+                "232"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "the-future-diary"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "the-future-diary"
+                }
+            ]
+        },
+        {
+            "id": [
+                "843"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "the-future-diary-redial"
                 }
             ]
         }
