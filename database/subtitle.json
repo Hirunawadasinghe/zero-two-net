@@ -894,18 +894,6 @@
         },
         {
             "id": [
-                "998"
-            ],
-            "sub": [
-                {
-                    "auth": 3,
-                    "lan": "si",
-                    "url": "suzume"
-                }
-            ]
-        },
-        {
-            "id": [
                 "171",
                 "172"
             ],
@@ -2051,6 +2039,35 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "the-future-diary-redial"
+                }
+            ]
+        },
+        {
+            "id": [
+                "12"
+            ],
+            "sub": [
+                {
+                    "auth": 13,
+                    "lan": "si",
+                    "url": "darling-in-the-franxx"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "darling-in-the-franxx"
+                }
+            ]
+        },
+        {
+            "id": [
+                "998"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "suzume"
                 }
             ]
         }
