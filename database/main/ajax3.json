@@ -2987,5 +2987,42 @@
         ],
         "rating": "PG-13 - Teens 13 or older",
         "subtitle": "soft"
+    },
+    {
+        "movie_id": "1080",
+        "mal_id": 60058,
+        "name": "[Oshi No Ko] Season 3 - Sinhala Subbed",
+        "alt_name": "[Oshi no Ko] 3rd Season - Sinhala Subbed",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg",
+        "images": {
+            "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1979/153329t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg"
+            },
+            "webp": {
+                "image_url": "https://cdn.myanimelist.net/images/anime/1979/153329.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1979/153329t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1979/153329l.webp"
+            }
+        },
+        "trailer": null,
+        "description": "The story moves on to a new stage──half a year has passed since the release of \"POP IN 2.\" Thanks to Mem-cho's hard work, B-Komachi are on the verge of their big break. Aqua continues to grow as a personality, while Akane advances on her path to becoming a skilled actress. Meanwhile, Kana has lost her usual cheerfulness.\n\nFinally, in her quest to uncover the truth behind Ai and Gorou's deaths, Ruby rises through the entertainment industry—using lies as her weapon.\n\n(Source: Press Release, edited)",
+        "language": "Japanese",
+        "type": "TV",
+        "release_year": "Jan 14, 2026",
+        "season": "winter",
+        "tags": [
+            "Drama",
+            "Reincarnation",
+            "Showbiz"
+        ],
+        "episodes": null,
+        "duration": "Unknown",
+        "studios": [
+            "Doga Kobo"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "subtitle": "hard"
     }
 ]
