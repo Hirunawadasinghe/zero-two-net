@@ -1956,6 +1956,35 @@
         },
         {
             "id": [
+                "998"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "suzume"
+                }
+            ]
+        },
+        {
+            "id": [
+                "12"
+            ],
+            "sub": [
+                {
+                    "auth": 13,
+                    "lan": "si",
+                    "url": "darling-in-the-franxx"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "darling-in-the-franxx"
+                }
+            ]
+        },
+        {
+            "id": [
                 "181"
             ],
             "sub": [
@@ -1968,18 +1997,6 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "jujutsu-kaisen-0"
-                }
-            ]
-        },
-        {
-            "id": [
-                "998"
-            ],
-            "sub": [
-                {
-                    "auth": 17,
-                    "lan": "si",
-                    "url": "suzume"
                 }
             ]
         },
@@ -2056,24 +2073,8 @@
         },
         {
             "id": [
-                "12"
-            ],
-            "sub": [
-                {
-                    "auth": 13,
-                    "lan": "si",
-                    "url": "darling-in-the-franxx"
-                },
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "darling-in-the-franxx"
-                }
-            ]
-        },
-        {
-            "id": [
-                "1066"
+                "1066",
+                "1080"
             ],
             "sub": [
                 {
