@@ -45,23 +45,6 @@
         },
         {
             "id": [
-                "418"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "naruto"
-                },
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "naruto"
-                }
-            ]
-        },
-        {
-            "id": [
                 "54",
                 "671"
             ],
@@ -2081,6 +2064,28 @@
                     "auth": 8,
                     "lan": "si",
                     "url": "oshi-no-ko-s3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "418"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "naruto-2"
+                },
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "naruto"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "naruto"
                 }
             ]
         }
