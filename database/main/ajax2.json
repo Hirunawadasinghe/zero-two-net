@@ -15987,40 +15987,47 @@
     },
     {
         "movie_id": "949",
-        "mal_id": 52034,
-        "name": "My Star",
-        "alt_name": "[Oshi no Ko]",
-        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg",
+        "mal_id": 62405,
+        "name": "Tatsuki Fujimoto 17-26",
+        "alt_name": "Fujimoto Tatsuki 17-26",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1864/151837.jpg",
         "images": {
             "jpg": {
-                "image_url": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg",
-                "small_image_url": "https://cdn.myanimelist.net/images/anime/1812/134736t.jpg",
-                "large_image_url": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1864/151837.jpg",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/151837t.jpg",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/151837l.jpg"
             },
             "webp": {
-                "image_url": "https://cdn.myanimelist.net/images/anime/1812/134736.webp",
-                "small_image_url": "https://cdn.myanimelist.net/images/anime/1812/134736t.webp",
-                "large_image_url": "https://cdn.myanimelist.net/images/anime/1812/134736l.webp"
+                "image_url": "https://cdn.myanimelist.net/images/anime/1864/151837.webp",
+                "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/151837t.webp",
+                "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/151837l.webp"
             }
         },
-        "trailer": "1yXa8MAmocQ",
-        "description": "In the entertainment world, celebrities often show exaggerated versions of themselves to the public, concealing their true thoughts and struggles beneath elaborate lies. Fans buy into these fabrications, showering their idols with undying love and support, until something breaks the illusion. Sixteen-year-old rising star Ai Hoshino of pop idol group B Komachi has the world captivated; however, when she announces a hiatus due to health concerns, the news causes many to become worried.\n\nAs a huge fan of Ai, gynecologist Gorou Amemiya cheers her on from his countryside medical practice, wishing he could meet her in person one day. His wish comes true when Ai shows up at his hospital—not sick, but pregnant with twins! While the doctor promises Ai to safely deliver her children, he wonders if this encounter with the idol will forever change the nature of his relationship with her.\n\n[Written by MAL Rewrite]",
-        "language": "Japanese",
-        "type": "TV",
-        "release_year": "Apr 12, 2023",
-        "season": "spring",
+        "trailer": null,
+        "description": "1. Niwa ni wa Niwa Niwatori ga Ita. (A Couple Clucking Chickens Were Still Kickin' in the Schoolyard)\n2. Sasaki-kun ga Juudan Tometa (Sasaki Stopped a Bullet)\n3. Koi wa Moumoku (Love Is Blind)\n4. Shikaku\n5. Ningyo Rhapsody (Mermaid Rhapsody)\n6. Me ga Sametara Onnanoko ni Natteita Yamai (Woke-Up-as-a-Girl Syndrome)\n7. Yogen no Nayuta (Nayuta of the Prophecy)\n8. Imouto no Ane (Sisters)",
+        "language": "Dual Audio",
+        "type": "ONA",
+        "release_year": "Nov 8, 2025",
+        "season": null,
         "tags": [
-            "Award Winning",
+            "Action",
+            "Comedy",
             "Drama",
-            "Reincarnation",
-            "Showbiz"
+            "Romance",
+            "Supernatural",
+            "School"
         ],
-        "episodes": 11,
-        "duration": "30 min per ep",
+        "episodes": 8,
+        "duration": "17 min per ep",
         "studios": [
-            "Doga Kobo"
+            "P.A. Works",
+            "Zexcs",
+            "Lapin Track",
+            "Studio Kafka",
+            "100studio",
+            "Studio Graph77"
         ],
-        "rating": "PG-13 - Teens 13 or older",
+        "rating": "R+ - Mild Nudity",
         "subtitle": "soft"
     },
     {
