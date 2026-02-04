@@ -1082,18 +1082,6 @@
         },
         {
             "id": [
-                "13"
-            ],
-            "sub": [
-                {
-                    "auth": 2,
-                    "lan": "si",
-                    "url": "bleach"
-                }
-            ]
-        },
-        {
-            "id": [
                 "1007"
             ],
             "sub": [
@@ -2098,6 +2086,35 @@
                     "auth": 4,
                     "lan": "si",
                     "url": "tatsuki-fujimoto-17-26"
+                }
+            ]
+        },
+        {
+            "id": [
+                "13"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "bleach"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "bleach"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1081"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "dark-moon-the-blood-altar"
                 }
             ]
         }
