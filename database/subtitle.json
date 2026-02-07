@@ -18,7 +18,10 @@
         "16": "අශේන් ගගනක",
         "17": "පවිත් විජේසූරිය",
         "18": "කවිදු කල්හාර",
-        "19": "සනුප රන්මෙත්"
+        "19": "සනුප රන්මෙත්",
+        "20": "නිශාන් සමීර",
+        "21": "තිසුර සංජන",
+        "22": "සජීඩ් උස්මාන්"
     },
     "iso_codes": {
         "en": "English",
@@ -2086,6 +2089,11 @@
                     "auth": 4,
                     "lan": "si",
                     "url": "tatsuki-fujimoto-17-26"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "tatsuki-fujimoto-17-26"
                 }
             ]
         },
@@ -2115,6 +2123,57 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "dark-moon-the-blood-altar"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1082"
+            ],
+            "sub": [
+                {
+                    "auth": 20,
+                    "lan": "si",
+                    "url": "vampire-hunter-d-bloodlust"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "vampire-hunter-d-bloodlust"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1083"
+            ],
+            "sub": [
+                {
+                    "auth": 21,
+                    "lan": "si",
+                    "url": "love-through-a-prism"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "love-through-a-prism"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1084"
+            ],
+            "sub": [
+                {
+                    "auth": 22,
+                    "lan": "si",
+                    "url": "kpop-demon-hunters"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "kpop-demon-hunters"
                 }
             ]
         }
