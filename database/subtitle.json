@@ -524,13 +524,17 @@
         },
         {
             "id": [
-                "34",
-                "64"
+                "34"
             ],
             "sub": [
                 {
-                    "auth": 3,
+                    "auth": 12,
                     "lan": "si",
+                    "url": "a-silent-voice"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
                     "url": "a-silent-voice"
                 }
             ]
