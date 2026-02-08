@@ -287,8 +287,7 @@
         },
         {
             "id": [
-                "179",
-                "180"
+                "179"
             ],
             "sub": [
                 {
@@ -2178,6 +2177,23 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "kpop-demon-hunters"
+                }
+            ]
+        },
+        {
+            "id": [
+                "180"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "over-the-sky"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "over-the-sky"
                 }
             ]
         }
