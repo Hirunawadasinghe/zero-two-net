@@ -2191,12 +2191,12 @@
             ],
             "sub": [
                 {
-                    "auth": 1,
-                    "lan": "en",
+                    "auth": 6,
+                    "lan": "si",
                     "url": "dark-moon-the-blood-altar"
                 },
                 {
-                    "auth": 6,
+                    "auth": 1,
                     "lan": "en",
                     "url": "dark-moon-the-blood-altar"
                 }
