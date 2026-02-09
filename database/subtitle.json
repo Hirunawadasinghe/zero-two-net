@@ -2119,18 +2119,6 @@
         },
         {
             "id": [
-                "1081"
-            ],
-            "sub": [
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "dark-moon-the-blood-altar"
-                }
-            ]
-        },
-        {
-            "id": [
                 "1082"
             ],
             "sub": [
@@ -2194,6 +2182,23 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "over-the-sky"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1081"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "dark-moon-the-blood-altar"
+                },
+                {
+                    "auth": 6,
+                    "lan": "en",
+                    "url": "dark-moon-the-blood-altar"
                 }
             ]
         }
