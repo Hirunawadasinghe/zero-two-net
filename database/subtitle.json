@@ -21,7 +21,12 @@
         "19": "සනුප රන්මෙත්",
         "20": "නිශාන් සමීර",
         "21": "තිසුර සංජන",
-        "22": "සජීඩ් උස්මාන්"
+        "22": "සජීඩ් උස්මාන්",
+        "23": "හෙළිලි හේමමාලි",
+        "24": "SinhaSub",
+        "25": "කළණ ලියන ආරච්චි",
+        "26": "නවෝද්‍ය සුභාෂිත",
+        "27": "ගයාන් චතුරංග"
     },
     "iso_codes": {
         "en": "English",
@@ -132,8 +137,7 @@
         },
         {
             "id": [
-                "16",
-                "65"
+                "16"
             ],
             "sub": [
                 {
@@ -2008,18 +2012,6 @@
         },
         {
             "id": [
-                "1079"
-            ],
-            "sub": [
-                {
-                    "auth": 1,
-                    "lan": "en",
-                    "url": "relife-movie"
-                }
-            ]
-        },
-        {
-            "id": [
                 "232",
                 "419"
             ],
@@ -2199,6 +2191,168 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "dark-moon-the-blood-altar"
+                }
+            ]
+        },
+        {
+            "id": [
+                "14",
+                "15"
+            ],
+            "sub": [
+                {
+                    "auth": 23,
+                    "lan": "si",
+                    "url": "your-name"
+                },
+                {
+                    "auth": 24,
+                    "lan": "si",
+                    "url": "your-name-2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "your-name"
+                }
+            ]
+        },
+        {
+            "id": [
+                "340"
+            ],
+            "sub": [
+                {
+                    "auth": 25,
+                    "lan": "si",
+                    "url": "fatestay-night-heavens-feel-i"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "fatestay-night-heavens-feel-i"
+                }
+            ]
+        },
+        {
+            "id": [
+                "344"
+            ],
+            "sub": [
+                {
+                    "auth": 25,
+                    "lan": "si",
+                    "url": "fatestay-night-heavens-feel-ii"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "fatestay-night-heavens-feel-ii"
+                }
+            ]
+        },
+        {
+            "id": [
+                "350"
+            ],
+            "sub": [
+                {
+                    "auth": 25,
+                    "lan": "si",
+                    "url": "fatestay-night-heavens-feel-iii"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "fatestay-night-heavens-feel-iii"
+                }
+            ]
+        },
+        {
+            "id": [
+                "517"
+            ],
+            "sub": [
+                {
+                    "auth": 25,
+                    "lan": "si",
+                    "url": "black-clover-sword-of-the-wizard-king"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "black-clover-sword-of-the-wizard-king"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1005",
+                "1006"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "words-bubble-up-like-soda-pop"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "words-bubble-up-like-soda-pop"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1079"
+            ],
+            "sub": [
+                {
+                    "auth": 26,
+                    "lan": "si",
+                    "url": "relife-movie"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "relife-movie"
+                }
+            ]
+        },
+        {
+            "id": [
+                "64",
+                "65"
+            ],
+            "sub": [
+                {
+                    "auth": 27,
+                    "lan": "si",
+                    "url": "stand-by-me-doraemon"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "stand-by-me-doraemon"
+                }
+            ]
+        },
+        {
+            "id": [
+                "121",
+                "122"
+            ],
+            "sub": [
+                {
+                    "auth": 27,
+                    "lan": "si",
+                    "url": "stand-by-me-doraemon-2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "stand-by-me-doraemon-2"
                 }
             ]
         }
