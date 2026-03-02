@@ -1,0 +1,78 @@
+.top-sect {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.top-sect li {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 1rem 0;
+}
+
+.top-sect li.ul {
+    border-bottom: 1px solid rgba(255, 255, 255, .05);
+}
+
+.top-sect li .img-c {
+    width: 60px;
+    flex-shrink: 0;
+    padding-bottom: 76px;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+}
+
+.top-sect li .img-c img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.top-sect li .info {
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.top-sect li .title {
+    color: white;
+    font-size: .85rem;
+    line-height: 1.5;
+    font-weight: 500;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin: 0 0 .4rem 0;
+}
+
+.top-sect li .title a {
+    color: white;
+}
+
+.top-sect li .title a:hover {
+    color: var(--light-blue-color);
+}
+
+.top-sect li .inf {
+    display: flex;
+    gap: .4rem;
+    align-items: center;
+    font-size: 13px;
+    color: #aaa;
+}
+
+.top-sect li .inf i {
+    width: 4px;
+    height: 4px;
+    background-color: #aaa;
+    border-radius: 100%;
+}

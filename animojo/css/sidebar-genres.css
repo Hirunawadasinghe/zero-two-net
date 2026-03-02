@@ -1,0 +1,57 @@
+.rp-genre-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(5em, 1fr));
+    gap: .3em;
+    margin: 0 0 1em 0;
+    padding: 0;
+    list-style: none;
+    max-height: 23.1em;
+    overflow: hidden;
+}
+
+.rp-genre-list a:nth-child(n) {
+    color: hsl(calc(45 * var(--i)), 70%, 70%);
+}
+
+.rp-genre-list a {
+    font-weight: 500;
+    font-size: .875rem;
+    padding: .6rem .5rem;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    border-radius: 3px;
+}
+
+.rp-genre-list a:hover {
+    background-color: rgba(255, 255, 255, .1);
+}
+
+@media (max-width:46em) {
+    .rp-genre-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: .5em;
+    }
+
+    .rp-genre-list a {
+        background-color: rgba(255, 255, 255, .1);
+        padding: .5em .7em;
+    }
+}
+
+.rp-genre-btn {
+    border: none;
+    color: white;
+    font-size: .9rem;
+    font-weight: 600;
+    background-color: rgba(255, 255, 255, .1);
+    width: 100%;
+    border-radius: 6px;
+    padding: .8rem 0;
+    cursor: pointer;
+}
+
+.rp-genre-btn:hover {
+    background-color: rgba(255, 255, 255, .15);
+}

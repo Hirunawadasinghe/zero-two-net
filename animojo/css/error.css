@@ -1,0 +1,51 @@
+.err-w {
+    height: 100dvh;
+    display: grid;
+    align-items: center;
+}
+
+.err-c {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 18rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.err-c img {
+    width: 80%;
+    margin: 0 auto 1rem auto;
+}
+
+.err-c h1 {
+    margin: 0;
+    font-weight: 400;
+    text-align: center;
+}
+
+.err-c p {
+    color: hsl(0, 0%, 90%);
+    font-weight: 300;
+    font-size: .9rem;
+    text-align: center;
+    margin: 0 0 1.5rem 0;
+}
+
+.err-c a {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    color: white;
+    font-weight: 500;
+    font-size: .93rem;
+    text-wrap: nowrap;
+    padding: .55rem 1.5rem;
+    background-color: var(--light-blue-color);
+    border-radius: 100px;
+    gap: .3rem;
+    margin: 0 1.5rem;
+}
+
+.err-c a i {
+    font-size: .8rem;
+}

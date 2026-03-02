@@ -1,0 +1,77 @@
+.header-c {
+    width: 100%;
+    padding: 1.2rem 0;
+    display: flex;
+    justify-content: center;
+    background-color: var(--transparent-dark-blue-color);
+}
+
+.header-c a {
+    display: flex;
+}
+
+.header-c img {
+    height: 2.15rem;
+}
+
+.content-w {
+    padding: 5rem 0;
+    display: flex;
+    justify-content: center;
+}
+
+.content-c {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.main-title {
+    font-weight: 600;
+    color: white;
+    text-align: center;
+}
+
+.download-btn {
+    padding: 1.3rem 1rem;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='50' viewBox='0 0 180 50' xml:space='preserve'%3E%3Cpath d='M0 0h180v50H0V0z' fill='%238270fe'/%3E%3ClinearGradient id='a' gradientUnits='userSpaceOnUse' x1='80.266' y1='34.363' x2='79.766' y2='35.401' gradientTransform='matrix(180 0 0 -50 -14320 1765)'%3E%3Cstop offset='0' stop-color='%235433fd'/%3E%3Cstop offset='.5' stop-color='%232d9aff'/%3E%3Cstop offset='1' stop-color='%2335d6dd'/%3E%3C/linearGradient%3E%3Cpath d='M0 0h180v50H0V0z' fill='url(%23a)'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .85rem;
+    cursor: pointer;
+    min-width: 18rem;
+    max-width: 85%;
+    transition: filter .1s ease-in-out;
+}
+
+.download-btn:hover {
+    filter: brightness(1.06);
+}
+
+.download-btn img {
+    width: 1rem;
+    filter: brightness(2);
+}
+
+.download-btn .bi {
+    font-size: 1.15em;
+    font-weight: 600;
+}
+
+.download-btn .i1 {
+    color: white;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 75%;
+}
+
+.download-btn .i2 {
+    color: hsl(0, 0%, 85%);
+}
