@@ -1,4 +1,5 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://animojo.free.nf/sitemaps/sitemap.php
+
+Sitemap: https://animojo.win/sitemaps/sitemap.php
