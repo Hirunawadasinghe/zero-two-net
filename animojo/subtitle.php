@@ -12,7 +12,7 @@ include '_inc/encrypt.php';
 $db = [];
 $sub_entry = get_subtitle($movie_id);
 if ($sub_entry && $sub_entry['id'] === $movie_id)
-    $db = get_db_net_cache('subtitle', $movie_id, $db_net_path . '/subtitle.php?id=' . $movie_id, 60 * 60); // 1 hours
+    $db = get_db_net_cache('subtitle', $movie_id, $db_net_path . '/subtitle?id=' . $movie_id, 60 * 60); // 1 hours
 
 $sub_data = [];
 foreach ($db as $entry) {
@@ -177,5 +177,6 @@ foreach ($db as $entry) {
 
     <?php include 'layout/footer/def.php' ?>
 </body>
+
 
 </html>
