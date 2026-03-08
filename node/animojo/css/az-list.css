@@ -1,0 +1,82 @@
+.load-l {
+    border-radius: 100px;
+    height: 1.25em;
+    width: 100%;
+    background-color: white;
+    animation: glow 3s infinite ease-in-out alternate;
+}
+
+@keyframes glow {
+
+    0%,
+    100% {
+        background-color: transparent;
+    }
+
+    50% {
+        background-color: rgba(255, 255, 255, .1);
+    }
+}
+
+.header-w {
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, .3);
+    background-color: rgba(255, 255, 255, .05);
+    border-radius: 6px;
+    padding: 0 .75rem;
+    overflow: hidden;
+    transition: border ease .1s;
+}
+
+.header-w i {
+    color: rgba(255, 255, 255, .3);
+    font-size: .9rem;
+    transition: color ease .1s;
+}
+
+.header-w:focus-within {
+    border: 1px solid rgba(255, 255, 255, .5);
+}
+
+.header-w:focus-within i {
+    color: rgba(255, 255, 255, .5);
+}
+
+.header-w input {
+    width: 100%;
+    outline: none;
+    border: none;
+    color: white;
+    background-color: transparent;
+    padding: .65rem 0;
+}
+
+#data-list {
+    display: grid;
+    gap: 1rem;
+}
+
+#data-list div {
+    display: flex;
+    gap: .85rem;
+}
+
+#data-list a {
+    color: white;
+    width: fit-content;
+    font-size: .95rem;
+    transition: color ease .1s;
+}
+
+#data-list a:hover {
+    color: var(--light-blue-color);
+}
+
+.highlight {
+    background-color: var(--light-blue-color);
+    font-weight: 500;
+    color: black;
+}

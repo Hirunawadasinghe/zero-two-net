@@ -1,0 +1,33 @@
+.page-bottom-nav {
+    display: flex;
+    justify-content: center;
+    gap: .5em;
+    margin-top: 2.5rem;
+}
+
+.page-bottom-nav button {
+    height: 100%;
+    color: white;
+    font-size: 1rem;
+    background-color: rgba(255, 255, 255, .055);
+    border-radius: 6px;
+    border: none;
+    padding: .4em .85em;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: background-color .15s ease;
+}
+
+.page-bottom-nav button i {
+    font-size: .9rem;
+}
+
+.page-bottom-nav button:hover {
+    background-color: rgba(255, 255, 255, .1);
+}
+
+.page-bottom-nav button.select {
+    background-color: var(--light-blue-color);
+}

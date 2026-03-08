@@ -1,0 +1,157 @@
+#qtip {
+    width: 17rem;
+    padding: 1rem .9rem;
+    z-index: 10;
+    position: absolute;
+    left: -100%;
+    isolation: isolate;
+    border-radius: 10px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, .05);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    animation: qtip-hide forwards ease-out .2s;
+}
+
+#qtip::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--transparent-dark-blue-color);
+    opacity: .65;
+    filter: brightness(1.5);
+    z-index: -1;
+    border-radius: 10px;
+
+}
+
+#qtip-load {
+    filter: brightness(1.5);
+}
+
+@keyframes qtip-hide {
+    0% {
+        opacity: 1;
+        display: block;
+    }
+
+    100% {
+        opacity: 0;
+        display: none;
+    }
+}
+
+#qtip.visible {
+    animation: qtip-visible forwards ease-out .2s;
+}
+
+#qtip.init {
+    opacity: 0 !important;
+    display: block !important;
+}
+
+@keyframes qtip-visible {
+    0% {
+        opacity: 0;
+        display: none;
+    }
+
+    100% {
+        opacity: 1;
+        display: block;
+    }
+}
+
+.qtip-h {
+    display: flex;
+    gap: .5em;
+    justify-content: space-between;
+}
+
+.qtip-h p {
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+
+.qtip-h span {
+    color: white;
+    font-size: 12px;
+    text-wrap: nowrap;
+    background-color: var(--light-blue-color);
+    border-radius: 3px;
+    padding: .12rem .4rem;
+    height: fit-content;
+}
+
+.qtip-des {
+    color: hsl(0, 0%, 85%);
+    font-size: .8rem;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    margin: .85em 0;
+}
+
+.qtip-info {
+    font-size: .8rem;
+    color: hsl(0, 0%, 85%);
+    display: flex;
+    flex-direction: column;
+    gap: .1em;
+}
+
+.qtip-info div {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: .3em;
+}
+
+.qtip-info .di {
+    color: white;
+    font-weight: 500;
+}
+
+.qtip-info a:hover {
+    color: hsl(0, 0%, 85%);
+}
+
+.qtip-btn-c {
+    display: flex;
+    justify-content: space-between;
+    gap: .5rem;
+    margin-top: 1rem;
+}
+
+.qtip-btn {
+    display: flex;
+    gap: .5rem;
+    align-items: baseline;
+    justify-content: center;
+    padding: .5rem;
+    background-color: var(--light-blue-color);
+    font-size: .9rem;
+    color: white;
+    border-radius: 100px;
+    width: 100%;
+}
+
+.qtip-btn i {
+    font-size: .8rem;
+}
+
+.qtip-btn-c .add {
+    width: 38px;
+    align-items: center;
+    background-color: rgba(255, 255, 255, .25);
+    border: none;
+    cursor: pointer;
+}

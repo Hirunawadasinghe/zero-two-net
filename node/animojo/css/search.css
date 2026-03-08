@@ -1,0 +1,88 @@
+.search-none {
+    padding-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.search-none img {
+    width: 9em;
+}
+
+.search-none h2 {
+    font-weight: 600;
+    margin: .5em 0;
+}
+
+.search-none p {
+    margin: 0;
+    width: 95%;
+    color: hsl(0, 0%, 80%);
+    font-size: .9rem;
+}
+
+.filter-inputs.active {
+    color: white;
+    box-shadow: 0 0 0 1px var(--light-blue-color) inset;
+}
+
+.filter-c {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+    gap: .95rem;
+}
+
+@media (max-width: 70em) {
+    .filter-c {
+        grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr));
+    }
+}
+
+.filter-c input,
+.filter-c select,
+.filter-c button {
+    padding: .6rem 1rem;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    appearance: none;
+    font-size: .8rem;
+    font-weight: 500;
+}
+
+.filter-c input,
+.filter-c select {
+    color: hsl(0, 0%, 80%);
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, .1) inset;
+    background-color: rgba(255, 255, 255, .05);
+}
+
+.filter-c option {
+    background-color: var(--dark-blue-color);
+}
+
+.filter-c select,
+.filter-c button {
+    cursor: pointer;
+}
+
+.filter-c button {
+    color: white;
+    background-color: var(--light-blue-color);
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: .45rem;
+}
+
+.search-text {
+    color: white;
+    font-weight: 600;
+    margin: 1.5rem 0 1rem 0;
+}
+
+.search-text i {
+    color: var(--light-blue-color);
+}
