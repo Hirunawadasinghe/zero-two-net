@@ -86,23 +86,23 @@ echo '<script type="application/ld+json">' . json_encode([
 ?>
 
 <!-- Google tag (gtag.js) -->
-<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-YVBV56JW1F"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YVBV56JW1F"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-YVBV56JW1F');
-</script> -->
+</script>
 
 <!-- Bing tag -->
-<!-- <script>
+<script>
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "tdjwkwdd4k");
-</script> -->
+</script>
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.0/css/all.css">
 <style>
@@ -120,4 +120,5 @@ foreach ($db_net_api_endpoints as $e) {
     }
 } ?>
 <script><?= $update_db ?>function imgError(i) { i.onerror = null; i.src = '/images/assets/no_poster.png'; }</script>
+
 <noscript>You need to enable JavaScript to run this app.</noscript>
