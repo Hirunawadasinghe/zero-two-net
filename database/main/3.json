@@ -3206,5 +3206,32 @@
         ],
         "rating": "PG-13 - Teens 13 or older",
         "subtitle": "hard"
+    },
+    {
+        "movie_id": "1086",
+        "mal_id": null,
+        "name": "One Piece Season 2: Into the Grand Line",
+        "alt_name": "One Piece Season 2: Into the Grand Line",
+        "thumbnail_image": "https://i.ibb.co/5gd6s2nW/1085.jpg",
+        "images": null,
+        "trailer": "S-XxKVxZ2fU",
+        "description": "Luffy and the Straw Hats set sail for the extraordinary Grand Line — a legendary stretch of sea where danger and wonder await at every turn. As they journey through this unpredictable realm in search of the world’s greatest treasure, they’ll encounter bizarre islands and a host of formidable new enemies.\n\n(Source: Tudum Netflix)",
+        "language": "English",
+        "type": "TV",
+        "release_year": "Mar 10, 2026",
+        "season": null,
+        "tags": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "episodes": 8,
+        "duration": "60 min per ep",
+        "studios": [
+            "Netflix"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "subtitle": "soft"
     }
 ]
