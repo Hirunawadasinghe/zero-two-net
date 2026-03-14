@@ -27,7 +27,9 @@
         "25": "කළණ ලියන ආරච්චි",
         "26": "නවෝද්‍ය සුභාෂිත",
         "27": "ගයාන් චතුරංග",
-        "28": "Test User"
+        "28": "Anime Kingdom",
+        "29": "ෂතිර මයෝද්",
+        "30": "OIO.LK"
     },
     "iso_codes": {
         "en": "English",
@@ -346,18 +348,6 @@
                     "auth": 4,
                     "lan": "si",
                     "url": "dandadan-s2-lw"
-                }
-            ]
-        },
-        {
-            "id": [
-                "58"
-            ],
-            "sub": [
-                {
-                    "auth": 4,
-                    "lan": "si",
-                    "url": "86-eighty-six"
                 }
             ]
         },
@@ -1331,8 +1321,8 @@
         },
         {
             "id": [
-                "929",
                 "898",
+                "929",
                 "1033"
             ],
             "sub": [
@@ -1807,6 +1797,11 @@
                     "auth": 4,
                     "lan": "si",
                     "url": "jujutsu-kaisen-s3-p1-lw"
+                },
+                {
+                    "auth": 28,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-s3-p1-ak"
                 }
             ]
         },
@@ -2356,7 +2351,67 @@
                     "url": "stand-by-me-doraemon-2"
                 }
             ]
+        },
+        {
+            "id": [
+                "239"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "hells-paradise-s1"
+                },
+                {
+                    "auth": 28,
+                    "lan": "si",
+                    "url": "hells-paradise-s1-ak"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "hells-paradise-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "58"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "86-eighty-six"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "86-eighty-six"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1086"
+            ],
+            "sub": [
+                {
+                    "auth": 29,
+                    "lan": "si",
+                    "url": "one-piece-season-2-into-the-grand-line"
+                },
+                {
+                    "auth": 30,
+                    "lan": "si",
+                    "url": "one-piece-season-2-into-the-grand-line-2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "one-piece-season-2-into-the-grand-line"
+                }
+            ]
         }
     ]
 }
-
