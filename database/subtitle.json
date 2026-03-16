@@ -29,7 +29,8 @@
         "27": "ගයාන් චතුරංග",
         "28": "Anime Kingdom",
         "29": "ෂතිර මයෝද්",
-        "30": "OIO.LK"
+        "30": "OIO.LK",
+        "31": "කවිඳු කල්හාර​"
     },
     "iso_codes": {
         "en": "English",
@@ -2405,6 +2406,11 @@
                     "auth": 30,
                     "lan": "si",
                     "url": "one-piece-season-2-into-the-grand-line-2"
+                },
+                {
+                    "auth": 31,
+                    "lan": "si",
+                    "url": "one-piece-season-2-into-the-grand-line-3"
                 },
                 {
                     "auth": 1,
