@@ -2418,6 +2418,23 @@
                     "url": "one-piece-season-2-into-the-grand-line"
                 }
             ]
+        },
+        {
+            "id": [
+                "1087"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "one-piece-season-1-live-action"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "one-piece-season-1-live-action"
+                }
+            ]
         }
     ]
 }
