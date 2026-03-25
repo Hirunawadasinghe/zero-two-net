@@ -2435,6 +2435,23 @@
                     "url": "one-piece-season-1-live-action"
                 }
             ]
+        },
+        {
+            "id": [
+                "240"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "lookism"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "lookism"
+                }
+            ]
         }
     ]
 }
