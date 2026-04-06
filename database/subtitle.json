@@ -29,7 +29,8 @@
         "27": "ගයාන් චතුරංග",
         "28": "OIO.LK",
         "29": "ෂතිර මයෝද්",
-        "30": "කවිඳු කල්හාර​"
+        "30": "කවිඳු කල්හාර​",
+        "31": "අතුල සංජීව"
     },
     "iso_codes": {
         "en": "English",
@@ -2471,6 +2472,40 @@
                     "auth": 28,
                     "lan": "si",
                     "url": "black-clover"
+                }
+            ]
+        },
+        {
+            "id": [
+                "31"
+            ],
+            "sub": [
+                {
+                    "auth": 31,
+                    "lan": "si",
+                    "url": "prison-school"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "prison-school"
+                }
+            ]
+        },
+        {
+            "id": [
+                "47"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "prison-school-ova"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "prison-school-ova"
                 }
             ]
         }
