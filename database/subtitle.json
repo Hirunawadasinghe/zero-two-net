@@ -653,6 +653,11 @@
                     "auth": 2,
                     "lan": "si",
                     "url": "lord-of-mysteries"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "lord-of-mysteries"
                 }
             ]
         },
