@@ -30,7 +30,8 @@
         "28": "OIO.LK",
         "29": "ෂතිර මයෝද්",
         "30": "කවිඳු කල්හාර​",
-        "31": "අතුල සංජීව"
+        "31": "අතුල සංජීව",
+        "32": "දිල්හාන් තුල්මින​"
     },
     "iso_codes": {
         "en": "English",
@@ -1968,7 +1969,8 @@
         },
         {
             "id": [
-                "181"
+                "181",
+                "345"
             ],
             "sub": [
                 {
@@ -2204,7 +2206,8 @@
         {
             "id": [
                 "14",
-                "15"
+                "15",
+                "341"
             ],
             "sub": [
                 {
@@ -2506,6 +2509,40 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "prison-school-ova"
+                }
+            ]
+        },
+        {
+            "id": [
+                "72"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "100-meters"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "100-meters"
+                }
+            ]
+        },
+        {
+            "id": [
+                "21"
+            ],
+            "sub": [
+                {
+                    "auth": 32,
+                    "lan": "si",
+                    "url": "konosuba-gods-blessing-on-this-wonderful-world-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "konosuba-gods-blessing-on-this-wonderful-world-s1"
                 }
             ]
         }
