@@ -31,7 +31,8 @@
         "29": "ෂතිර මයෝද්",
         "30": "කවිඳු කල්හාර​",
         "31": "අතුල සංජීව",
-        "32": "දිල්හාන් තුල්මින​"
+        "32": "දිල්හාන් තුල්මින​",
+        "33": "ලසන්ත W.C"
     },
     "iso_codes": {
         "en": "English",
@@ -916,12 +917,11 @@
         },
         {
             "id": [
-                "420",
-                "421"
+                "420"
             ],
             "sub": [
                 {
-                    "auth": 6,
+                    "auth": 2,
                     "lan": "si",
                     "url": "naruto-shippuden"
                 }
@@ -2543,6 +2543,23 @@
                     "auth": 1,
                     "lan": "en",
                     "url": "konosuba-gods-blessing-on-this-wonderful-world-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "351"
+            ],
+            "sub": [
+                {
+                    "auth": 33,
+                    "lan": "si",
+                    "url": "your-lie-in-april-live-action"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "your-lie-in-april-live-action"
                 }
             ]
         }
