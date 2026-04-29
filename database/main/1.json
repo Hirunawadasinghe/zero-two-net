@@ -2772,41 +2772,43 @@
     },
     {
         "movie_id": "73",
-        "mal_id": 34626,
-        "name": "KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!",
-        "alt_name": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
-        "thumbnail_image": "https://myanimelist.net/images/anime/1115/98517.jpg",
+        "mal_id": 15583,
+        "name": "Date A Live",
+        "alt_name": "Date A Live",
+        "thumbnail_image": "https://myanimelist.net/images/anime/13/44844.jpg",
         "images": {
             "jpg": {
-                "image_url": "https://myanimelist.net/images/anime/1115/98517.jpg",
-                "small_image_url": "https://myanimelist.net/images/anime/1115/98517t.jpg",
-                "large_image_url": "https://myanimelist.net/images/anime/1115/98517l.jpg"
+                "image_url": "https://myanimelist.net/images/anime/13/44844.jpg",
+                "small_image_url": "https://myanimelist.net/images/anime/13/44844t.jpg",
+                "large_image_url": "https://myanimelist.net/images/anime/13/44844l.jpg"
             },
             "webp": {
-                "image_url": "https://myanimelist.net/images/anime/1115/98517.webp",
-                "small_image_url": "https://myanimelist.net/images/anime/1115/98517t.webp",
-                "large_image_url": "https://myanimelist.net/images/anime/1115/98517l.webp"
+                "image_url": "https://myanimelist.net/images/anime/13/44844.webp",
+                "small_image_url": "https://myanimelist.net/images/anime/13/44844t.webp",
+                "large_image_url": "https://myanimelist.net/images/anime/13/44844l.webp"
             }
         },
-        "trailer": null,
-        "description": "On one noteworthy day in the Adventurer's Guild, Kazuma Satou encounters someone unexpected—a fan of his named Ran. Surprised that he even has a fan, Kazuma attempts to play it cool to impress her. Unfortunately for him, the guild's receptionist arrives with a request to defeat a giant golem guarding some ancient ruins, and Kazuma accepts only to keep Ran's admiration.\n\nUpon Kazuma and his party's successful return from the ruins, Kazuma continues to shamelessly brag to Ran. Capitalizing on his desperation, the receptionist approaches him with another quest that requires him to return to the same ruins. Hoping to find valuable treasures, Kazuma once again convinces his party to join him—but this time, he may be biting off more than he can chew.\n\n[Written by MAL Rewrite]",
-        "language": "Japanese",
-        "type": "OVA",
-        "release_year": "Jul 24, 2017",
-        "season": null,
+        "trailer": "6GW0wXMt2CQ",
+        "description": "Thirty years ago, the Eurasian continent was devastated by a supermassive \"spatial quake\"—a phenomenon involving space vibrations of unknown origin—resulting in the deaths of over 150 million people. Since then, these quakes have been plaguing the world intermittently, albeit on a lighter scale.\n\nShidou Itsuka is a seemingly average high school student who lives with his younger sister, Kotori. When an imminent spatial quake threatens the safety of Tengu City, he rushes to save her, only to be caught in the resulting eruption. He discovers a mysterious girl at its source, who is revealed to be a \"Spirit,\" an otherworldly entity whose appearance triggers a spatial quake. Soon after, he becomes embroiled in a skirmish between the girl and the Anti-Spirit Team, a ruthless strike force with the goal of annihilating Spirits.\n\nHowever, there is a third party that  believes in saving the spirits: \"Ratatoskr,\" which surprisingly is commanded by Shidou's little sister!  Kotori forcibly recruits Shidou after the clash, presenting to him an alternative method of dealing with the danger posed by the Spirits—make them fall in love with him. Now, the fate of the world rests on his dating prowess, as he seeks out Spirits in order to charm them.\n\n[Written by MAL Rewrite]",
+        "language": "Dual Audio",
+        "type": "TV",
+        "release_year": "Apr 6, 2013",
+        "season": "spring",
         "tags": [
-            "Adventure",
-            "Comedy",
+            "Action",
             "Fantasy",
-            "Isekai",
-            "Parody"
+            "Romance",
+            "Sci-Fi",
+            "Harem",
+            "School",
+            "Urban Fantasy"
         ],
-        "episodes": 1,
-        "duration": "28 min",
+        "episodes": 12,
+        "duration": "25 min per ep",
         "studios": [
-            "Studio Deen"
+            "AIC PLUS+"
         ],
-        "rating": "PG-13 - Teens 13 or older",
+        "rating": "R - 17+ (violence & profanity)",
         "subtitle": "soft"
     },
     {
@@ -13553,7 +13555,8 @@
             "Romance",
             "Love Polygon",
             "Music",
-            "School"
+            "School",
+            "Live Action"
         ],
         "episodes": 1,
         "duration": "2 hr 2 min",
